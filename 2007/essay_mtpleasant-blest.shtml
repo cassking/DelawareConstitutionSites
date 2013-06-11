@@ -1,0 +1,91 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="mtpleasantblest">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Mount Pleasant  High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/blest-paul.jpg">
+         <img src="images/blest-paul.jpg" alt="photo of Paul Blest" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Paul Blest</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Democracy at the Crossroads</span></h2> 
+
+<p>Democracy in America is at a crossroads in history.  While our agenda is to bring a democratic government to various nations in the Middle East, our basic rights at home are being threatened.  The most important factors affecting the strength of our democracy in the 21st century will be our dependence on foreign oil, the protection of our interests at home, and if we are to recognize environmental threats.</p>
+
+<p>While our environmental recognition and awareness level has risen with such documentaries as "An Inconvenient Truth," we still have not signed the Kyoto Protocol or enacted any law to cut emission numbers.  The threat of global warming may be on the back burner to a country mired in a foreign conflict, but to me it should be at the forefront.</p>
+
+<p>Our dependence on foreign oil and our failure to give ourselves an alternate route also threaten our democracy.  Quite simply, if we cannot switch to a more efficient alternative we will be known worldwide as an empire that is concerned only with its own interests and not with interests of the planet.</p>
+
+<p>In actuality, the question may be asked whether we are really protecting our interests?  The cut of public funding in areas like law enforcement and education are not in our interests.  To regain the trust of the American population, we must reaffirm our roots in the American population.</p>
+
+<p>This point in time will judge our ability to recover.  Since 1945 we have been in many different countries militarily but our world standing is in ruins.  If the next president or president after the next cannot fix a nation torn apart by Vietnam and humiliated in Iraq, democracy, as we know it, will only exist in those places where we exported it.</p>
+
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

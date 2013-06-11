@@ -1,0 +1,75 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="homepage">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+      <p><img src="images/thumbs/thumb_const_142x100.jpg" alt="photo of the US Constitution" class="floatRight"/> </p>
+
+	<p>Welcome to the Widener University School of Law online observance of Constitution Day.  Constitution Day is September 17th, the
+	date in 1787 that the Constitution was signed in Philadelphia.  Delaware is proudly known as the "First State" because it was <a href="http://law.widener.edu/constitution/2006/delaware.shtml" title="Delaware's ratification">the first to 
+	ratify the Constitution</a>.</p>
+
+<p>	This website provides a forum for discussing the Constitution's meaning and significance.  It considers topics such as why the Constitution 
+is so important for Americans, what values the Constitution embodies, and what responsibility each of us has to ensure that the Constitution remains
+vibrant and relevant.</p>
+<p><img src="images/thumbs/thumb_star_142x100.jpg" alt="photo of stars of the American flag"  class="floatLeft"/></p>
+<p>	To get started, I asked Delaware government and community leaders to share their thoughts about the Constitution's significance.  
+I invite you to <a href="http://law.widener.edu/constitution/2006/essays.shtml" title="essays">read their responses</a> and then <a href="http://law.widener.edu/constitution/2006/participate.shtml" title="Participate">send in your own comments</a>.  Many of the thoughtful and inspiring submissions are posted.</p>
+
+<p>	I hope this exchange paves the way for an ever more meaningful Constitution Day.  Let us seize this opportunity to deepen our understanding 
+of the Constitution, to reflect upon the ties that bind us together, and to recall the responsibility that each of us has to ensure our democracy's 
+ongoing vitality.</p>
+
+	<p>Alan E. Garfield<br />
+	Constitution Day Project Founder and Coordinator<br />
+	Professor of Law and H. Albert Young Fellow in Constitutional Law<br />
+	Widener University School of Law<br />
+	September 2006</p>
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

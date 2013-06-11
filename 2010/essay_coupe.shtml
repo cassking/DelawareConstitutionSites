@@ -1,0 +1,85 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="turow">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Colonel Robert Coupe </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/NoHeadshotA_200x230.jpg">
+         <img src="images/NoHeadshotA_200x230.jpg" alt="photo of Colonel Robert Coupe  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Colonel Robert Coupe 
+      <br />
+  Colonel Robert Coupe is XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> XXXXXXXXXXXXXXXXXXXXXXXXXXXX </span></h2>
+
+
+
+<p>XXXXXXXXXXXXXXXXXXXXXXXX Thomas Jefferson famously said "Were if left to me to decide whether we should have a government without newspapers or newspapers without a government, I should not hesitate a moment to prefer the latter."   In today's world, Mr. Jefferson might have to face another quandary:  Should he pay for his local newspaper online?	</p>
+		
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

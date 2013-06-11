@@ -1,0 +1,93 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="woodbridgewilley">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Woodbridge High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/willey-eric.jpg">
+         <img src="images/willey-eric.jpg" alt="photo of Eric Willey " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Eric Willey</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The Fulfillment of Civic Duties - Is America Responsible?</span></h2>
+
+<p>Civic duties are those tasks that every American citizen must take upon himself or herself to perform for the benefit of their country. Especially important are the duties of being well informed, voting, and paying taxes. It is through fulfilling civic duties that America remains a democracy, but it is impossible to determine if these civic duties are, as a nation, being fulfilled.</p>
+
+<p>First, voting is obviously one of the most important civil rights. Democracy depends upon voters to vote for candidates for any office (most notably the office of President of the United States). If no one votes, how can the country be run as a democracy? The answer is that it can't, and with the end of voting arises the death of democracy. Also, voting goes hand in hand with another civic duty of Americans: to be well informed. </p>
+
+<p>Voting is, of course, exceedingly important, but voting intelligently and for the best candidate are even more important. Voters have to know the issues and stances of each candidate to decide who would best be able to lead a body of people. Anyone could go into a voting booth and push a button, but that is just as bad as not voting at all. Imagine if voters voted for someone who had no political experience. The country would fare rather poorly, to say the least. Voters have to be informed for democracy to flourish and the country to be run effectively and efficiently.</p>
+
+<p>Voting and doing so with proper knowledge of the candidates are just two of many important 
+duties of the American citizen. Paying taxes is a very 
+important duty. Imagine just one year when no one in America paid his or her taxes. That amount is undeniably a gargantuan sum, and the economy would crash. To add to that, with America being a financial titan in worldwide economics, many other countries would suffer as well. A crashed economy would lead to the disregard of yet another civic duty: to obey the laws enacted by one's government. </p>
+
+<p>A collapsed economy leads to depression (as history has unfortunately showed us), and an entire nation of paupers will only breed violence. With resources drastically cut, fights for food, water, clothing, and shelter would run rampant. Though it sounds dramatic, if you look at it from the perspective of a single family fighting to survive, and multiply that by every family in America, the results could be disastrous. Obeying the law is a civic duty that should be followed to keep America safe and orderly. </p>
+
+<p>Another duty of Americans is to serve in the country's armed forces when called, which, if not followed, could prove disastrous. Should a draft be enacted at some point during the war in Iraq, what would happen if no one went? If the military was at the point where a draft had to occur, and the draft went unanswered, there is a high probability that America would lose whatever war it was in. History has taught us that the loser of a war does not fair well when the winner decides what price will be paid, especially if that winner particularly hates the losing country, such as Germany at the end of World War I.</p>
+
+<p>Finally, as important as the fulfillment of civic duties are, it does make one wonder why at every State of the Union Address or other political update why civic duties are not mentioned. Simply theorized, I believe it is because it is impossible to tell, as a nation, whether or not civic duties are being fulfilled. This is a result of having over three hundred million citizens, all with diverse interests and priorities. It is therefore up to each citizen to respond to his or her civic duties, and hope that others follow suit.</p>
+
+<p>Civic duties enable democracy to survive in America, but it is impossible to say whether these duties are being followed as a nation. From paying taxes to serving in the military, being informed and following laws, Americans must work together to keep the nation running smoothly. It is my greatest hope that the fulfillment of civic duty will increase in the future.</p>
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

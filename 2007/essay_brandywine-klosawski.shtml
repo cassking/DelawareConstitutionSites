@@ -1,0 +1,87 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="brandywineklosawski">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Brandywine High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/klosowski-maciej.jpg">
+         <img src="images/klosowski-maciej.jpg" alt="photo of Maciej Klosowski  " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Maciej Klosowski </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Freedom of Speech</span></h2>
+
+<p>Can you imagine our President throwing anti-war protestors into prison because they didn't believe in what the president believed and criticized the government?  Our public would be appalled by such an act.  The fact that the government can't do that is such an asset to the people of America.  Many countries to this day do those types of things if you don't agree with the government.  That is why I value the freedom of speech as a constitutional right of American citizens.</p>
+
+<p>Before I was born, both of my parents lived in a communist country.  They knew several people from neighboring countries, such as communist Russia, who were thrown into prison or "disappeared" after they criticized their governments.  My father once told me of a story of a man who lived in Russia who went to have several drinks with his friend.  When they became very intoxicated, the Russian man spoke out and criticized the communist ways of the government.  He didn't know that a member of the secret police was there and the next day it was discovered this man was taken away and no one knew where he was taken to.  Situations like this occur time and time again in countries that do not uphold freedom of speech.  When you live in fear of saying what you believe, you aren't really living your life.</p>
+
+<p>When citizens of a nation, such as America, have freedom of speech, good things can come out of that.  Suppose a president is enacting a policy, which most citizens oppose - those citizens can organize protests all over the nation against the policies of the President, which in turn may curb the president's actions.  If they don't, these protests can still influence voters in an upcoming election and that may lead to having a new president that has policies which most of the citizens comply and agree with.  When you have freedom of speech it can make a difference in legislation and government politics.</p>
+
+<p>There is absolutely no doubt in my mind that having freedom of speech is the best and most valuable constitutional rights.  It gives you the freedom to speak your mind to the public without the fear of being persecuted by the government.  I also value freedom of speech because it can impact the government in which you live and control the government from having too much power.</p>
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

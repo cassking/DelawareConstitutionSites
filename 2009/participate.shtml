@@ -1,0 +1,134 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="participate">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+
+<!-- Left column -->
+    <div class="floatLeft width25 lightBlueBg horzPad">
+
+<!--//begin CONTACT INFORMATION include//-->
+<!--#include virtual="/constitution/2009/inc/contact_information.shtml"-->
+<!--//end CONTACT INFORMATION include//-->
+
+    </div>
+    <!-- Left column end -->
+
+
+    <!-- Right column -->
+    <div class="floatRight width73">
+
+      <h1>Contact <span class="dark">Us</span></h1>
+
+      <p>
+      If you would like to comment on an essay you read on this site or to share your own thoughts about the Constitution,  please complete
+      and submit the form below.
+     We read all submissions.
+
+If your submission requires a response please include your full mailing address and telephone number where we can contact you during business hours.
+     </p>
+
+     <p>  As a special treat this year, we will be giving two tickets to The Constitutional Walking Tour of Historic
+Philadelphia to the <strong>first twenty people</strong> to submit substantive comments to the website.  We are grateful to the managers of <em>The Constitutional</em> for generously donating these tickets.  To learn more about the tour, please visit <a href="http://Phillywalk.com">PhillyWalk.com</a>.
+
+      <form id="contact"  method="post" action="http://blogs.law.widener.edu/cgi-bin/bnbform/bnbform.cgi" " style="position: relative; z-index: 1;">
+<br style="clear: both;" />
+       <input type="hidden" name="subject" value="Submitted from Constitution Day Site" />
+  <input type="hidden" name="carboncopy" value="" />
+<p>
+
+              <label>Select Topic</label>
+              <select name="selecttopic">
+                <option value="comment_on_an_essay_on_this_site">I have a comment on an essay on this site</option>
+                <option value="submitting_own_essay">I want to submit my own essay</option>
+                 <option value="other_topic">other topic</option>
+
+              </select>
+
+            </p>
+
+
+        <p>*required
+          <input type="text" name="name" value="Name" class="width75" onfocus="clearValue(this, 'Name');" onblur="fillValue(this, 'Name');"/>
+        </p>
+
+        <p>*required
+          <input type="text" name="email" value="E-mail" class="width75" onfocus="clearValue(this, 'E-mail');" onblur="fillValue(this, 'E-mail');"/>
+        </p>
+
+        <p>
+          <input type="text" name="subject" value="Subject" class="width75" onfocus="clearValue(this, 'Subject');" onblur="fillValue(this, 'Subject');"/>
+        </p>
+
+        <p>
+          <textarea name="message" rows="10" cols="60" onfocus="clearValue(this, 'Message');" onblur="fillValue(this, 'Message');">Message</textarea>
+        </p>
+
+
+ <p>
+          <input type="submit" value="SEND" class="button" />
+          <input type="reset" value="RESET" class="button" />
+        </p>
+  <!-- -->
+
+        <p>&nbsp;
+          
+        </p>
+
+
+
+ <!--script configuration section below-->       
+<input type="hidden" name="required" value="name,email" /> 
+<input type="hidden" name="data_order" value="*---SENT_FROM---*,name,email,*--------*,COMMENT_ON_AN_ESSAY,*--------*,selecttopic,subject,message" />
+<input type="hidden" name="submit_to" value="ciking@widener.edu" /> 
+<input type="hidden" name="cc_to" value="" /> 
+<input type="hidden" name="automessage" value="mymessage_constitutionsite" /> 
+<input type="hidden" name="outputfile" value="form1" /> 
+<input type="hidden" name="countfile" value="form1" /> 
+<input type="hidden" name="emailfile" value="form1" /> 
+<input type="hidden" name="form_id" value="Submitted from the 2009 Constitution Day site participate online form" />
+<input type="hidden" name="ok_url" value="http://law.widener.edu/constitution/2009/thanks.shtml" /> 
+<input type="hidden" name="not_ok_url" value="http://law.widener.edu/constitution/2009/oops.shtml" /> 
+
+
+      </form>
+
+
+
+
+    </div>
+    <!-- Right column end -->
+
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

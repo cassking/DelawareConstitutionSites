@@ -1,0 +1,89 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="howardtechscott">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Howard Technical
+ High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/scott-tracy.jpg">
+         <img src="images/scott-tracy.jpg" alt="photo of Tracy Scott" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Tracy Scott</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Immigrants as President</span></h2>
+     
+<p>Have you every wanted to make a change but you could not because you were an outsider or a new person?    For example, when I was in elementary school, I wanted to run for junior class president but I could not because I was new to the school.  I did not think that was fair because I really wanted to do a great number of things for my forth grade class like start a choir, go on field trips, and plan dances.  This brings me to why I chose to create my own amendment to add to the constitution.  "Any legal immigrant of the United States has the right to run for president."  I believe there are numerous legal immigrants who could really make a difference in the United States if they were allowed to run for president.</p>
+
+<p>In many cases immigrants come to the United States to get a better education.  For example, a young lady who used to work for my mom is from Nigeria.  She came to America to get a better education after leaving Africa where there is a poor educational system.  She is appreciative of every opportunity, and works to her fullest potential to accomplish her goals. She has been in America long enough to know as much or even more than the average American, so there should be  no reason why people like her cannot run for president.  Some of the most knowledgeable people in our country are immigrants.  Why would we not want them to lead our Country?</p>
+
+<p>Lately, many immigrants know what it is like to live in areas where disease lurks around every corner, and poverty is prevalent.  Many people know Dikembe Mutombo for his basketball ability, but for several years Mutombo has spent a great deal of his time planning and getting funding for his Dikembe Mutombo Foundation.  The goal of his foundation is to eradicate many diseases that are life threatening to the children of the democratic Republic of the Congo, as well as building a new hospital.  Mutombo has received many awards, but most honorably, he is often labeled a humanitarian by the American people.  The definition of a humanitarian is someone committed to improving the lives of others, or someone providing assistance to another.  Mutombo is an example of how immigrants can be just as passionate about life as any other- American citizen.</p>
+
+<p>Just like any other amendment, there are some qualifications that need to be met.  To be eligible to run for president, the person would need to demonstrate that he or she has a wealth of knowledge on many major U. S. issues, both past and present by taking a test.  The person would also have to be a certified U. S. citizen, and pass a criminal background check.  Lastly, the person would have to know how to read, write and speak English fluently.</p>
+
+<p>Like Mutombo there are people in this country that want to make a national difference, but are not given the chance.  Who knows, we could have an immigrant as president, and reach new heights we never thought possible.  Considering the knowledge, compassion, and struggles of some immigrants, I think they should be given a chance to run for president.   I know right now may not be the right time for an immigrant to be president, but maybe when the war is over there might be a chance.  If immigrants can be certified U. S. citizens, then why can they not run for president?</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

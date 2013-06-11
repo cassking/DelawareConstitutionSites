@@ -1,0 +1,96 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="piner">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Joseph Piner, Jr. </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/statuescales_200x230.jpg">
+         <img src="images/statuescales_200x230.jpg" alt="photo   " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Joseph Piner, Jr.
+      <br />
+Joseph Piner, Jr. was released earlier this year after serving a little over five years
+for a non-violent offense. He found employment shortly after his release and is taking
+college classes toward earning an Associate's Degree.
+
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> My Process Through Re-rentry</span></h2>
+
+
+<p>In January Governor Jack Markell appointed several Cabinet secretaries to come up with solutions to reduce the rate of re-incarceration in Delaware. This cabinet is called re-entry. Re-entry is a team of state agencies that visits inmates to prepare them for the obstacles to come. These obstacles are things such as finding a job, drug and alcohol treatment, and housing. As a man who once was incarcerated I have seen the failure of many because the lack of this information. When I was given the opportunity to join the re-entry program I honestly thought I would be filled with misinformation. Now I have come to realize the program is filled with many things to help one get back on their feet.  Many men my age struggle with the idea of success. Because of social conditions and the absence of guidance many citizens are forced to continue in the only life they know. My transition from the prison to society would not have run smoothly if not for the knowledge given by the re-entry program. The state cost for one prisoner is roughly $24,500 a year. As of right now there are about 7,276 prisoners in the state of Delaware. Many of these prisoners are men and women who lack the resources needed to upgrade their status to productive citizens. As a result the recidivism rates increase. Approximately 15.8% of males are at risk after 6 months of their release, 53.6% are at risk after five years of their release. This to me is the reason why the process of re-entry should start as soon as time is being served. During my time spent in the program I noticed that preparing individuals emotionally was not an issue. I feel that it would be most helpful for re-entry to provide temporary professional counseling. Many that have been incarcerated for over five years should also have six months of counseling after release. In my opinion this would allow those to release frustrations and stresses. Witnessing the program from the outside I can see that many are taking initiative to use the tools given to them. I was contacted almost immediately after my release, but I had little to no knowledge about the level of probation I was about to serve. Preparing each inmate is not only about showing him or her the way, some have to be led.  Many inmates have been incarcerated at an early age and still have the thought process of a young adult. So it is very important to have ex-offenders willing to give back to help in this situation. People with experience always shed light on issues they once had better then those with outside perspectives. Job training in the prison is something re-entry should consider. The education department in correctional facilities should offer more than HVAC and plumbing. I believe if the re-entry coordinators build with the education department many would see change.  Religious views are gained for some once they have been incarcerated. So I feel as though there should be a mentorship program within re-entry geared to give those increase in their religion. The re-entry process is a big step for most. Some do not even make it passed three months. I have seen men and women use prison like it's a revolving door. That is why I am a big supporter of the program. Prison for many is a crutch. Many use it to escape from their responsibilities because they never were taught how to manage their lives. Many do not even know how to properly fill a job application form. When I took the six month group I saw many people with child support issues, drug issues, and educational issues. For me, as someone who was incarcerated I would love nothing more then to volunteer my time to help in the efforts of keeping men and women out of jail and educated. I'm sure that we will see good numbers coming from groups in about five years. While on the subject of numbers it probably costs about $473.95 a day to house each of these inmates. That's money that could be spent on child development, parks, or schools. Now think about the yearly costs and how much a waste it is to keep the prison doors revolving without helping in the efforts to develop new ways of solving the problem. I have many thoughts on what should be added to the re-entry process, but overall the program is fine. Hopefully many others will see the change in people like me and invest their time to the program.  </p>
+
+<p>Joseph Piner, Jr. was released earlier this year after serving a little over five years for a non-violent offense.  He found employment shortly after his release and is taking college classes toward earning an Associate's Degree. </p>
+
+
+
+
+
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,121 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="guajardo">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Zaida I. Guajardo</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/guajardo.jpg"><img src="images/guajardo.jpg" alt="photo   of Zaida I. Guajardo" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Zaida I. Guajardo,
+Executive Director
+La Esperanza</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The Path to Citizenship</span></h2>
+     
+
+
+<p>The price of admission for immigrants to America has always been hard work at
+jobs that others who came before them did not want to do.</p>
+
+<p>For Irish, Italians, Germans and other newcomers from Europe in the 18th and 19th centuries, that meant long hours working for low pay in slaughter houses, digging canals,
+and laying railroad track. </p>
+
+<p>For today's generations of immigrants from Mexico, Central America and Asia,
+the path to citizenship often winds through poultry factories, mushroom farms and crab
+picking shacks.</p>
+
+<p>America is the land of opportunity - but for those arriving here from other lands,
+that means starting at the bottom of the ladder.  Immigrants understand this and
+they are willing to pay the price.</p>
+
+<p>As the executive director of La Esperanza, an advocacy organization for Latinos in Sussex County, I am privileged to work with a professional staff that deals daily with the serious issues facing Hispanic immigrants.  </p>
+
+<p>When many of these people arrive in America, they are fearful, confused, without resource and unable to speak English - not unlike the immigrants of generations past.</p>
+
+<p>They bring with them the customs, family traditions and work ethics of their countries of origin.  In most cases these are positive attributes - in others, they run counter to our 
+societal norms.  </p>
+
+<p>At the same time, the majority of our immigrant clients are hard-working, friendly, honest and family-oriented people - individuals who will become a credit to our communities in years to come.</p>
+
+<p>Our job at La Esperanza is to help these people proceed along the path to citizenship.  
+For most, this is a difficult struggle.  Latino immigrants must deal with a complex 
+set of legal requirements that for anyone would be bewildering - and for them must appear overwhelming.</p>
+
+<p>Some immigrants, for example, are allowed here because of civil unrest in their countries.  Others have been given access due to natural disasters.  Still others remain in America because they were vouched for several years ago by their employers under a residency approval that must be renewed annually.  Some achieved legal status through military service.  Such opportunities for residency no longer exist.</p>
+ 
+<p>There are an estimated 8,500 Latino immigrants in Southern Delaware.  Is it any wonder that many are confused and uncertain about what their futures hold?  Some have been in a status of legal "limbo" for more than a decade - yearning for some sort of clarification 
+and striving, in the meantime, to survive - and all the while, working at jobs that most
+residents of Southern Delaware would reject.</p>
+
+<p>At La Esperanza our dedicated staff serves as advocates for those who come here,
+confused and uncertain of anything but their willingness to work hard in order to become 
+Americans.  Through our advocacy work we have been very successful in assisting many obtain their citizenship and become registered voters.  In addition to serving them, we are actively striving to build bridges between the Latino community and mainstream Sussex County.  </p>
+
+<p>Although Delaware is a small state, there is much room here for growth - more than enough room to accommodate newcomers who are willing to work.  All across the United States, the path to citizenship has not changed for generations.  America has literally grown through the strength, determination and willingness of immigrants to do the hard labor needed to prove ourselves. That continues to happen in Sussex County, every day.  </p>
+
+
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

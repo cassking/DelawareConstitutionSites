@@ -1,0 +1,85 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="rodneyhall">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Caesar Rodney High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/hall-bobby.jpg">
+         <img src="images/hall-bobby.jpg" alt="photo of Bobby Hall" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Robert "Bobby" Hall</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Voting and Compromise:  The Most Important Aspects of our Democracy</span></h2>
+     
+<p>As the world advances through time, things change.  There is absolutely no other way of saying it.  Civilizations that dominate the world eventually collapse and drift into obscurity.  It is every civilization's goal, however, to make sure that this does not happen.  The United States of America is currently at the forefront of every aspect that makes up a civilization.  We spend more on our military than Russia, China, the United Kingdom, Germany, and France combined.  Our cultural achievements reach every corner of the world, with our movies and music reaching anywhere from London to the small fishing villages in North Korea.  Our economy flourishes, with our GDP being second only to the European Union.  The United States needs to do what it can to stay as competitive as we are so we do not end up like ancient Greece and Rome.  The ability to do this stems from the very strength of our government; that is, democracy, and defeating what attempts to weaken it.   </p>
+	
+<p>	The past few decades have shown a dangerous trend in the mind of the American voter.  Disasters such as Vietnam and Watergate have led to a decrease in the average American's "political efficacy," meaning they increasingly have less faith in the government and also increasingly feel that they cannot understand and influence political affairs.  American voter turnout has been steadily falling since the 1960's, and this is exemplified by how voter turnout barely tops 50% in recent presidential elections.  Democracy's fundamental purpose is to be a government ruled by the people.  It is extraordinarily difficult to have a government ruled by the people if the people do not vote.  The consequences  of this situation undermine the purpose of our government, and make our leaders seem less legitimate.  In a strong democracy, the strength is drawn from each individual person, each voter.  Every voter's refusal to vote for any reason is an example of our democracy weakening and our nation's track to obscurity accelerating.  To counteract this problem, American voters need two important things:  education and motivation.  The correlation that education leads to a higher likelihood to vote is no unknown statistic.  The statistic that approximately one third of our nation's high school students dropout does appear to be far more unknown.  Public school reform should be the first step taken in achieving higher voter turnout, and thus forging a stronger democracy.  Last year's midterm elections achieved the highest voter turnout in decades.  This is considered to be an oddity, as the economy at this time was booming, and the majority of studies show that Americans "vote their pocketbook."  The shifting of ideas against the current occupation of Iraq led to a complete change in the balance of power in Congress.  The people's anger over the war got them to vote, and their actions proved to be successful.  This is a great sign to the furthering of our democracy's strength, as it appears that "political efficacy" is on the rise.  This freedom of ideas and encouragement of debate needs to continue in order to motivate the American people into getting what they want, which is achieved by voting.</p>
+	
+<p>	Compromise is one of the many things democracy can achieve over other governments.  Partisanship limits our ability to compromise, and this reflects badly on our democracy's strength.  Our presidential candidates of today have clearly defined partisan ideologies.  They either support universal healthcare, or they do not.  They either support an eventual Iraq pullout, or they do not.  This is partisanship at its best, as the majority of Americans classify themselves as independents over liberals or conservatives.  This means that the majority of Americans support compromise, a mix of both party's platforms.  Our democracy's strength cannot be fully realized until politicians realize that they do not represent themselves, they represent the American people.</p>
+	
+<p>	In order for our democracy to become stronger, the American people need to vote.  Whether they believe it or not, politicians represent their interests, and this needs to be realized.  Current politicians need to put their beliefs aside and do what they were elected to do, represent the American people.  These simple steps will lead to a strong and fruitful democracy in the 21st century. </p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

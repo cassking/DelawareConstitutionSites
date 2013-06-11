@@ -1,0 +1,85 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="homepage">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span>
+
+</h1>
+  <h2> The Future of  <span class="dark">  Local News Reporting  </span></h2>
+
+          <p><img src="images/tvanchor_200x230.jpg" alt="tv anchor" class="floatLeft"/></p>
+
+
+
+<p>For the fourth year in a row, Widener University School of Law and the News Journal have solicited essays on a theme related to the U. S. Constitution.  These essays are housed at the Law School's website and reproduced in whole or in part in the News Journal around September 17th -- Constitution Day, the date in 1787 when the Framers signed the Constitution in Philadelphia.</p>
+<p>The topic for this year's program is the future of local news reporting.  The premise is that our system of self-governance ("We the People") works only if citizens are adequately informed.  As James Madison put it, "A popular government, without popular information, or the means of acquiring it, is but a prologue to a farce or a tragedy; or perhaps both."   </p>
+
+<p>But who will pay for gathering and disseminating the information necessary to keep the public informed?  The Constitution does not require the government to subsidize news reporting (and could we trust a government-subsidized press if it did?).  Instead, news reporting is likely to occur only if businesses can make money doing it.</p>
+
+<p>But can they?  Are citizens willing to foot the bill for investigative journalism that can turn a crime story into Watergate?  Or does quality journalism depend upon advertising to fund it?  And if the latter is true, what happens if the business model of using advertising to subsidize news starts to collapse?  </p>
+<p><img src="images/newsstacks_200x230.jpg" alt="newspapers"  class="floatRight"/></p>
+
+<p>These and other issues discussed in this year's essay collection are highly relevant as newspapers across the country struggle to survive, public broadcasters cut back on services, and commercial radio and television transfer resources from news to entertainment.  </p>
+
+<p>We hope you enjoy the essays and that they make your Constitution Day a little more meaningful.  If you would like to add your own thoughts to the discussion, please go to the page for <A HREF="http://law.widener.edu/constitution/2009/participate.shtml">submitting comments</a>.</p>
+
+<p>We are grateful to the authors for the time and effort they put into preparing the essays.  We are also grateful to Widener's Webmaster, Cassandra King, for creating a wonderful website to host the essays, and to Widener's Public Relations Officer, Mary Allen, for publicizing the essay collection.  
+Finally, we are grateful to the News Journal, especially Editorial Page Editor John Sweeney, for the generous coverage the paper gives each year to the Constitution Day essay collection.</p>
+
+<p>Alan E. Garfield<br />
+Constitution Day Project Founder and Coordinator<br />
+Professor of Law<br />
+Widener University School of Law</p>
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

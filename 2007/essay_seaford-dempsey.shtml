@@ -1,0 +1,92 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="seaforddempsey">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Seaford High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/dempsey-meredith.jpg">
+         <img src="images/dempsey-meredith.jpg" alt="photo of Meredith Dempsey" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Meredith Dempsey</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Freedom of Speech &amp; Democracy: A Symbiotic Relationship</span></h2> 
+     
+<p>The right of free speech and press has been feared by kings, queens and tyrants for centuries because it allows one thought to spread to all humanity.  This one thought can spark debates, create questions and inspire revolutions. The communication of ideas crafts a human being and promotes growth in democracies by sanctioning collaboration among like-minded individuals.       </p>
+
+<p>Lucius Annaeus Seneca, a Roman Stoic philosopher, once said that "speech is the mirror of the mind."  A human being's personality is construed by what one says.  When strangers meet for the first time they create an idea of each other by the dialogue they share -not by the clothes they are wearing.  This theory is similar to the idiom "you can't judge a book by its cover."  A book's content can only be evaluated by reading the book, not simply looking at it.  Similarly, a person's character cannot be judged on physical appearance.  One must look inside the other and hear the thoughts to understand that person's true character.  Without a voice, how is the content of a person supposed to be known?   </p>
+
+<p>If the government were to censor the words a person speaks, it would simultaneously censor the mind.  In order for a person to be heard they would have to mold their thoughts, beliefs and opinions to the government's rules.  The book Fahrenheit 451 illustrates the consequences of a world where the speech and thoughts are controlled.  In fear of a revolt, the government aims to create "cookie cutter" people who cannot question anything the government decrees.  Front porches are eliminated because they endorse conversation and books are burned because they communicate thoughts and opinions that could generate a dim view of the government.  Citizens who had books became outcasts from society and were forced into homelessness.  A democracy is a government ruled by the people.  If the government decides how its people think, how can there be a democracy?  Instead of a democratic government, America would be a totalitarian government.</p>
+
+<p>The world would be markedly different if the type of government that reigned in Fahrenheit 451 ruled today.  Heroes like Martin Luther King, Jr.,  Winston Churchill, Joan of Arc, Thomas Paine, Harriet Beecher Stowe, John Hancock, and Franklin Roosevelt all exercised their speech to inspire people to follow them in the quest to make their world a better place.  Would America still be racially segregated if Martin Luther King, Jr. had not spoken to Americans about racism in the 1950s and 60s?  Would America be independent of England if John Hancock had not made his opinion clear by signing the Declaration of Independence?  People's voices need to be heard in order to ameliorate a government, a country or a society.</p>
+
+<p>Freedom of speech cultivates discussion and collaboration within government.  If the majority of people feel that they want something to happen, people in government will collaborate and manufacture a compromise.  For instance, Martin Luther King, Jr.'s views on racial segregation instituted a wave of supporters and followers which prompted the government to pass civil rights legislation and curb legalized racism.  The majority of citizens in a country know what is best for their country and are, therefore, the best candidates to improve their situation.</p>
+
+<p>Historically, political leaders feared the idea of freedom of speech because it could jeopardize their social or economic position.  However, mainstream citizens such as Jefferson, Paine, and Delaware's John Dickinson practiced free thinking, fought back against their leaders and changed their world for the better.  People are given minds to think and a mouth to communicate their thoughts.  Censoring people's speech only inhibits beneficial developments in a national or even worldly society.</p>
+
+<p>Again, Seneca warned, that "wherever the speech is corrupted, so is the mind."  Without free speech, the very blood of our democracy is constricted and its body, the people, dies.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

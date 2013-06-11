@@ -1,0 +1,85 @@
+
+    <!-- Right link column -->
+    <div class="floatRight width25 lightBlueBg horzPad">
+
+      <h2>Essay <span class="dark">Collection</span></h2>
+      <h3>Federal <span class="dark">Government</span></h3>
+      <h4><span class="dark">Legislative Branch</span></h4>
+
+      <ul class="submenu1">
+        <li id="bidenessay"><a title="Senator Biden's essay" href="http://law.widener.edu/constitution/2006/essay_biden.shtml"> Sen. Joseph Biden</a></li>
+        <li id="carperessay"><a title="Senator Carper's essay" href="http://law.widener.edu/constitution/2006/essay_carper.shtml">Sen. Thomas Carper</a></li>
+        <li id="castleessay"><a title="Representative Castle's essay" href="http://law.widener.edu/constitution/2006/essay_castle.shtml"> Rep. Michael Castle </a></li>
+       </ul>
+       
+       <h4><span class="dark">Judicial Branch</span></h4>
+      
+        <ul class="submenu1">
+              <li id="ambroessay"> <a href="http://law.widener.edu/constitution/2006/essay_ambro.shtml" title="Thomas Ambro's essay">Hon. Thomas L. Ambro</a></li>
+<li id="robinsonessay"><a title="Judge Robinson's essay" href="http://law.widener.edu/constitution/2006/essay_robinson.shtml">Hon. Sue L. Robinson</a></li>
+
+</ul>
+<h3>State <span class="dark">Government</span></h3>
+      <h4><span class="dark">Executive Branch</span></h4>
+       
+      
+       <ul class="submenu1">
+        <li id="minneressay"><a title="Governor Minner's essay" href="http://law.widener.edu/constitution/2006/essay_minner.shtml"> Gov. Ruth Ann Minner</a></li>
+        <!--<li id="danbergessay"><a title=" Carl Danberg's essay" href="http://law.widener.edu/constitution/2006/essay_danberg.shtml">A.G. Carl C. Danberg</a></li>-->
+        <li id="sullivanessay"><a title=" Lawrence Sullivan's essay" href="http://law.widener.edu/constitution/2006/essay_sullivan.shtml">P.D. Lawrence Sullivan</a></li>
+   
+       
+      </ul>
+<h4><span class="dark">Legislative Branch</span></h4>
+
+  <ul class="submenu1">
+	<li id="adamsessay"><a href="http://law.widener.edu/constitution/2006/essay_adams.shtml" title="Thurman Adams' essay">Sen. Thurman Adams, Jr.</a></li>
+	<li id="spenceessay"><a href="http://law.widener.edu/constitution/2006/essay_spence.shtml" title="Terry Spence's essay">Rep. Terry R. Spence</a></li>
+
+</ul>
+<h4><span class="dark">Judicial Branch</span></h4>
+
+
+    <ul class="submenu1">	
+  <li id="hollandessay"><a href="http://law.widener.edu/constitution/2006/essay_holland.shtml" title="Randy Holland's essay">Justice Randy J. Holland</a></li>
+
+
+</ul>
+
+      <h3>Community <span class="dark">Leaders</span></h3>
+
+      <ul class="submenu1">
+        <li id="abelessay"><a title="Jack Abel's essay" href="http://law.widener.edu/constitution/2006/essay_abel.shtml">Rev. Jack Abel</a></li>
+        <li id="cassonessay"><a title=" Lloyd Casson's essay"  href="http://law.widener.edu/constitution/2006/essay_casson.shtml">Rev. Canon Lloyd S. Casson</a></li>
+        <li id="gambleessay"><a title=" Geoffrey Gamble's essay" href="http://law.widener.edu/constitution/2006/essay_gamble.shtml">Geoffrey Gamble</a></li>
+        <li id="garfieldessay"><a title=" Alan E. Garfields' essay" href="http://law.widener.edu/constitution/2006/essay_garfield.shtml">Prof. Alan Garfield</a></li>
+        <li id="grumbacheressay"><a title=" Peter Grumbacher's essay" href="http://law.widener.edu/constitution/2006/essay_grumbacher.shtml">Rabbi Peter Grumbacher</a></li>
+        <li id="guajardoessay"><a title=" Zaida Guajardo's essay" href="http://law.widener.edu/constitution/2006/essay_guajardo.shtml">Zaida Guajardo</a></li>
+        <li id="hollidayessay"><a title=" Charles Holliday's essay" href="http://law.widener.edu/constitution/2006/essay_holliday.shtml">Chad Holliday</a></li>
+        	<li id="rishiessay"><a href="http://law.widener.edu/constitution/2006/essay_rishi.shtml" title="Dr. Rishi's essay">Dr. Mazhar Rishi</a></li>
+<li id="saltarelliessay">	<a href="http://law.widener.edu/constitution/2006/essay_saltarelli.shtml" title="Reverend Saltarelli's essay">Rev. Michael A. Saltarelli</a></li>
+	<li id="wareessay"><a href="http://law.widener.edu/constitution/2006/essay_ware.shtml" title="Leland Ware's essay">Prof. Leland Ware</a></li>
+
+
+	  </ul>
+
+
+      <h3>Historical <span class="dark">Background</span></h3>
+
+      <ul class="submenu1">
+      
+              <li id="smithessay"><a title="Rep. Wayne A. Smith's essay" href="http://law.widener.edu/constitution/2006/essay_smith.shtml">Rep. Wayne A. Smith</a></li>
+
+      
+              <li id="mccabeessay"><a title="C. Russell McCabe's essay" href="http://law.widener.edu/constitution/2006/essay_mccabe.shtml">C. Russell McCabe</a></li>
+<li id="slideshow"><a href="http://law.widener.edu/constitution/2006/slides.shtml" title="Slide show of Historical Documents">Historical Documents</a></li>
+
+
+
+
+      </ul>
+
+     
+
+    </div>
+    <!-- Right links column end -->

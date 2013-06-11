@@ -1,0 +1,99 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="comments2">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+
+<!-- Left column -->
+    <div class="floatLeft width25 lightBlueBg horzPad">
+
+      <!--//begin CONTACT INFORMATION include//-->
+<!--#include virtual="/constitution/2006/inc/contact_information.shtml"-->
+<!--//end CONTACT INFORMATION include//-->
+
+
+    </div>
+    <!-- Left column end -->
+
+
+    <!-- Right column -->
+    <div class="floatRight width73">
+    
+       <h1>Your <span class="dark">Comments</span></h1>
+<!-- Start Post -->
+      <div class="post2">
+
+        <div class="date">
+          <span class="month">Sep</span>
+          <span class="day">21</span>
+        </div>
+
+        <p>
+          <span class="title">Posted by</span>
+	  <em>  Jerry Liguori</em>
+	    </p>
+	   <p>I read with great interest Professor Allan E Garfield's editorial on the celebration of Constitution Day and his puzzlement over what to teach his class.  My answer would have been to teach the importance of voting under laws derived from our Constitution and its Amendments.  But a more important question, given the effect that the Constitution has on the daily life of every American citizen, would be, why does our educational system not put as much importance on teaching the Constitution's development, history and modification, as reading, writing and arithmetic?   </p>
+
+<p>How many American citizens know why the Constitution was developed, when the country was already being governed, eleven years after winning independence, by the Articles of Confederation?  Do we know or even care that only 5% of the population at that time voted in the ratification process.  Or, that of the 160,000 of the 3,200,000, citizens no more than 100,000 citizens said yes to ratification.   </p>
+
+<p>Furthermore, we should realize that the resulting Philadelphia Convention that produced our Constitution was not the intention of the Continental Congress when it authorized the Convention under the laws of the Articles of Confederation; the law of the land.  The Articles of Confederation as agreed upon by the Continental Congress on November 15, 1777, had provided for a Government consisting simply of a Congress with a single House, in which each State had equal representation-a Government in which Congress had no power to tax, to raise troops, to regulate commerce, or to execute or enforce its own laws and treaties-a Government in which each of the various States had power to tax, to make its own money, to impose its own import and export duties, and to conform or not, as it chose, to the acts or treaties of congress, or to its requisitions for money or troops.  Congress could only supplicate; it could not enforce.  So why have the Convention? </p>
+
+<p>The purpose for amending the Articles of Confederation was a patriotic desire for a united Nation to be able to take its place with other Nations of the world.  What was feared at the time was dissensions of the States and dissolution of the Union, leaving the States open to attack by foreign powers. The main objectives of the Continental Congress is giving authority to convene the Philadelphia Convention, was to form a government which while safeguarding the liberties of its citizens and the rights of the States, should have power to maintain adequately its own authority and independence.  However, as seen through the eyes of the majority of the delegates who attended the Philadelphia Convention, there were four major groups of interest that were adversely affected under the Articles of Confederation; money, public securities, manufacturers, and trade and shipping. </p>
+
+<p>This law of the land provided that all alterations and amendments should be made by Congress and receives the approval of the legislature of every state.  In essence our founding fathers, in the spirit of revolution, gathering in Philadelphia ignored the Articles of Confederation and wrote an entirely new Constitution of Governance.  The revolutionary nature of the work of the Philadelphia Convention is correctly characterized by Professor John W. Burgess when he states "that had such acts been performed by Julius or Napoleon, they would have been pronounced coups d'etat." </p>
+
+<p>However, not everyone signed on to this achievement: Rhode Island and North Carolina refused to ratify the Constitution.  The leaders who supported the Constitution in the ratifying conventions represented the same economic groups as the members of the Philadelphia Convention; and in a large number of instances they were also directly and personally interested in the outcome of their efforts.  During the ratification process it became clear that we were a divided country under one flag.  The "yeas" represented the interests of men with wealth, while the "nays" were represented by those with small farming and debtor interests. </p>
+
+<p>The Constitution was not created by the "whole people" as the jurists have said; neither was it created by "the states" as Southern nullifiers long contended; but it was the work of a consolidated group whose interests knew no state boundaries and were truly national in their scope. </p>
+
+<p>Perhaps if we as a nation taught the Constitution as vigorously as we teach the three R's, we would increase the potential to produce political leaders that can truly form a more perfect union.  We had leaders with foresight rather than hindsight, although it seems unless a crisis arose, few have emerged over the brief history of our Nation.  Our founding fathers were true visionaries who disdained long political careers and who operated without polling.  And by today's standards the majority of them were young, Franklin being the exception.  In 1780 at the age of twenty three, and before any thought to ratification, Alexander Hamilton formulated the additional authority which Congress ought to possess.  And in this comprehensive document he anticipated most of the powers which were granted seven years later by the Constitution.   </p>
+
+<p>By the age of eighteen, shouldn't our nation's children be as proficient in the system of our Government as we demand they be in the three R's, so that they can make the best choices for how their adult lives and the lives of their children will be affected?  Had Professor Garfield asked the questions he feared to, I'm sure he would have received the wrath of the political correctness police.  And, that is a sad commentary on our society.  This antiquated, almost Victorian fear of discussing issues that seem offensive to some prevents our democracy from moving forward.  It hinders debate and resolution of issues.  It hides us from reality and the prices to be paid for historical decisions. </p>
+
+
+      </div>
+      <!-- End Post -->
+
+   
+
+
+
+
+
+
+    </div>
+    <!-- Right column end -->
+
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

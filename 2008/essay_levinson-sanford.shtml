@@ -1,0 +1,95 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="levinson">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Professor Sanford Levinson</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/levinson.jpg">
+         <img src="images/levinson.jpg" alt="photo of Sanford Levinson " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Professor Sanford Levinson
+      <br />
+   Professor Sanford Levinson holds the W. St. John Garwood and W. St. John Garwood, Jr. Centennial Chair in Law at the University of Texas Law School.
+He is the author of <em>Our Undemocratic Constitution: Where the Constitution Goes Wrong (And How We the People Can Correct It)</em>.</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Are we electing a "constitutional dictator"?</span></h2>
+
+
+<p>   Taking note of Perez Musharraff's resignation as President of Pakistan, the New York Times editorialized that "The presidency must also be stripped of the special dictatorial powers that Mr. Musharraff seized for himself, including the power to suspend civil liberties and rule by decree."  It is easy enough to agree, especially given some of Mr. Musharraf's excesses (including firing judges he didn't like).  We should recognize, though, that one might substitute the Bush presidency, and the sentence would still make sense.  The most dramatic (and awful) example is the basically unilateral decision by the President to suspend American recognition of limits imposed by both domestic and international law on methods of interrogation and detention of persons, including American citizens, declared, often by sheer fiat, to be "the worst of the worst."  </p>
+
+<p>George W. Bush's self-description of himself as "the Decider" basically reinforces the notion that we are electing what might be called a "constitutional dictator" empowered to make unilateral decisions on matters of peace and war, life and death.  A similar idea was in fact suggested by Hillary Clinton's disgraceful "3AM" ad, which also fed the image of the President as our de facto dictator, ready (and willing) to make instant decisions about matters of national security.  What differentiates a "constitutional dictator" from one like Mr. Musharraff is that we elect our dictator, who, as in ancient Rome, serves for only a limited term of four or eight years.  This is an important distinction, but it says little about the actual powers that modern American presidents feel free to claim as part of their prerogatives of office.  </p>
+
+<p>   Bush Administration lawyers have mined ambiguities in the Constitution for the proposition that the President's power is basically unconfined whenever he (or, in the future, she) is acting as Commander-in-Chief or otherwise trying to protect vital interests of the United States.  Such views display contempt both for Congress and for any robust notion of popular government.  Thus when the redoubtable Helen Thomas this past March asked White House Press Secretary Dana Perino about the Iraq War if the American people are entitled to any real input on presidential decisionmaking regarding the conduct of the Iraqi war, Ms. Perino's replied that "the American people have input every four years, and that's the way our system is set up. . . . "  She was, no doubt, reflecting the general views of the Bush Administration.  This is, frankly, a frightening theory of our electoral democracy, for it limits popular input to one moment every four years (when, of course, the winner of the election may, because of the vagaries of the electoral college, fall short of  receiving majority approval or, as in 2000, even coming in first).  And it is especially frightening with regard to second-term presidents, who don't even have the potential fear of facing the electorate given the constitutional bar (probably wise) on running for a third-term..</p>
+
+<p>   It would be comforting to believe that the epithet of "constitutional dictator" could be directed uniquely at President Bush and that this election will necessarily put an end to such a possibility.  But apologists for the President build their arguments on presidential actions going back at least to Thomas Jefferson (who believed that he was acting unconstitutionally, albeit wisely, in fundamentally transforming the United States through the Louisiana Purchase) and featuring other White House "greats" like Abraham Lincoln and Franklin Roosevelt.  The late political scientist Clinton Rossiter, the author of a brilliant and disturbing book on Constitutional Dictatorship described Lincoln as a dictator during various phases of the 1861-65 war that almost destroyed the Union, and it is clear that Roosevelt played fast and loose with any notion of legal limits in some of his pre-World War II collaboration with British intelligence (as revealed in William Stevenson's book The Man Called Intrepid).   </p>
+
+<p>   Even if one believes that Sen. Clinton demagogically exaggerated the frequency and importance of 3AM phone calls, it is probably true that there are occasions when we expect what Alexander Hamilton called "energy" in an executive forced to respond to exigencies where time is indeed of the essence and widescale consultation, or recourse to Congress, impossible.  Outside of the standard-form national security context, one might think of recent threats to the international economic order, where decisions had to be made literally overnight (by Ben Bernanke, as it turns out, rather than by President Bush).  </p>
+
+<p>   To the extent that one of the tasks of the modern president is to make quasi-dictatorial decisions of great consequence, it is important that we have ways to discipline presidents who display bad judgment.  Parliamentary systems offer one way to do this, inasmuch as legislative majorities (or, as in Great Britain, the Prime Minister's own political party) can in effect fire leaders who lose their confidence.  Impeachment doesn't come close to providing a proper remedy for an incompetent president inasmuch as it forces us to ask a close to irrelevant question--is the President a criminal--rather than the appropriate question:  Is this someone we feel truly confident giving unilateral authority regarding peace and war, life and death?  </p>
+
+<p>   It would be wonderful, however unlikely in fact, if the candidates for president would speak cogently to the powers of the modern office and the extent to which they are indeed aspiring to become our "constitutional dictator" for the next four years.  And it would be even better if the rest of us asked if we are being well served by a system that will assure a four-year tenancy in the White House for a non-criminal president who engages in disastrous decisionmaking.  Anyone who believes that the issues posed by presidential power will vanish with the exit of George W. Bush and Dick Cheney on January 20, 2009  is sadly mistaken.</p>
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

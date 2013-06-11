@@ -1,0 +1,103 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="instructions">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+  <h2>2007 Constitution Day Essay Program<br />Instructions for <span class="dark">Student Authors</span></h2>
+
+    
+ 
+
+
+
+<p>Write an essay in response to ONE of the following five questions:</p>
+
+<p>	<strong>Questions regarding the Strength of Our Democracy</strong></p>
+
+<ol>
+	<li>(1)	What do you think will be the most important factors affecting the strength of our democracy in the 21st century?</li>
+
+	<li>(2)	Do you think most Americans fulfill the civic responsibilities that they need to fulfill for our democracy to flourish?  Explain your answer.</li>
+</ol>
+<p><strong>	Questions regarding the Constitution and Judicial Enforcement of Constitutional Rights</strong></p>	
+	<ol>
+
+	<li>(3)	If you could add one amendment to the Constitution, what would it be and why?</li>
+
+	<li>(4)	Which constitutional right do you especially value and why?</li>
+
+	<li>(5)	Why should our democracy allow un-elected Supreme Court justices to overturn laws enacted by elected representatives?</li>
+	</ol>
+
+
+<p><strong>Length of Essay</strong> - 700 Words or Less</p>
+
+<p>Your essay should be no longer than 700 words (it may, of course, be shorter).  This word count does not include your name or the essay's title. </p>
+
+<p>If you write your essay in Microsoft WORD&reg;, you can determine its word count by going to the drop down menu under the "Tools" heading and finding the "Word Count" function.  This will give you the word count for the entire document.  You can find the text word count by highlighting the text and then using the "Word Count" function.</p>
+
+<p><strong>Style and Character of Essay</strong></p>
+
+<p>While you may have to do some independent research to answer these questions (e.g., to refresh your memory about the rights provided by the Constitution), we are primarily interested in hearing <strong><em>your own thoughts</em></strong> about the strength of our democracy and the role and importance of Constitutional rights.</p>
+
+<p>Express your thoughts clearly and succinctly.  Carefully construct the organization and flow of your essay and find the precise words that best capture your thoughts.  (As Mark Twain once said, "[t]he difference between the right word and the almost right word is the difference between lightning and the lightning bug").  Let the power of your argument come from its clarity.</p>
+
+<p><strong>Finally, please give your essay a title.</strong></p>
+
+<p>Thank you for your participation in the Widener University School of Law 2007 Constitution Day Essay Program.</p>
+
+ 
+
+	  
+
+
+    
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

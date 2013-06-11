@@ -1,0 +1,87 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="delmarslavens">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Delmar High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/slavens_scott.jpg">
+         <img src="images/slavens_scott.jpg" alt="photo of Scott Slavens" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Scott Slavens</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">21st Century America</span></h2>
+     
+<p>The United States of America, as we know it today, depends on many different factors to remain strong and successful in an ever-changing world.  Americans expect their country and government to be the most powerful in the world, with the most impact and influence on global issues.  In order to remain a strong and flourishing nation, the U.S. economy and its energy consumption, as well as its energy resources, must be made priorities over all other national or global issues.  The U.S. must first reestablish its mighty economic status it once had and find alternate fuel sources and energy resources to be strong and successful throughout the 21st century.</p>
+
+<p>The overall success of the U.S. depends chiefly on its economic status.  Any nation's economy determines how successful it is and will be.  Although most Americans enjoy a ridiculously high standard of living, made available to them by the use of credit, most of these citizens are also suffering the effects of massive debts from mortgages, loans, and excessive spending habits.  Debt is a sign of an economy that is beginning to recede, and leads to bankruptcies from individuals and some small businesses which do not receive payments from their customers.</p>
+
+<p>Once these smaller businesses close, larger businesses and already powerful corporations will completely monopolize the markets, thus being able to dictate the prices of goods and services, making them higher, to the businesses' profits.  This will result in inflation because consumers will not have as much purchasing power, and the U.S. dollar will lose some of its global value.  In a global economy, if the dollar loses too much value, foreign investors will lose interest in our economy, leading to a weaker impact America would enjoy in foreign trading.</p>
+
+<p>Without significant trading power, the U.S. will not be able to continue to afford imports such as raw petroleum and other fossil fuels not found in the U.S.  To survive in the 21st century means to have efficient transportation and power resources available for consumers.  Efforts need to be made to turn the automotive industry over into a bio-fuel-consuming industry.  Renewable resources, such as electricity, water, and grains may be major parts of this new technological revamping of the transportation methods in the U.S.  Also, for environmental concerns, the U.S. needs to convert from coal-burning power plants to other energy methods, such as hydro-electricity (wherever it is available), solar power, wind power, and more nuclear power.  All of these methods are efficient and environmental-friendly.  By using any or all of these solutions, the U.S. can save itself from future problems.  The U.S. would become less dependent on foreign trade, and energy prices and fuel prices would be lower.  Also, the environment would not be damaged as much as it currently is by coal power plants and carbon dioxide output from automobiles and planes.</p>
+
+<p>In order for the U.S. to be both strong and successful in and through the 21st century, it must have a strong economy and better energy methods.  So, now you ask, "What can I do to help make America into this stable nation?" To start with, begin in your personal life.  Do not add to the economic crisis in America by overspending and sinking into thousands of dollars of debt.  Then, implement practical energy-saving habits to help both your pocket and the economy, as well as the environment.  And, above all, contact your legislator today to share your opinion and ideas about these things, and see if you can start this change in America right now.  We all want the U.S. to stay strong throughout the future, so we, as Americans, must do something to help our nation prosper and succeed.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

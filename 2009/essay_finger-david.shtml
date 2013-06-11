@@ -1,0 +1,113 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="finger">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+     
+<h3>David Finger</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/finger.jpg">
+         <img src="images/finger.jpg" alt="photo of David Finger " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: David Finger
+      <br />
+David Finger is a partner in Finger, Slanina &amp; Liebesman. 
+He has represented news media, reporters, and other individuals in defamation, 
+freedom of information and related First Amendment and media law disputes. 
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Can Local News Reporting Survive Modern Capitalism?</span></h2>
+
+
+<p>A question has been posed as to how local news reporting, specifically the print media, will survive in the era of the Internet and bloggers.  This, however, is not the real issue.  The real issue is whether local news reporting can survive modern capitalism.</p>
+
+<p>	The issue of bloggers is merely one of credibility. Bloggers can provide instant information.  But bloggers risk trading accuracy for immediacy, and reasoned analysis for emotional response.  Independent bloggers are not subject to the same rigors of investigation and the journalistic standards to which newspaper reporters are subject.</p>
+
+<p>	Rather than being a threat, bloggers create an opportunity for newspapers to offer something sorely needed:  detailed research, explanation and critical analysis of important stories, as opposed to simply headline news. </p>
+
+<p>	This, however, takes resources - good reporters informed about the issues they are covering, and time to gather and report.  This translates into expense for the newspapers.  It also requires that publishers recognize value other than exclusively in terms of dollars and cents.</p>
+
+<p>	In days gone by, newspapers were owned by individuals, families or small businesses.  Of course, they wanted to make a profit, but most of them also had a personal sense of obligation as members of the "fourth estate" to educate the public about the issues of the day.  Competing newspapers in a given market also allowed for competing perspectives. Similarly, network television news departments were not expected to make money, but instead provided a public service.  Things have changed.</p>
+
+<p>	In more recent times, the consolidation of the media has vested newspaper ownership in a handful of conglomerates whose only motive is to increase profits for the shareholders.  Consolidation and the recent recession have also combined to reduce the number of newspapers in some markets.  Cost-cutting to improve the bottom line takes priority over informing the public.</p>
+
+<p>	In an effort to increase profit, or sometimes just to stay afloat, many newspapers have closed foreign bureaus, closed Washington bureaus, and even ended coverage of state government. If they run government news at all, they rely on wire service stories from the Associated Press or less professional services.</p>
+
+<p>	If local news coverage is to be meaningful, it must be more than police-blotter crime stories, recipes, features about good Samaritans, and the ten best restaurants.  News providers have to stop pandering to what they think the public wants and return to writing about government and public policy, whether the government entity is local, statewide, national or international.</p>
+
+<p>	So a number of questions present themselves.  Will newspaper owners be willing to invest the money necessary to provide thoughtful, in-depth coverage of local issues, even at the expense of some of their profit? Will advertisers support such efforts? Will the public respond to such efforts by purchasing the newspapers and keeping circulation up?  If the public does not respond, can newspapers provide additional content that will both attract readers and preserve credibility?</p>
+	
+<p>	The answer to the first two questions is simple: newspaper owners and advertisers will invest in whatever provides a maximum return on investment. The more readers, the better. We cannot rely on corporations to develop a civic conscience that conflicts with their profit motive. So we need to attract more readers.</p>
+	
+<p>	One potential long-term approach is to instill in the public a sense of importance of self-education on important public issues.  But how do we reverse a trend where each successive generation increasingly prefers television and the Internet over newspapers, speed over substance, and the personal (Facebook, Twitter, blogs) over the professional? </p>
+	
+<p>	How about starting with the first grade - and not a minute too soon.  The Weekly Reader, that 107-year-old venerable news magazine for children, now has a blog and a syndicated television show. Newspapers hold workshops on "How to reinvent the newspaper for young adults," or, to use a less forgiving title, "Dumbing Down for Dollars." </p>
+	
+<p>	Over 60 years ago, the American writer Gertrude Stein warned that "everybody gets so much information all day long that they lose their common sense." Imagine replacing quantity with quality by having students from first through twelfth grade begin every day by thumbing through their own copy of a newspaper for 10 quiet minutes - even if early on they focus on comics or photos. Then follow that with a brief teacher-led discussion. Organizations such as Newspapers In Education (nieonline.com) provide lesson plans and other guidance for integrating newspapers into classrooms.</p>
+	
+<p>	It is that enjoyable and absorbing ritual combined with substantive reporting that explains why, according to the Pew Center for the People and the Press,  81 percent of regular readers say losing their local newspaper would "hurt the civic life of their community" either "some" or "a lot." But on average, 45 percent of younger people and those who get their news electronically say that the demise of the local newspaper "would be no great loss."  </p>
+	
+<p>	The trend is clearly electronic. There are 71 million cable subscribers, and now 95 million individuals with Internet access. But the nation's 1,476 daily newspapers are still profitable, with a circulation of 56 million.    Ultimately, however, the question boils down to content, not the medium.</p>
+
+<p>David L. Finger is a Delaware attorney whose practice includes corporate and commercial litigation, intellectual property litigation, 
+and First Amendment/media law.  For more information, visit his website, <a href="http://www.delawagroup.com">www.delawagroup.com</a>.</p>
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

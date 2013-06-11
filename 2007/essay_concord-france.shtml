@@ -1,0 +1,88 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="concordfrance">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Concord High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/france-julie.jpg">
+         <img src="images/france-julie.jpg" alt="photo of Julie France " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Julie France </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Falling Shy of Civic Responsibility</span></h2>
+
+<p>America broke the mold for governments when it came out with its idea of revolutionary republicanism.  At the time this system was criticized across the globe because it was believed people could not fulfill the responsibilities to allow it to function.  Today, our country is experiencing hard times.  Could it be that the ideals of revolutionary republicanism have vanished from the household.  Many would agree that values in the home are the reason for our steady declining political system</p>
+
+<p>One of the biggest themes of revolutionary republicanism was education.  From our country's establishment public schools have been mandatory in towns.  Today, America is shifting its focus away from the public school.  Now families look to parochial and high-class private schools to educate their children.  Because much of the middle class is leaving the public school system, these schools are losing community support.  As a result of this we get a small percentage of students getting a top-tier education, while those who can't afford private schools struggle in a failing system.  It is everyone's responsibility to make sure all children have an opportunity to learn at the highest level.  In this area, many Americans are falling short.</p>
+
+<p>Another way Americans have fallen shy of fulfilling civic responsibilities is the neglect shown in the house and to the community.  Many parents work full time jobs, leaving too many children attention-deprived and without a parent figure.  Without a strong parental unit, how can kids learn how a family functions?  Lack of attention to teaching children basic values of respect and tolerance has caused a decline in the effectiveness of our society.  Since our country's creation the family has been a cornerstone in our effective society.  We do not need a return to traditional values, such as heterosexual parents and street laws based on religion, but a return to the basic moral values taught in the house, such as acceptance and giving.</p>
+
+<p>Overall, many American have lost sight of their responsibilities that make our democracy work.</p>
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

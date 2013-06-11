@@ -1,0 +1,98 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="smith">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Wayne A. Smith</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/smith.jpg"><img src="images/smith.jpg" alt="photo  of Rep. Wayne A. Smith " class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Representative Wayne A. Smith is the House Majority Leader in the Delaware General Assembly.
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The First State</span></h2>
+     
+
+ 
+
+
+<p>The Delaware farmers, townsmen, lawyers and officials who gathered in convention in Dover in December of 1787 were a lot like their fellow Americans.  They were a practical sort who made a living growing produce or practicing skilled trades in small shops. Government barely touched their daily lives.  They were men of liberty, thoroughly convinced that they as individuals possessed unalienable rights and could govern themselves without the aid of kings or princes.  This they had proved recently by besting the world's most formidable empire through eight years of hard war.</p>
+
+<p>	These men who looked and lived like their fellow inhabitants of the great new continent were called to consider the Constitution of the United States.  That they were here at all would have surprised all of them a few short months ago.  Delaware had joined her sister states, loosely aligned in confederation since winning independence, in sending delegates to Philadelphia to discuss ways to make what national government there was more effective.  Those delegates had ended up tossing out the whole thing and instead produced a Constitution that would bind thirteen American states in a federal association with powers much greater than many wanted to cede.  </p>
+
+<p>	Great questions were building on the eastern seaboard of America.  Would this new government be corrupted by so much power?  Would the states, newly possessed of independence and liberty won through lives and treasure, see the Constitution take those dear gains through national law and the actions of a singular president?  Or would the plan of government, as those who framed the Constitution argued, usher in a new period of prosperity and stability?  Would liberties and states' interests be protected through divided government with a legislative branch having a Senate made up entirely of members sent by state legislatures themselves?  Would this new national government, defined in terms of only what it was allowed to do, serve to protect the independence of a weak confederation eyed by hungry European powers looking for their share of the North American continent?</p>
+
+<p>	These questions animated men from Boston to Charleston.  Particularly in New York and Virginia where pure libertarians like Patrick Henry saw only despotism in the new document.  Many liberty loving Americans feared creating a stronger national government would quickly alienate them from their rights.</p>
+
+<p>	Delawareans, so like other Americans in the way they lived their lives, differed in some important aspects as a state.  The Delawareans who met at Dover possessed a small state (so small that they were holding their meeting at a tavern called the Golden Fleece, no suitable meeting space not attached to lodging and libations being available).  Of vital interest to Delawareans was her standing among the states.  Small in population, she jealously defended the rights of states in themselves to be considered equal in national deliberations -- something protected by the current Articles of Confederation where each state had one vote on legislative matters.  They knew that they did not posses the power to stand against feared European encroachments alone.  With a vulnerable coastline -- one that had seen pirates during the preceding hundred years and the British Navy during the last ten -- it needed close association with her sister states for defense.  Delawareans also relied on out-of-state markets for commerce more than other Americans whose states were comparatively immense geographies. Barriers to trade and internal tariffs rising among her sister states threatened the average Delawarean more than someone from Massachusetts or North Carolina.  </p>
+
+<p>	What sentiments there were for the concerns of Patrick Henry were outweighed by the practical needs of the inhabitants of a small polity with an exposed coastline.  Comforted by the provision for a Senate with each state having equal representation, the Delaware delegates wasted no time in meeting and unanimously ratifying the Constitution on December 7th, 1787.  Delaware was in and in first.</p>
+
+<p>	The debates of the delegates who assembled at the Golden Fleece are lost to time (in another example of how small a state Delaware was, her early governmental records were stored by a tavern keeper who provided meeting space for the state legislature).  While we don't know the specific words and speeches that attended the vote, we do know that the needs and interests of Delawareans led to the quick and unanimous ratification of our nation's founding document.</p>
+
+<p>The Golden Fleece was torn down in the 1830's -- the place where the United States as we know it began to unite no longer stands.  However, the shadow cast by that meeting place is a mighty one reflected in fifty state houses, the halls of Congress, in the hearts of some three hundred million of us and in the aspirations of billions the world over who look longingly to the type of constitutional government Delaware was first to ratify when our great example still lay entirely ahead of the world.</p>
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,96 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="ritter">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Professor Judy Ritter &amp; Ross Kleinstuber </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/ritterB_200x230.jpg">
+         <img src="images/ritterB_200x230.jpg" alt="photo of Professor Judy Ritter  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Authors: Professor Judy Ritter and Ross Kleinstuber
+      <br />
+Judy Ritter is a Professor of Law at Widener University School of Law's Delaware campus and the Director of the Law School's Criminal Defense Clinic. Her research interests include, criminal procedure, jury instructions and clinical legal education. 
+<br />
+
+Ross Kleinstuber is a graduate student in sociology at the University of Delaware currently working on his doctoral dissertation.  His research interests include the intersection of law and society, capital punishment, crime theory, and human rights abuses and the law.  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Listening to Jurors:  The Capital Jury Project and the Constitution </span></h2>
+
+
+
+<p>   Fairness, Justice, Equal Protection - there is no context for which these ideals are more important than death penalty trials.  Our constitution prohibits cruel and unusual punishment. A death sentence that is arbitrarily imposed or handed down without proper consideration of mitigating evidence -- evidence about the crime or the defendant that suggests the death penalty is inappropriate -- is cruel and unusual and unconstitutional.     Can our criminal justice system ensure that a death sentence meets these constitutional standards?    The United States Supreme Court has required two key safeguards:  a fair and impartial jury to decide if a defendant is eligible for the death penalty and a jury that is clearly instructed about the concept of mitigation.</p>
+
+<p>   Delaware, unlike most death penalty states, leaves the ultimate decision regarding a death vs. life sentence to the trial judge.  The jury makes a non-binding recommendation to the judge.  Nevertheless, it is essential that capital jurors understand the court's instructions about how jurors are to fulfill their roles within constitutional parameters.  Throughout the past year, Delawareans have been participating in an important research study regarding the role and function of capital juries.  This study is part of the nationwide Capital Jury Project (CJP), funded by the National Science Foundation.  The purpose of the study is to investigate the ways in which capital juries make their sentencing decisions by conducting in-depth interviews with former capital jurors.  Earlier phases of the CJP have yielded nearly fifty scholarly studies, many of which have been cited by the U.S. Supreme Court and other federal courts.</p>
+
+<p>The first two phases of the CJP involved interviews of more than 1500 jurors from nearly 25 states.  These earlier phases studied the process of decision-making and the role of race in capital sentencing.  The primary focus of the current phase is mitigation.  The law requires jurors to make individualized sentencing decisions that consider all potential mitigating evidence. By utilizing transcripts of penalty trials along with juror interviews, researchers hope to gain insight regarding the impact of traditional forms of mitigating evidence and of the use of expert witnesses by both the defense and the prosecution.  The analyzed data may help legislative and judicial branches of government make more informed choices regarding the large outlay of resources on the death penalty.  We know that former jurors who have participated in our study have found it to be rewarding.  They tell us that their service left an indelible mark on their memories and it is cathartic to recall and recount the experience.</p>
+   
+<p>There are aspects of the system's use of the death penalty that are disturbing even to those that support capital punishment.  Too often we read about a death row inmate who is released years after his conviction because new evidence proves he is innocent or that his trial was unfair.  Most of us have heard about the statistics that show that members of minority groups are disproportionately represented on our nation's death rows.  The Capital Jury Project provides one avenue for learning more about the reliability of life/death fact-finding.  On Constitution Day, while celebrating the wisdom contained in the document, we ought to pause to consider whether societal institutions do a good job of achieving constitutional ideals.  It would be foolish to expect perfection.  However when it comes to state sanctioned executions, we should be tenacious in our monitoring of the system and have little tolerance for imperfection.      
+   </p>
+
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

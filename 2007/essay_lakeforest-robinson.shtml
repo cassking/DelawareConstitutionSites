@@ -1,0 +1,87 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="lakeforestrobinson">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Lake Forest High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/robinson-sarah.jpg">
+         <img src="images/robinson-sarah.jpg" alt="photo of Sarah Robinson  " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Sarah Robinson  </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Ignorance in American Society</span></h2>
+
+<p>The United States as a country has grown, changed, and prospered, as has the document governing it.  The Constitution and the Bill of rights lay down the rights of the people and explain how the people run the government. Thomas Jefferson once said "when the people fear the government there is tyranny, when the government fears the people there is liberty". It is the job of the people to run the government. Having said that, I fear for the continuation of a democracy because of the ignorance of the people. The founders made the Electoral College because they felt that the citizens were not informed or intelligent enough to decide for themselves.  This seems to be true now with the media flavoring the facts and making it entertainment, and the people caring more about reality TV shows and American Idol than the soldiers over in Iraq.  In the twenty first century, I fear that the democracy will deteriorate due to the ignorance of the people, and because in order for this country to have a democracy, the citizens must be active participants. </p>
+
+<p>I think the most important fact that will influence the twenty first century will be motivation. I fear that something to the same extreme as September eleventh will have to happen again to give Americans the motivation they need to get up and do something about the world we live in. I fear for the world in which we live. When the sales at Sears make the front page on Christmas Day but the soldiers who died in Iraq are on page eight, I begin to wonder: What are we doing, what are we caring about? How can we as a people, as a democracy, and as a country run by the people, live in a democracy that cares so little about the people who live in it? How can we care so much for ourselves that we forget to care for our own citizens?</p>
+
+<p>Let's take a random survey in Washington DC. How many people can tell the surveyor who won this year's American Idol? Ask them who won Survivor, Deal or No Deal, or National Bingo Night. I can guarantee everyone you ask will know at least one. Now ask them what the casualties are in the war on Terrorism. Ask them what legislation the government is passing to bring our soldiers home. In a world where the citizens leave the safety of their democracy and their own rights in the hand of those who are supposed to guide them, this cannot bode well for the future. I stress the ignorance of the people, myself included.  Not only are we limited by skewed information, but also by the thirst NOT to know. We don't want to know what's going on. Citizens in America would rather be ignorant and happy than be told they have to make a decision and act on it.</p>
+
+<p>I fear for the twenty first century. Slowly the people's ignorance will give those in charge too much power.  Slowly the people will become isolated in their homes, glued to the TV and immobile on their couches, not having the brain cells to give a care to the outside world.  The strength of the government will increase, but it won't remain a democracy for long, not a true democracy. The people won't have the power that the government will; the unfortunate concept of a tyrannical government might be applicable to the United States government. People can be educated, but it's much harder to cure ignorance. Ignorance will be the downfall of America in the twenty first century.</p>
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

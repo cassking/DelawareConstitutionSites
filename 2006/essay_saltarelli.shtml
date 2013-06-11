@@ -1,0 +1,97 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="saltarelli">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Bishop Michael A. Saltarelli</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/saltarelli.jpg"><img src="images/saltarelli.jpg" alt="photo   of Bishop Michael A. Saltarelli" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> Bishop Saltarelli is the Bishop of the Catholic Diocese of Wilmington, which includes the State of Delaware and the Eastern shore of Maryland.</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Democratic Vibrancy and Religious Liberty</span></h2>
+     
+
+
+
+
+
+
+
+<p>	Preserving democracy--keeping it vibrant--is not an easy task.  History recounts the fates of countless republics that were created with enthusiasm but which later collapsed into tyranny.  The framers of the United States Constitution were keenly aware of those historical precedents and they attempted to design a constitution that would safeguard democracy for future generations of Americans.  To date their experiment has largely succeeded despite all of our problems and difficulties.  Why has this happened?  There are undoubtedly many reasons, but let me focus on one of the key ingredients to that success--the guarantee of religious liberty contained in the first amendment of the Constitution.</p>
+	
+<p>	The first amendment, among other things, forbids Congress from creating an established religion and from interfering with the free exercise of religion.  While the exact parameters of the constitutional text have been the subject of much litigation and debate, it has been clear from the start that it requires the federal government to respect the religious liberty of the people.  As a result, opinion polls routinely say that America is one of the most religious countries in the world.  People from all sorts of religious traditions have come to this country and have been generally secure in the knowledge that they would be able to practice their faith without undue hindrance by the government.</p>
+	
+<p>	The Catholic Church strongly supports the idea of religious liberty and the first amendment's guaranty of religious liberty is echoed in Catholic teaching.  In 1965, for example, the Second Vatican Council and Pope Paul VI issued the Declaration on Religious Freedom (the Latin title is "Dignitatis Humanae").  This document, which was much influenced by Americans including Archbishop Lawrence Shehan of Baltimore, and, Fr. John Courtney Murray, an American Jesuit priest and theologian, proclaimed that all humans had the right to religious freedom.  According to the Declaration, religious freedom should be recognized by society as a civil right, and that religious institutions should normally be allowed to function free of government interference and intrusion.  Pope John Paul II frequently reiterated these points throughout his long papacy, and his successor, Pope Benedict XVI, continues to preach for religious tolerance and liberty.</p>
+	
+<p>	Religious liberty helps to promote a vibrant democracy because, in the words of the Declaration on Religious Freedom, the right to religious freedom arises in the "very nature" of humans.  Recognizing religious freedom acknowledges the dignity of human beings as persons who are "privileged to bear moral responsibility."  As moral actors, humans must normally make voluntary moral decisions as they seek the truth.  Indeed, the concept of democracy rests on the idea that people are capable of bearing moral responsibility and of making adequate decisions on how society should be governed.  Restricting religious liberty thus necessarily questions the philosophical basis of democracy.</p>
+	
+<p>	The Catholic Diocese of Wilmington contains some of the oldest English-speaking Catholic settlements in America.  English Catholics came to Maryland's Eastern shore in the middle of the 17th Century in search of religious freedom.  That freedom flourished for a while, but it came under challenge at the end of the 17th Century, and for most of the rest of Maryland's colonial history, Maryland's Catholics, like most Catholics in the English colonies, were subject to penal laws that prevented their participation in politics.  Perhaps as a result, Catholics from Maryland and elsewhere tended to be strong supporters of the American Revolution and later the Constitution, with its strong endorsement of religious liberty.  They had seen for themselves what a lack of religious liberty meant.</p>
+
+<p>Religious liberty helps to promote a vibrant democracy because it is in accord with fundamental human nature.  It allows each person to search for religious truth and consequently it allows people from many different religious groups to live peacefully with each other as the rights of each faith are respected.   Religious liberty breeds tolerance and mutual respect and has tremendously assisted in creating a vibrant democracy in the United States.  We can thank the framers of the Constitution for that remarkable achievement.</p>
+
+	
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

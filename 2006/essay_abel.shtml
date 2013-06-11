@@ -1,0 +1,114 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="abel">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Reverend Jack Abel, Senior Pastor</h3>
+        <!-- Start Post -->
+      <div class="post2">
+      <p class="photo">
+         <a href="images/abel.jpg"><img src="images/abel.jpg" alt="photo   of Reverend Jack Abel"/></a>
+        </p>
+
+              <p class="phototext">               
+ Reverend Jack Abel, Senior Pastor,	   
+Epworth: a United Methodist Church,
+Rehoboth Beach, Delaware,
+<a href="http://www.epworth-rehoboth.org" title="Epworth United Methodist Church">http://www.epworth-rehoboth.org</a>
+
+	    </p>
+	   
+
+      </div>
+      <!-- End Post -->
+      
+
+       <!-- <p>        <a href="images/abel.jpg"><img src="images/abel.jpg" alt="photo   of Reverend Jack Abel" class="floatLeft"/></a>
+
+      
+	    
+Reverend Jack Abel, Senior Pastor,	   
+Epworth: a United Methodist Church,
+Rehoboth Beach, Delaware,
+<a href="http://www.epworth-rehoboth.org" title="Epworth United Methodist Church">http://www.epworth-rehoboth.org</a>
+</p>
+-->
+	    
+
+
+<h2><span class="title">Politics and the Pulpit: on the Separation of Church and State </span></h2>
+     
+
+
+<p>As a United Methodist pastor, I occasionally am told that a sermon has strayed too far across the line that separates Church and State. My answer is to invite reflection on that separation, and the freedoms and responsibilities that attach to it.</p>
+
+<p>Baptism provides entry to a paradoxical freedom through absolute submission to Christ. Though foolish in worldly eyes, this sacrificial allegiance is freedom to realize salvation for those who believe. A church that silences its rhetorical voice in criticism and encouragement of socio-political realities is failing in this submissive, transforming, and saving relationship. For Christ is socially and politically critical and encouraging. He does not shy away from challenges to the inconsistencies and failures of contemporary political and religious leaders--particularly when their conduct seems hypocritical in relation to their purported ideals. </p>
+
+<p>The First Amendment restricts legislative activity. "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof." Does such disestablishment also require the Church to carefully skirt political rhetoric? That seems a strange notion, given that preaching is an exercise in rhetorical politics. The pastoral role has many aspects, but central among them is proclamation. The Hebrew notion of a "word from the Lord" is preserved in Christian exhortation. The purpose of a homily is not simply interpretative but persuasive. Any decent sermon invites the community and its individual constituents to be changed.</p>
+
+<p>Let me not be naive. The occasional critic does not complain that I have sought to be persuasive, but about what. "I did not come to church to hear about Democratic vs. Republican issues, nor to be asked to question the military, social, or political decisions our representative government has made." In the first respect, the complainant is supported by long-standing IRS policies, recently under renewed enforcement. Partisan politicking by churches and other non-profits is prohibited, and churches can lose their tax-exempt status if they fail to comply. </p>
+
+<p>A pertinent case involved the purchase of advertisements by a church in support of an election. The Church is not forbidden from this marketplace, but is then no longer entitled to tax exemption because it has turned from charitable to enterprising activity. That there are gray areas between church and state is certainly clear in this debate. I know I have failed on occasion by expressing a preference for one or more of the factions within our social and political spheres, when a more sober understanding is that in Church and in politics all have sinned and fall short of the glory of God. </p>
+
+<p>However, the First Amendment also protects religious voices under the aegis of free speech. This is not simply the freedom to invite persons to an ethereal relationship. Freedom of religious expression guarantees the Church's right to speak on the needs of the poor, the political conduct of the nations, or the social behavior of citizens at large. Jesus sets our work before us in reading from the Isaiah scroll, "The Spirit of the Lord is upon me, because he has anointed me to bring good news to the poor. He has sent me to proclaim release to the captives and recovery of sight to the blind, to let the oppressed go free, to proclaim the year of the Lord's favor" (Luke 4:18-19 NRSV). Herein lies the Church's mandate for social, religious, and political critique. </p>
+
+<p>Although the Church may not champion particular candidates, it has the right and responsibility to question the military, social, or political decisions our representative government has made. The illustrations of "charitable" activity in the tax code are instructive. We may speak and act on behalf of "relief of the poor, the distressed, or the underprivileged; advancement of religion; ... lessening the burdens of government; lessening of neighborhood tensions; elimination of prejudice and discrimination; defense of human and civil rights secured by law; and combating community deterioration and juvenile delinquency." </p>
+
+<p>Under this umbrella, there is protection for anti-poverty and anti-war activism that my understanding of Christian faith must proclaim. There is also protection for those who believe that our Scriptures must be understood as prohibitive of abortion, supportive of prayer in schools, or critical of evolution as a theory for the origin of human beings on earth. While I may be incredulous at the reasoning used to support these claims, I celebrate the national protections of those who in good will proclaim them. I and others even have the right to be wrong. </p>
+
+<p>For me, then, the separation of Church and State is a matter of different allegiances. A recent debate in Southern Delaware has made the national news. Public school officials and the constituent communities have been challenged regarding prayer practices at meetings, commencement ceremonies, and in other venues. They mistake the public school's proper allegiance, which is to the State (conservative Christian views notwithstanding). On the other hand, certain parishioners want the American flag to be on display within the Church. My preference is quite the opposite. The historic expression of Jesus, "render unto Caesar" (Mt. 15:21) must be our guide. Our allegiance as Church is a separate matter, an allegiance to Christ as Lord. Jesus is our standard, not the American flag.</p>
+
+<p>As we celebrate our Constitution, we are reminded that its liberties are not entirely without limits, and that respect of boundaries is a necessary condition for the universal protection of the freedoms of religious belief and expression we all enjoy. </p>
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,92 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="capehenlopenhouston">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Cape Henlopen  High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/houston-christine.jpg">
+         <img src="images/houston-christine.jpg" alt="photo of Christine Houston" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Christine Houston</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Useful 12th Amendment?</span></h2>
+
+<p>If someone were to give me the remarkable power to create one amendment to the Constitution I would create an addition abolishing the 12th amendment.  This amendment gives the United States Electoral College the power to elect our nation's president and vice president into office.  I firmly believe that there is no need for the electoral college in this day and age, therefore my new amendment would give the people of the this nation the right, and the power, to elect their own leaders in a truly democratic, new, and more logical way.</p>
+
+<p>The electoral college is undemocratic, outdated, and unnecessary in today's 21st century.  The United States of America has a tradition of demonstrating "pure democracy," or democracy where sovereignty is based on citizens who choose to participate and when elected representatives elect people into office they are bound to the will of the people.  But, if the Electoral College were bound to the will of the people then how is it possible that in the 2000 election, the candidate who won the popular vote was not voted into office?  This election is only one of four examples in history of how the electoral college has turned the popular vote into an almost pointless practice.  Where is the democracy in this practice if the people can't even elect their own leaders?   There is none.  Therefore, the whole process is undemocratic and pointless. </p>
+
+<p>In addition, the way that the electoral college elects people into office is an outdated system.  The college was originally created to provide the country with a group of men who could use their "wisdom" to make a good decision for the naive people of the nation.  During </p>
+
+
+<p>America's early years, people were uneducated, and incapable of making sound decisions.  The country was still creating its existing government and people were pouring in from all corners of the world homeless and uneducated because schooling was available only to the wealthy.   Today however, there are very few illiterate people in society.  In fact so few, that Congress had decided that a person at the tender age of eighteen is capable of casting his or her vote for presidency.  Now in the 21st century almost every child goes to school at least until they reach high school.  This provides each individual with the knowledge and understanding required to make heavily weighted decisions that include choosing who they want to lead them and their country.  Therefore, there is no more need for the electoral college to make decisions that the American people are more than capable of making for themselves. </p>
+	
+<p>My solution to this outdated and chauvinistic system would help turn the United States government into a "pure democracy".  This amendment would give the American people the right to choose their own president and vice president by way of the popular vote.  If all men and women have equal rights, then every American citizen should have the right to choose their  leaders by casting their own vote for president and vice president.  My amendment to the constitution abolishing the 12th amendment would give Americans this power and then the United States could truly call itself a democracy.  </p>
+
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

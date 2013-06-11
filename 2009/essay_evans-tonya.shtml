@@ -1,0 +1,110 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="evans">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+     
+<h3>Tonya M. Evans </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/evans.jpg">
+         <img src="images/evans.jpg" alt="photo ofTonya M. Evans  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author:Tonya M. Evans  
+      <br />
+ Tonya M. Evans is an Assistant Professor of Law at Widener University School of Law 
+(Harrisburg campus) and an attorney specializing in the areas of entertainment law and intellectual
+property.  She is a nationally recognized speaker who presents to various audiences regularly
+on publishing and intellectual property issues and is the author of an award-winning series
+of legal reference books for writers and other innovators. 
+Visit her blog at <a href="http://ipprof.blogspot.com">ipprof.blogspot.com</a>
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> ALL ABOARD! Free Access Equals a Free Ride on the Information Superhighway: Are Hyperlinks and Summaries Bringing the News Industry to its Knees?
+</span></h2>
+
+
+
+<p>Reporters, academics, lawyers, and the industry itself are all weighing in on what many refer to as the news reporting crisis. But the blogging, Facebook updating, Twitter-tweeting, generation is not so convinced that a flat line for printed newspapers is a crisis at all. But rather progress. And even their Blackberry-toting parents have flocked to the Internet as a leading source of free and instantaneous information over traditional print media. There is no shortage of new media content-providers poised to compete with print and on-line newspapers by simply hyper-linking to their content, despite recent legal battles involving search engines like Google over the propriety of such actions.</p>
+
+<p>But if the dizzying pace continues in the race to break news at any cost- even and especially at the expense of fact checking and reliable sourcing, what will happen to news and information? Not the type that keeps us abreast of the opinions of every Tom, Dick and Harriet who can upload copy to the Internet, "Re-Tweet" or summarize and link to O.P.N. (other people's news); but rather the type of news written by well trained and (most importantly) impartial journalists on whom our democracy has relied traditionally to sow the seeds that blossom into a well-informed electorate. The kind Thomas Jefferson envisioned.</p>
+
+<p>Print newspapers across the country are folding at a staggering pace. Meanwhile, the Blogosphere is bursting at the seams with instant-access to information via hyper-link laden news summaries ripe with news bits hand-picked like low-hanging fruit and offered for little or nothing. All of this is done without compensation, or even in some cases attribution, to the source. So it seems respect for intellectual property rights may be an after-thought, if it is even thought of at all. Welcome to the "free riding" train. An express with no stops, perhaps, until print media as we know it is left in the dust.</p>
+
+<p>A crisis? Probably. A temporary crisis? Probably not.  And here's why. It is estimated that newspaper advertising revenues, the lifeblood of a newspaper's bottom-line, are down sharply. Analyst Alan Mutter reported in his blog titled "Reflections of a Newsosaur" that the industry suffered its worst quarter in modern history because advertising sales fell by an unprecedented 28.3% in the first three months of 2009, plunging sales by more than $2.6 billion from 2008, and newspaper shares dropped an average of 83.3% in 2008, wiping out $64.5 billion in market value in just 12 months. Not surprisingly, reporter and editor layoffs have reached an alarming and unprecedented rate.</p>
+
+<p>Possible causes? For starters there is the current economic downturn. Then there is the critical, seemingly irreversible shift in consumer behavior that has resulted in a declining print media readership. And then there is the problem of exorbitant overhead and burgeoning bottom lines in an industry that refused to change soon enough or fast enough in rapidly changing times. Kind of like a horse and buggy now trying to merge onto I-95. </p>
+
+<p>But free riding on the Cyber-highway is one of the more troublesome culprits, at least from an intellectual property perspective. And this reality is simply a new face on an old problem from the days of the infamous 1918 Supreme Court case International News Service v. Associated Press, between two staunch competitors in the news gathering and dissemination business. </p>
+
+<p>In that case, The Associated Press (AP) filed a lawsuit to stop International News Service (INS) from, among other things, copying news posted by AP to bulletin boards and published in east coast early editions and selling as its own on the west coast. Although the main issue was whether there was any legal basis to prevent INS from such copying, the more fundamental question was whether there exists any property right in news leads? </p>
+
+<p>The short answer was no; or not exactly. As the Court explained, news leads have a dual character: the substance (facts themselves) and the form (how those facts are assembled on the page as content). The latter is protected by Copyright law. The former, however, is not because facts are common property to all. They are not the creation of the writer, but merely a report of public matters.</p>
+
+<p>The Court did go on to say, however, that news leads are the "stock in trade" of a news gathering service because that company has invested time, effort, skill and money into gathering and packaging the information for its newspaper members. Accordingly, the Court acknowledged a protectable "quasi-property" interest in news leads as between competitors in the business of selling those leads and prevented INS from reaping where it had not sown.</p>
+
+<p>But how does that seminal case apply on the World Wide Web? Judge Richard Posner of the Seventh Circuit Court of Appeals, a self-proclaimed pessimist about the chances for any significant recovery by the newspaper industry, asked similar questions. And in a recent post at The Becker-Posner Blog (yes, even our most esteemed legal minds are taking to the Blogosphere!), he suggested that copyright law should be expanded "to bar online access to copyrighted materials without the copyright holder's consent," or "bar linking to or paraphrasing copyrighted materials without the copyright holder's consent." This shift in copyright law, explains Judge Posner, might keep 'free riding' at bay and thwart the unfair competition that threatens the viability of print media and the art of impartial journalism.</p>
+
+<p>The question remains, however, whether the fate of traditional news reporting and the industry's attempts to protect their "stock in trade" is past the point of no return or whether the industry can figure out how to get Pandora back into her box. One might also wonder whether the industry is even guaranteed a seat as this twenty-first century "free riding" train moves forward full steam ahead.</p>
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

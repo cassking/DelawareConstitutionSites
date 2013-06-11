@@ -1,0 +1,81 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="homepage">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span>
+
+</h1>
+  <h2> The Constitution and <span class="dark">  the Presidency </span></h2>
+
+          <p><img src="images/president-button-leftTilt.jpg" alt="Presidential Pin" class="floatLeft"/></p>
+
+
+
+
+<p>Welcome to Widener University School of Law's 2008 Constitution Day Essay Collection.  For the third year in a row, the Law School has asked a group of authors to submit short essays reflecting on the meaning of the Constitution and the state of American democracy.  By collecting these essays and making them easily accessible, we hope to prompt Delaware residents - and their friends in other states - to use Constitution Day as an occasion for pondering how "We the People" can better fulfill the promise of the Preamble to the Constitution "to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity." </p>
+
+<p>Given the proximity of this year's Constitution Day to the Presidential election, we have focused the 2008 essays on the Presidency.  To start our collection, we solicited essays from two prominent Delaware politicians who have themselves been candidates for President: <A HREF="http://law.widener.edu/constitution/2008/essay_biden-joseph.shtml">Senator Joseph R. Biden, Jr.</a> and <A HREF="http://law.widener.edu/constitution/2008/essay_dupont-pete.shtml">former Governor and Delaware Congressional Representative Pete du Pont</a>.  Little did we know when Senator Biden agreed to participate that he would shortly be named the Democratic Vice Presidential candidate.  We are honored that he managed to keep his commitment despite his pressing campaign obligations.</p><p><img src="images/whitehouse_200x230.jpg" alt="photo of the white house" class="floatLeft"/></p>
+
+<p>In addition to Senator Biden and Governor du Pont, we solicited essays from prominent political science and constitutional law professors with expertise on the Presidency.  Finally, we asked <A HREF="http://law.widener.edu/constitution/2008/essay_fennell-drewry.shtml">Drewry Fennell</a>, the Executive Director of the Delaware American Civil Liberties Union, to submit an essay.</p>
+
+<p> These authors have provided us with a collection of thoughtful and thought-provoking essays.  Some of the essays examine the process by which we select Presidents while others consider the scope and limits of Presidential power.  But all are beautifully crafted and easily accessible to a lay audience.</p>
+
+<p> We are grateful to the authors for the time and effort they put into preparing the essays.  We are also grateful to Widener's Webmaster, Cassandra King, who has once again created a wonderful website for displaying the essays.  Finally, we are grateful to the editors of the News Journal, especially Editorial Page Editor John Sweeney, for the generous coverage they give each year to our Constitution Day Essay Collection.
+</p><p><img src="images/wethepeople_200x230.jpg" alt="photo of the US Constitution"  class="floatRight"/></p>
+<p>Thank you for visiting our site.  We hope you enjoy the essays.  If you would like to share your own thoughts, please go to the page for <A HREF="http://law.widener.edu/constitution/2008/participate.shtml">submitting comments</a>.   As a special treat this year, we will be giving two tickets to The Constitutional Walking Tour of Historic
+Philadelphia to the <strong>first twenty people</strong> to submit substantive comments to the website.  We are grateful to the managers of <em>The Constitutional</em> for generously donating these tickets.  To learn more about the tour, please visit <a href="http://Phillywalk.com">PhillyWalk.com</a>.
+</p>
+<p>Alan E. Garfield<br />
+Constitution Day Project Founder and Coordinator<br />
+Professor of Law<br />
+Widener University School of Law</p>
+
+
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

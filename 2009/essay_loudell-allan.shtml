@@ -1,0 +1,136 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="loudell">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+     
+<h3>Allan Loudell</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/loudell.jpg">
+         <img src="images/loudell.jpg" alt="photo of Allan Loudell " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Allan Loudell<br />
+Allan Loudell, V.P., Delaware Press Association, is a news anchor--interviewer at 1150 A.M. WDEL Radio, heard 12 Noon--1 p.m. & 4--6 p.m.  He marks 40 years on-the-air.
+
+      </p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+ Challengers - and Opportunities - For Local Radio</span></h2>
+
+<p>Charles Dickens' opening, "It was the best of times, it was the worst of times" could easily describe the state of local news reporting, and certainly local news reporting on the radio.</p>
+
+<p>We now have previously unimagined resource tools - with quick access to information - and the means to disseminate news through many different platforms.</p>
+
+<p>Yet the exponential expansion of the news / information universe - leading to a fragmentation of audiences - has imposed harsh new economic realities, only exacerbated by the current recession.   Bluntly, journalists everywhere are expected to do more with less.  More product on more platforms, less time.</p>
+
+<p>I've been visiting newsrooms since the late 1960's.  I remember a time when journalists and others in the newsroom debated the issues of the day.  Today, not so much.  We just don't have the time. </p>
+
+<p>For example, 1150 A.M. WDEL Radio and www.wdel.com maintains the biggest remaining broadcast news operation in Delaware.  But, we're multi-tasking as never before:  Producing, voicing, and editing stories for our on-air radio station and our website.  Assembling video stories.  Writing blogs.  Adding podcasts to our website.  Sending out Twitter and TXT messages.</p>
+
+<p>Undeniably, our station seeks to extend our "brand" far beyond our A.M. signal, even though our 1150 signal remains the backbone of the operation.  But one can easily imagine a day when most listeners monitor us on their cellphones.  Indeed, the "reach" of the new technologies can be exciting.</p>
+
+<p>But, some of America's gargantuan broadcast companies have harnessed the new technologies simply to economize.  One broadcast news hub in a major city may provide newscasts to many stations in that metropolitan area.  More disturbingly, that hub may send cookie-cutter newscasts to stations hundreds of miles away, with little appreciation of local pronunciations and sensitivities.  Local news reporting, as such, hardly exists in such operations.  Piracy of newspaper content is common.</p>
+
+<p>Since some of those same broadcast companies are now struggling with bankruptcy and solvency, we could see a return of some broadcast stations to local or regional ownership.  But that will be no panacea.  Just as many cities shed their afternoon daily newspapers, and now, publishers contemplate mainly web-based operations, the current technological & economic whipsaw could force many U.S. stations off the air.</p>
+
+
+
+
+
+<p>I've long maintained while every new communications platform alters the use of the previous technology, it doesn't eliminate it.  Radio didn't kill newspapers and magazines; television didn't kill radio and motion pictures; and the internet won't eliminate over-the-air broadcasting.</p>
+
+<p>But for local radio to survive - and I use the term "radio" here loosely, as in broadcasting by cellphone - surely local content remains key. </p>
+
+<p>For "spoken word" stations (News & talk), that means aggressive community involvement and marketing, and yes, local news reporting.  In the case of Delaware - with the demise of WHYY TV's "Delaware Tonight" and newspaper staff cutbacks - that places an even greater burden - and opportunity - for local radio news.</p>
+
+<p>We must creatively use the available resources.  For example, harnessing the talent - and reach - of local bloggers.  Challenging our listeners to call or email tips.  Using our website as an extension for what we can't do on the air.</p>
+
+<p>Finally, radio news - and journalism more generally - must search its soul.  For a century, we've preached objectivity.  Give both sides, or all sides.  </p>
+
+<p>But does the American public truly value that ideal?  </p>
+
+<p>Addressing civic, business, and church/synagogue audiences, we used to vigorously discuss objectivity and perceived media bias.  I would point to examples of both conservative and liberal media bias.  I long argued that the bias of U.S. parochialism (more entertainment & sports, less international news), fed by advertising pressure to cater to younger audiences, trumped boilerplate ideological bias.  The unstated assumption:  Objectivity was the holy grail.</p>
+
+<p>But something changed.  Cable TV "news" and talk radio demonstrated mass audiences actually seemed to prefer a strongly opinionated presentation.  </p>
+
+<p>Bloggers - both of the Right and the Left - sought not evenhandedness, but the "truth".  "Don't give both sides", I've been told.  "Just report the truth".</p>
+
+<p>And here's where the accelerating 24/7 media cycle clashes with the reality of smaller newsrooms and newspeople trying to service multiple platforms.   Even as traditional journalists endure the crossfire from all sides, even as we struggle to identify true facts, we often have no recourse but to report what various people say.  The truth becomes even more elusive.
+</p>
+<p>________________________________________________________________________</p>
+<p>Allan Loudell, V.P., Delaware Press Association, is a news anchor--interviewer at 1150 A.M. WDEL Radio, heard 12 Noon--1 p.m. & 4--6 p.m.  He marks 40 years on-the-air.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,90 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="glasgowkazzaz">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Glasgow High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/kazzaz-nadine.jpg">
+         <img src="images/kazzaz-nadine.jpg" alt="photo of Nadine Kazzaz  " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Nadine Kazzaz </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Right to Religion</span></h2>
+
+<p>America is a free country with free people and free choices to make. Our Constitution states our freedoms. And the Bill of Rights states the first Ten Amendments which gave us even more freedoms. To many, the most important amendment is the very first one. This amendment isn't only the first one, but the most versatile one. It includes so many freedoms, freedoms we exercise today, freedoms that make America what it is and draws people to the United States. In fact to a lot of people the most important freedom of all is the freedom of religion. With out that this country would be nothing. This freedom is exercised by each and every American every day of our lives. Here in America we don't have any one set religion nor do we have a dictator telling us if we don't believe in his or her religion we must be punished and even die. But, we do have a variety of religions to choose from.</p>
+	
+<p>Since the beginning of the United States and even before we were known as the United States, people would come to America to practice religion freely.  The first of many groups that came to America were the Pilgrims who came from England in 1620. The pilgrims wanted to practice religion separately from the Church of England.  So, they came to the United States to practice their religion without any restraints, when they landed on Plymouth Rock that same year. Together both the Pilgrims and Native Americans gathered together one evening, an evening we call Thanksgiving, which had no set religious practice but was rather just a national celebration of thankfulness.  And that's the beauty of it all.  You don't have to believe in any one thing here in America.  You can believe as you wish and live a happy and complete life because of this freedom.</p>
+
+<p>Many countries have set religions where you either believe or die. For instance, during the late 1930s to the mid 1940s, the infamous Adolf Hitler was determined to kill all the Jews in Germany.  Hitler believed that all Jews must die simply because they are Jewish, not because they are bad people. The Holocaust led to the death of 11 million people which included about 6 million of the Jewish faith. Today, many other countries still practice only one religion and enforce it throughout their country, like North Korea and China which are communist countries. Citizens in countries like Iraq are fighting and killing each other over religion.  But here in America we don't have to fight because we can practice religion freely.</p>
+
+<p>In America, you are able to see religion being practiced freely. You can simply walk down the street, in a place like Manhattan, and see Muslim women wearing scarves, religious Jewish men wearing yarmulke on their heads, and even Catholic nuns dressed in long black gowns. Religion is practiced all over our country. Having the option of being able to choose our religion allows us as Americans to do what we believe in and what makes us happy.  Ultimately, who we believe in is what makes us content with ourselves, whether it's a God, gods, idols, or sometimes even nothing at all. </p>
+
+<p>We can choose religion because we have that privilege to live freely, believe freely, worship freely, and refuse to accept religions we don't wish to be a part of. Some of us may go with traditional religions such as Christianity, Judaism, and Islam, while other of us may choose to believe in fairly new religions like Scientology or better yet make up one of our own. Overall, religion is key to living a happy life.  Being able to choose one's religion just brings us more happiness and freedom. </p>
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,95 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="adams">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Senator Thurman Adams, Jr.</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/adams.jpg"><img src="images/adams.jpg" alt="photo   of Senator Thurman Adams, Jr." class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Senator Thurman Adams, Jr.
+President Pro Tempore
+Delaware State Senate</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Delaware's Special Role in Creating the U.S. Constitution</span></h2>
+     
+
+
+<p>Delawareans have a special reason to celebrate Constitution Day, and I do not mean the fact our state became the first one to ratify the U.S. Constitution.  While that is a matter of great and justifiable pride for all Delawareans, it is an event to which we devote our own, special commemoration each year on December Seventh - Delaware Day.  Yet our state played another, lesser known, part in the drama of creating the U.S. Constitution which to my mind is cause for at least as much, if not more, pride even than that relating to our status as "the First State."  </p>
+	
+<p>	I refer to the part played by Delaware and its delegation to the Constitutional Convention in Philadelphia in the summer of 1787 in what became known as "the Great Compromise," the principle by which the lower house of the U.S. Congress is apportioned based on population while the upper house has an equal number of members from each state.  Without that compromise, it is unlikely that the federal constitution would have been adopted and the future of the United States would have been very different, to say the least.</p>
+	
+<p>	Perhaps the best account of this event is an essay entitled "Delaware's Greatest Glory" by the fine Delaware historian, Judge Richard S. Rodney (1882-1963).  Originally written for a speech he delivered at Old Drawyers Presbyterian Church near Odessa in 1925, it was reprinted a number of times, most recently in The Collected Essays of Richard S. Rodney on Early Delaware, published by the Society of Colonial Wars in the State of Delaware in 1975.  Most of the information in this essay is derived from Judge Rodney's work.</p>
+	
+<p>	Delaware's leaders knew that if apportionment in a new federal legislature was to be determined by population there was no way that our status as an independent state could be preserved in the face of large and populous states like Virginia, New York and Pennsylvania.  Delaware had always been a fiercely independent place since it had managed to break away from the Province of Pennsylvania and form its own legislature in 1704.  Its small size and small population made Delawareans all too aware of the difficulties of preserving independent statehood as the new nation moved toward the consideration of a new plan of national government in 1786 and 1787.  At the time a number of the larger states, including New York and Virginia, were claiming that their territory stretched westward to the Mississippi River and beyond.  States like Delaware, Rhode Island, Connecticut and New Jersey, whose boundaries were constrained by the existence of other states to the west, could not possibly compete with the large states in either size or population.</p>
+	
+<p>	Before Delaware's delegation to the constitutional convention left for Philadelphia in the spring of 1787, one of their number, George Read of New Castle, who also served on the Legislative Council, a forerunner of the Delaware State Senate, succeeded in having legislation enacted that directed the Delaware delegation not to vote for any proposal that did not include equal representation for all states.  The issue of legislative apportionment quickly moved front and center in the deliberations.  Consideration of motions by the larger states to establish population as the basis for representation in the new legislative bodies were temporarily held off, but the pressure was growing.  On June 30, Gunning Bedford of Delaware made what Judge Rodney called "the most violent and heated address of the whole convention" in which he said that if the large states destroyed the principal of equal representation that had governed during the days of the Articles of Confederation "the small states would find a foreign ally of more honor and good faith who would take them by the hand and do them justice."</p>
+	
+<p>	The person who made the motion embodying the Great Compromise was John Dickinson of Delaware.  His motion was quickly approved because all could see that it cleared the way for the new constitution to move forward. </p>
+	
+<p>	The remainder of the story of the approval of the U.S. Constition by a majority of the delegates on September 17, 1787, and Delaware's rapid move to ratify it is well known.  Yet the pragmatism, skill and common sense demonstrated by the Delaware delegation that summer in helping to bring about the adoption of a constitution that served our state well says something very fundamental about the people of this state.  Delaware has throughout its history had good reasons for holding the constitution that our forefathers had so great a part in creating in special reverence because we have long known that without it our statehood would have been little more than a brief, all too temporary, chapter of American history.  With that constitution we have continued not only to exist, but to thrive.
+	</p>
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

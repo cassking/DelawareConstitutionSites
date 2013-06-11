@@ -1,0 +1,111 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="garfield">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Alan E. Garfield</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/garfield.jpg"><img src="images/garfield.jpg" alt="photo   of Alan E. Garfield" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Alan E. Garfield, Professor of Law and H. Albert Young Fellow in Constitutional Law, <a href="http://www.law.widener.edu/" title="Widener Law">Widener Law</a>
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">A More Perfect Union</span></h2>
+     
+
+
+
+
+
+
+
+
+
+<p><em>(This essay first appeared in the News Journal on Sunday, September 17, 2006)
+</em></p>
+
+
+<p>               As a law professor, I take seriously Congress' recent charge to celebrate "Constitution Day" each year on September 17th, the date the Constitution was signed in Philadelphia in 1787.  But even I, a teacher of constitutional law, was not entirely sure what to celebrate.</p>
+
+<p>            I could tell my students we were celebrating the Constitution's text, but they might object that the original document protected slavery. The Constitution, after all, prohibited Congress from outlawing the slave trade until 1808; it required fugitive slaves to be returned to their owners; and it counted slaves as three-fifths of a person when apportioning seats in the House of Representatives.</p>
+
+<p>            I could tell them we were celebrating the amended Constitution including the 13th Amendment abolishing slavery.  But the students might protest that even the revised version fails to give District of Columbia residents a voting representative in Congress, and it neglects to expressly provide for some basic human rights, like a right of privacy.</p>
+
+<p>            Perhaps I could say we were celebrating Supreme Court interpretations of the Constitution.  But even these turn out to be problematic.  Over the course of a semester students learn that the Supreme Court has at times upheld slavery, the separate-but-equal doctrine, the internment of Japanese-Americans, the criminalization of gay sex, and the censorship of antiwar protesters.</p>
+
+<p>            But if neither the text nor its judicial interpretation warrants our unqualified admiration, I began to wonder, what does?</p>
+
+<p>            The answer finally came to me, although I did not find it in the Constitution or Supreme Court precedent.  Instead, I found it in the faces of my students.  Looking across the room and seeing students mirroring the vast diversity of America - different races, ethnicities, religions, and sexual orientations -- I realized that the Constitution is important not only for what it says but also for what it symbolizes.  I recognized that this 219 year-old document is so vital because it embodies our pluralistic society's commitment to treat every individual with dignity and respect.</p>
+
+<p>            Sure, some of this commitment is readily apparent from the Constitution's text: the promises to provide people with due process and equal protection; to protect their homes against unreasonable searches; to respect their religious liberty; and to guarantee their freedom of expression.</p>
+
+<p>            But the commitment goes beyond any individual clause in the Constitution.  Instead, it is implied, beginning with the words of the Preamble that "We the People" ordained the Constitution to "secure the Blessings of Liberty to ourselves and our Posterity."</p>
+
+<p>            Once it became clear what to celebrate on Constitution Day, I realized how important it is to make this new national observance meaningful.  Recognizing how we continue to be ever more diverse, I knew it was critical for us to seize this opportunity to reaffirm our shared commitment to respecting each other's humanity.</p>
+
+<p>            I decided to launch my own campaign for a meaningful Constitution Day in Delaware where my law school is located.  Delaware, after all, was the first state to ratify the Constitution. I didn't see any reason why it couldn't take the lead again.</p>
+
+<p>            I asked the State's government and community leaders to write short essays about the Constitution's significance.  The response was breathtaking.  Both U.S. senators, Delaware's sole Congressional representative, the governor, the president pro tem of the state Senate, the speaker of the state House, federal and state judges, members of the clergy, the director of an organization that assists migrant workers, the chief executive of Dupont, and others all enthusiastically agreed to submit an essay.</p>
+
+<p>            I collected these essays on this website.  I invite you to read them.  Then send me your own thoughts about the Constitution.  I will post many of the thoughtful and inspiring submissions.  I hope this project is the beginning of an ever more expansive and meaningful Constitution Day. Indeed, I hope Constitution Day eventually rises to the same prominence as July 4th.   After all, Independence Day celebrates our freedom from Great Britain. Constitution Day goes one step further. It celebrates the society we chose to create with that freedom.</p>
+
+<p>Alan E. Garfield is a Professor of Law and the H. Albert Young Fellow in Constitutional Law at Widener University School of Law </p>
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

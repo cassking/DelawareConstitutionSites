@@ -1,0 +1,90 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="pildes">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Professor Richard H. Pildes</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/pildes.jpg">
+         <img src="images/pildes.jpg" alt="photo of Richard H. Pildes " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Professor Richard H. Pildes
+      <br />
+      Richard H. Pildes is the Sudler Family Professor of Constitutional Law at  New York University School of Law.
+He is a co-author of <em>The Law of Democracy: Legal Structure of the Political Process</em>.</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+The American Presidency: Too Strong and Too Weak</span></h2>
+
+<p>The Office of the President is both too strong and too weak.  This seemingly paradoxical statement is true because the President's effective power - as opposed to the Office's formal constitutional power " does not exist in a political vacuum.  That power is a function of the partisan makeup of Congress, at least for domestic affairs.  During divided government, when the President and either the House or Senate are controlled by different political parties, we have become familiar with the problems of political gridlock.  On the other hand, during periods of unified government, in which the same political party controls the House, the Senate, and the Presidency, the President has the capacity to exercise wideranging powers without extensive oversight or checking and balancing from the other political institutions of government.</p>
+   
+<p>   The President's power is thus not static or fixed.  Yet neither the Constitution nor our thinking about the Presidency has fully come to terms with this truth.  Indeed, the Constitution did not contemplate a system of political parties at all, let alone a system in which the President's power would depend upon the partisan makeup of government.  When the Constitution was designed, political parties were anathema; the existence of parties " factions, in Madison'9s terms" was a sign of a diseased political system.  The Constitution was specifically designed to create a system that would transcend parties and minimize their role.  But that ambition failed completely by the time of the Jacksonian era, if not before.  We now take it for granted that Republican Congresses will give Republican Presidents great latitude, simply because the President is a Republican, while Democratic Congresses will seek to hamstring that President for the very same reason.  The political fates of the President and members of the House and Senate rise or fall together, based on party affiliation.  Thus, whatever the powers of the Presidency ought to be, we can be confident the dynamics of modern presidential power bear little relation to the original constitutional vision.</p>
+
+<p>   Similarly, for the last several generations, our practical experience has been largely one of divided government, until recently.  Inevitably, the dominance of that experience has colored both the academic study and popular perceptions of the Presidency during that period.  From 1955-2000, government was divided 70% of the time; from 1969-2000, 81% of the time.  With divided government so common for so long, it is no surprise that thinking about the Presidency was dominated by concerns over gridlock, how to make government more effective, and how to strengthen the President's ability to control government.  But starting in 2000, the structure of government began to change in ways that might amount to a tectonic shift.  For several years, we had the longest stretch of unified control of government that we have had in 30 years, in this case by the Republican Party.  If a Democratic candidate wins the Presidency in 2008, we are likely to enter into another period of unified government.  Thus, the power of the President is not going to be what it has been during most of the time since WWII, but the kind of power an American President can exercise when Congress and the White House are in unified hands.</p>
+
+<p>   American government was not designed with the realities of party government in mind, either government unified or divided by party.  Both contexts arguably make American government and the Presidency operate much differently than originally designed.  During unified government, our system works more than we realize like a parliamentary system, rather than one characterized by strongly separated legislative and executive powers.  Moreover, government in either context will be driven to its most extreme form, given how polarized the parties are today.  Unified government will be strongly unified; by historical standards, each party today is highly unified and ideologically coherent.  Presidents are likely to be exceptionally powerful.  Divided government will be all the more paralyzed.  Presidents in that context are likely to be weakened.</p>
+
+<p>   For now, I will focus on the less well-studied risks of unified government.  We need to recognize that, in that context, the conventional stories we tell about our system of checks and balances, or separation of powers, are not all that realistic in practice.  If we continue to believe in the benefits of checks and balances - and I do - we must accept that effective congressional oversight of the President, to improve the functioning of government overall, is not likely when the House, Senate, and Presidency are in the hands of the same party.  We need to modify our institutional structures to find other ways of generating effective checks and balances.  The most promising route would be to give the opposition party tools to oversee the President - perhaps the power to call hearings or to subpoena witnesses or to audit the government.  I do not expect these measures to be adopted, of course; no legislative majority generously cedes power to the minority.  But these are the directions in which we need to think as we recognize that the power of the Presidency will ebb and flow with the reality of whether his or her party also controls the legislative branch.   </p>
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

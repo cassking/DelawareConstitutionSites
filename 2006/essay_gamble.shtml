@@ -1,0 +1,106 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="gamble">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Geoffrey Gamble</h3>
+        <!-- Start Post -->
+      <div class="post2">
+      <p class="photo">
+         <a href="images/gamble.jpg"><img src="images/gamble.jpg" alt="photo   of Geoffrey Gamble"/></a>
+        </p>
+
+
+	    <p class="phototext"> Geoffrey Gamble, 
+President Delaware State Bar Association              
+</p>
+	   
+
+      </div>
+      
+	    
+
+
+<h2><span class="title">The Constitution Safeguards and Challenges Us</span></h2>
+     
+
+<p>	When I was in the fourth grade at Oak Grove School in Elsmere, Delaware, our teacher held up an American Flag. The fingers of her right hand rested on the first star in the upper corner of the blue canton and her left hand carefully touched the first stripe at the top of the flag - a red one. She proudly told us that these two elements - the first star and the highest red stripe - belonged to Delaware. The star signified Delaware's status as the first state and the red stripe was a reminder of the blood shed to achieve our freedom. It was not until much later in life that I really became aware of the reason Delaware is first: it was the first former colony to ratify our Constitution.</p>
+
+<p>	Without the assistance of Delaware lawyers, this would never have occurred. After the Articles of Confederation proved to be an inefficient form of government, a convention of five states met at Annapolis to consider what to do. Delaware was represented by three members of the Delaware Bar: John Dickinson; Richard Bassett; and George Read. Dickinson was elected President of the Annapolis Convention, which successfully urged Congress to call a meeting in Philadelphia to consider revisions to the Articles. What emerged from this Philadelphia Convention in the hot summer of 1787 was our Constitution. Dickinson and Bassett both supported a strong federal government, and under their leadership, Delaware became the first state to ratify the Constitution on December 7, 1787.</p>
+
+<p>	The noted historian David McCullough once observed that one of the enduring truths of history is that nothing ever had to happen the way it did. History could have unfolded in a number of different directions, in any number of different ways, at any point along its path, just as our own lives can. You never know. Another truth is that there is no such thing as a "self-made" man or woman - or self-made country, for that matter. We Americans love the expression "self-made". But the fact is that every one, and every institution, that has ever existed has been affected, changed, shaped, helped, hindered, and/or hurt by the actions of other people, or other entities. Each of us, in turn, is in the process of leaving our own legacy, be it good or evil, of which we may be totally unaware.</p>
+
+<p>	These axioms are certainly true of our Constitution. It did not spring out of thin air. Many would trace the evolution of the rights and safeguards it enshrines back to England and the Great Charter of 1215, more commonly known by its Latin name, Magna Carta. It may be a little difficult in this day and age to make sense of its discussion of amercements, estovers, demesne cartes, socage, burgage, escheats, and advowsons, but it also contained the origins of our nation's civil rights. Clause 39 is one example:</p>
+
+		<p><blockquote>
+No free man shall be taken, imprisoned, outlawed,
+		banished, or in any other way destroyed, nor will We
+		proceed against him, nor set upon him, except by lawful
+		judgment of his equals, and by the law of the land.
+</blockquote></p>
+
+<p>	This is the essence of the right to trial by jury. Dickinson, who received his legal training at the Middle Temple Inn of Court in London, echoed this common law right in 1787, when, during the ratification discussions, he wrote:</p>
+
+		<p><blockquote>
+Trial by jury is our birth-right: and tempted to his own ruin,
+by some seducing spirit, must be the man, who, in opposition to 
+the genius of United America, shall dare to attempt its subversion ...
+</blockquote></p>
+
+<p>	Dickinson felt that the provision of trial by jury, in Article III of the new Constitution perpetuated the right as it had existed under the common law since the time of the Magna Carta. </p>
+
+<p>	The judges and lawyers who practice in our state, all members of the Delaware State Bar Association, continue to cherish our Constitution, especially the ongoing application of its mandates and safeguards in the pursuit of justice. This is a never-ending responsibility. Despite opinions to the contrary, our understanding of the principles enshrined in the Constitution does evolve. To be a living document, interpretations are necessary and, from time to time, even amendments. These often do not come about without a struggle, as the red stripe on the flag constantly reminds us. When our Constitution was created in the 18th Century, a great many Americans were held in the bondage of slavery, and there were serious debates among Virginia clergymen as to whether women actually had souls. After a great Civil War, the 13th Amendment abolished slavery, and following a courageous and persistent suffrage movement, the 19th Amendment gave all women the right to vote. </p>
+
+<p>	The enduring genius of our Constitution is that it not only safeguards our rights to be what we are, both as individuals and as a nation, it also constantly challenges us to become something better. I am proud that Delaware and its Bar, led, and continue to lead, our nation in this process: the first star, the first stripe, the First State.</p>
+
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

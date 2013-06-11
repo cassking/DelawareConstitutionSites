@@ -1,0 +1,88 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="castle">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Mike Castle</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/castle.jpg"><img src="images/castle.jpg" alt="photo   of Mike Castle" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Mike Castle, currently serving a record seventh term as Delaware's lone Member in the House of Representatives. </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Our Country's Constitution</span></h2>
+     
+
+
+<p>On July 4th, 1776, we declared our independence from Great Britain and established the basic principles, "that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness," which have guided our country for the past 230 years. However, our independence did not mean that we had a functioning government. The first government of the United States was formed in 1781 with the ratification of the Articles of Confederation. Six years without a strong national government brought about many problems in areas such as currency, commerce and defense. To remedy these problems took a momentous gathering of some of the young nation's top minds such as George Washington, James Madison, Ben Franklin, Alexander Hamilton and Delaware's own John Dickinson to name a few, at the Constitutional Convention State House in Philadelphia, the same location where the Declaration of Independence had been signed 11 years earlier. </p>
+
+<p>As the lone Congressman for Delaware, my job is to represent the people of the First State.  In order to do this, it is important for the citizens of Delaware to express their opinions so that my decisions can reflect the views of Delawareans.  Constituent letter, phone calls and visits are always my top priorities and the citizens of Delaware are encouraged to make their views and beliefs on any subject they are concerned about.  I need this feedback, so that when I vote on legislation, I am aware of the public sentiment, along with my own personal beliefs, which both have an affect on my vote.</p>
+
+<p>Since September 17, 1987, the United States Constitution has been held as the supreme law of the nation.  Now it is time for Delaware, the first state to ratify the constitution, to rise up as a leader in honoring Constitution Day, which is celebrated on September 17th.  Delawareans must set an example for the rest of the nation and celebrate the Constitution and all of the values it embodies. By holding strong to my ideals and values, striving for effective changes and always keeping in mind the opinions of the constituency, I will continue to make sure that my leadership style holds true to the democracy and liberties that this country stands for. </p>
+
+<p>Delawareans throughout the state should be encouraged to commemorate Constitution Day with pride and respect for the oldest federal constitution.  It is important that everyone understands the meaning behind this great document and its important purpose in the course of American history.  It will continue to be a large part of the foundation of the country and should be treated with reverence everyday, not just on Constitution Day.</p>
+
+
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

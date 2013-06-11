@@ -1,0 +1,159 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="essays">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+
+       <h2>The <span class="dark">Mentor Program</span><br />
+       <span class="dark">Pulbic Officials</span> Acting as Mentors</h2>
+
+
+
+	
+       
+<p>Widener has arranged for each student author to have a "mentor."  Each mentor will read a student's essay and then contact the author to briefly discuss the essay.</p>
+
+<p>Widener is grateful to the following individuals who have graciously agreed to serve as mentors for our student authors.</p>
+
+
+
+<h3>Public Officials - Federal Government</h3>
+ 
+<p><strong>Executive Branch</strong></p>
+
+
+<ul>
+	<li>Colm F. Connolly, United States Attorney, District of Delaware</li>
+</ul>
+
+<p><strong>Legislative Branch</strong></p>
+<ul>
+	<li>Senator Thomas R. Carper</li>
+	<li>Congressman Michael N. Castle</li>
+</ul>
+
+
+<p><strong>Judicial Branch</strong></p>
+	<p><em>U.S. Court of Appeals, Third Circuit</em></p>
+<ul>
+	<li>Judge Thomas L. Ambro</li>
+	<li>Judge Kent A. Jordan</li>
+	<li>Senior Judge Jane R. Roth</li>
+</ul>
+
+	<p><em>U.S. District Court for the District of Delaware</em></p>
+<ul>
+	<li>Chief Judge Sue L. Robinson</li>
+	<li>Judge Joseph J. Farnan, Jr.</li>
+	<li>Judge Gregory M. Sleet*</li>
+</ul>
+
+<h3>
+Public Officials - State Government</h3>
+
+<p><strong>Executive Branch</strong></p>
+<ul>
+	<li>Governor Ruth Ann Minner</li>
+	<li>Chief Deputy Attorney General Richard Gebelein</li>
+	<li>Public Defender Lawrence Sullivan</li>
+</ul>
+
+
+<p><strong>Legislative Branch</strong></p>
+<ul>
+	<li>Thurman Adams, Jr., President Pro Tempore, Delaware State Senate</li>
+</ul>
+
+<p><strong>Judicial Branch</strong></p>
+	<p><em>Delaware Supreme Court</em></p>
+<ul>
+	<li>Chief Justice Myron T. Steele</li>
+	<li>Justice Randy J. Holland*+</li>
+	<li>Justice Joseph T. Walsh (Justice from 1985-2003; currently Of Counsel, McCarter & English)*+</li>
+	<li>Justice William T. Quillen (Justice from 1978 to 1983; currently Of Counsel, Drinker,Bidddle &amp; Reath)+</li>
+</ul>
+
+	<p><em>Delaware Court of Chancery</em></p>
+<ul>
+	<li>Vice Chancellor Donald F. Parsons, Jr.*</li>
+</ul>
+
+
+<h3>Community Leaders</h3>
+<ul>
+	<li>Geoffrey Gamble, President Delaware State Bar Association*</li>
+	<li>Elizabeth M. McGeever, President-Elect, Delaware State Bar Association</li>
+	<li>Thomas L. Sager, Vice President and Assistant General Counsel, E. I. DuPont de Nemours & Co., Inc.*</li>
+</ul>
+
+<h3>Scholars</h3>
+<ul>
+	<li>Robert L. Hayman, Jr., Professor of Law, Widener University School of Law</li>
+	<li>Professor David R. Hodas, Professor of Law, Widener University School of Law</li>
+	<li>Leland Ware, Louis L. Redding Chair for the Study of Law and Public Policy, University of Delaware</li>
+</ul>
+
+*Member, Widener University School of Law Board of Overseers
++Adjunct Faculty Member, Widener University School of Law
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_main.shtml"-->
+
+
+
+<!-- <!~~#include virtual="/constitution/2007/inc/right_nav_essays.shtml"~~> -->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

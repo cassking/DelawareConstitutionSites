@@ -1,0 +1,88 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="laurelbartee">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Laurel High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/bartee-david.jpg">
+         <img src="images/bartee-david.jpg" alt="photo of David Bartee  " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: David Bartee  </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+The Most Important Amendment</span></h2>
+
+<p>There is no such thing as the most important amendment.  They are all intertwined.  If you take one amendment away the rest go with it.  The writers of the Bill of Rights realized this, which is why there are ten.  When you start talking about the importance of rights, you have to step back and think about the effects of the right in relation to other rights.  You can not just take away one.    </p>
+
+<p>When you try to just take away one, you impair another.  How can you have the right to remain silent if you do not have a trial in which to remain silent?  How is it a fair trial if the prosecution can push and push you into incriminating yourself?  And even with the right to remain silent, how could you hope to have a fair trial without freedom of speech?  You would not have any witnesses to help you plead your case, everyone would be afraid to open their mouths for fear of the government.  And once again, it works the other way around.  If you supposedly had the freedom of speech without the right to a fair trial, you could just be thrown into jail.  You would not have any chance to say that they have violated your first amendment rights because the only way to avoid prison is to prove yourself innocent in a court of law.  In Salem, Massachusetts during the Salem witch trials, there were trials to see if people were witches or not, but the people could not prevent the others in the village from being burned for witchcraft, because they could not speak out without being accused of being witches themselves.</p>
+
+<p>Without freedom of speech, the second and third and fourth and fifth and sixth and seventh and eighth and ninth and tenth amendments would not be effective.  The second, fourth, fifth, seventh, eighth, and ninth amendments would be ineffective because if someone were to take away your rights, you would not be able to have a fair trial to get rid of the restriction.  The third amendment would be thrown out due to the fact that you would not have the freedom to tell the soldiers that they are not welcome in your home, and with consent they can legally stay in your home as it states in Amendment III.  Along with the third amendment goes the sixth for previously-stated reasons. </p>
+
+<p>On to the eighth amendment which keeps citizens safe from excessive fines, bail, and cruel and unusual punishment.  Without it the government can easily control the public.  "Money is power." So if the government can charge forty thousand dollars for a parking ticket they can pick and choose who they want to make poor; therefore, having complete control over any person who breaks the slightest law if the government chooses to pursue the person.  With this kind of power, the government could take any right they wanted to take from a person whom they had in such a vulnerable position.   </p>
+
+<p>All the amendments rely on each other.  Without one they all slowly collapse.  So, when asked which amendment is your favorite, think deeper than one to ten. Think about how all the amendments work together to ensure our rights and freedoms as Americans.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

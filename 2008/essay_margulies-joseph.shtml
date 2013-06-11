@@ -1,0 +1,94 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="margulies">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Professor Joseph Margulies</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/margulies.jpg">
+         <img src="images/margulies.jpg" alt="photo of Joseph Margulies " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Professor Joseph Margulies<br />
+    
+Joseph Margulies is a professor at Northwestern University School of Law.  He has played a leading role in coordinating the nationwide litigation challenging the Bush Administration's post-9/11 detention policy.
+      </p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Furious, Spitting Democracy</span></h2>
+
+<p>In the best tradition of the professional ad-man, the clever people at Widener University School of Law have asked a question with just the right tint of provocative ambiguity:  Does the Constitution sufficiently set forth the scope and limits of Presidential power?  Because I'm limited to 750 words, I'll suppose they mean the Commander in Chief power, and not, for instance, arguably less controversial executive powers that also reside in Article II, like the power to receive public ministers.</p>
+
+<p>So this is easy, right?  The answer echoes through time, across lonely and blood-soaked fields, with names forgotten to history:  "  The text is opaque, the debates un-illuminating, and the historical record contradictory.  Even the Founders - the drafters of our timeless charter - could not agree on the "scope and limits" of the Commander in Chief power.  The plain and simple words on the page almost immediately proved inadequate to the challenge of answering the vexing and innumerable questions that promptly surfaced.</p>
+
+<p>Who in our constitutional democracy holds the olive branch, and who the sword?  Aside from the universally agreed power to repel an invasion and to act when the safety of the Nation is at imminent risk, is there an inherent Presidential war power that Congress cannot regulate?  Once Congress has authorized the President to use force, may it also regulate how that force is deployed?  And what of the Courts?  How do they fit in the constitutional allocation?  Regrettably, modern students approach these issues as though they originated only when they first tried to answer them, but every age has struggled with the same questions.</p>
+
+<p>As Supreme Court Justice Robert Jackson famously understood, the problems in this area have always far outpaced their solutions.  Sometimes we kid ourselves and think we have finally caught up with one of the many questions.  We wrap our minds around it, study it from every vantage and then, pompously and foolishly, pronounce it ANSWERED.  But suddenly it morphs into something that looks entirely new, slips through our mental grasp, and races off, leaving us to admit we don't have an answer after all.  </p>
+
+<p>So the question is easy.  Except it isn't.  I have come to conclude - reluctantly at first, later with resignation, but now with something approaching enthusiasm - that deficiencies in the Constitution are the sustenance of our constitutional democracy.  The questions unanswered by the text mock our every attempt at solution, but their damnable endurance forces us into continual and passionate debate over the symbols and issues that define our era - Iraq, Guantanamo, Abu Ghraib, torture - just as others defined an era before:  Vietnam, Gulf of Tonkin, Mi Lai.  And that debate - that loud, furious, spitting, contentious debate - is democracy.  Ironically, then, the same inadequacy of the Constitutional text that leaves us pining for another Convention is the air that breathes life into a political system that otherwise threatens to become moribund.  </p>
+
+<p>Does the Constitution sufficiently set forth the scope and limits of Presidential power?  Absolutely not.  The text is a formula for constant squabble, each generation's pained search for the truth.  And for that we should be grateful.  I do not know whether Shakespeare was right in The Merchant of Venice when he vowed that "murder cannot be hid long - [A]t the length truth will out."  But I do believe that when we search for truth, we find democracy.</p>
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,82 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="mccabe">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>C. Russell McCabe</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/mccabe.jpg"><img src="images/mccabe.jpg" alt="photo  of C. Russell McCabe " class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">C. Russell McCabe - State Archivist, Records of the <a href="http://www.state.de.us/sos/dpa/default.shtml" title="Delaware Public Archives">Delaware Public Archives</a>
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> Documenting Delaware's Role In The Establishment Of Our Nation's Constitution</span></h2>
+     
+
+
+
+<p>As the repository of Delaware state and local government records of enduring value, the Delaware Public Archives possesses a wide variety of documents that highlight issues and activities associated with the establishment of the Federal Constitution. From John Dickinson's report about the Annapolis Convention where the critical need for a new frame of government was discussed, to receipts for expenses of Delaware's historic Ratification Convention - the rich resources of the Archives tell the story of the state and its people during this crucial time in our nation's history. The hands-down 'crown jewel' of our collection is the very document signed by the thirty delegates in Dover on December 7, 1787, making Delaware the first state to approve this new plan for America. While the value of this sturdy piece of parchment is plainly evident, the everyday needs and desires of average citizens as expressed in petitions to the state's leaders are no less valuable as concerns a greater understanding of the enthusiasm of Delawareans for the promise of a better future. </p>
+
+<p>The records of the Delaware Public Archives tell the story of who we are and where we've been, and most importantly, why things are the way they are today. A greater understanding 
+of the present can only be obtained with a greater knowledge of the past. The Delaware Public Archives is located at 121 Duke of York Street, in Dover. 
+For more information about the Archives, its hours, and its holdings, visit our website at <a href="http://www.archives.state.de.us" title="Delaware State Archives">www.archives.state.de.us</a> - or call 302-744-5000. </p>
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,110 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="holland">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Justice Randy J. Holland</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/holland.jpg"><img src="images/holland.jpg" alt="photo   of Justice Randy J. Holland" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Justice Randy J. Holland,
+       Delaware Supreme Court</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Delaware State Courts</span></h2>
+     
+
+
+
+
+
+<p>	Separation of powers is the defining principle of the American constitutional form of government.  The foundation for both our national and state governments is a horizontal separation of sovereign powers between three independent branches - legislative, executive and judicial.  The desirability of dividing the power of government into three main parts can be traced back to Aristotle.  The drafters of America's constitutions were influenced by the 18th-century political philosopher Charles Montesquieu, who wrote:  "There would be an end to everything, were the same [p]erson or the same body, whether of the nobles or of the people, to exercise those three powers, that of enacting the laws, that of executing the public resolutions, and of trying the causes of individuals."</p>
+	
+<p>	In the United States, our federal constitutional system also divides the powers of sovereignty vertically between the national government and the government of each state.  The powers of the national government are enumerated in the United States Constitution, and the Supremacy Clause makes those powers binding upon the states.  The Tenth Amendment, however, reserves all residual sovereign powers to the states.  </p>
+	
+<p>	The primary function of the judicial branch at each level of government is to interpret the law and to apply its remedies or penalties with finality in specific cases and controversies involving both public and private parties.  The United States Supreme Court is the ultimate interpreter of the United States Constitution and federal laws.  The highest court in each state is the final interpreter of that state's constitution and laws.  The opinion of each state's highest court is binding with respect to an interpretation of that state's law in all other state and federal courts.  </p>
+
+<p>State trial courts are presided over generally by single judges who interpret and apply the law in the context of a particular case, usually after hearing witnesses testify and considering other evidence presented by the litigants.  In many trial courts, factual determinations are made by a jury.  Appellate courts are comprised of multiple judges who, without taking additional evidence, hear appeals that allege legal errors were committed at the trial level.  The highest appellate court in each state performs several functions:  it corrects errors of law by a trial court in individual cases; it promotes uniformity in the law by reconciling conflicts in trial court decisions in different cases; it is the final interpreter of the state constitution and state statutes; and it develops the common law.	</p>
+	
+<p>	The Delaware judicial branch consists of the Supreme Court, the Court of Chancery, the Superior Court, the Family Court, the Court of Common Pleas, the Justice of the Peace Court and the Alderman's Courts.</p>
+	
+<p>	The Delaware Court system looks like a triangle.  The Justice of the Peace Court and the Alderman's Courts are the base of the triangle and the Supreme Court is the apex.  As a case proceeds upward through the Delaware judicial system, the legal issues generally become more complex.</p>
+
+<p>The Alderman's Courts are provided for in the statutory charters incorporating various municipalities throughout the state.  They have very limited jurisdiction over civil and criminal matters.  Litigants usually have the option of transferring their cases to another court.  </p>
+
+<p>For most citizens, the Justice of the Peace Court is the initial point of entry into the Delaware court system.  That court has jurisdiction over civil cases in which the amount at issue does not exceed $15,000.  In criminal cases, the Justice of the Peace Courts have jurisdiction over certain misdemeanors and most non-felony motor vehicle cases.  The individual justices of the peace may act as committing magistrates for all crimes.  Any appeals from the Justice of the Peace Court are taken to the Court of Common Pleas.</p>
+	
+<p>	The Court of Common Pleas has jurisdiction in civil cases where the amount in controversy does not exceed $50,000.  In criminal cases, the Court of Common Pleas has jurisdiction over all misdemeanors in the State except for certain drug-related offenses.  It also hears motor vehicle offenses that are not felonies.  In addition, the Court of Common Pleas holds preliminary hearings in felony cases.  Any appeals are taken to the Superior Court.</p>
+	
+<p>	The Family Court has exclusive jurisdiction over almost all family and juvenile matters.  All civil appeals, including those relating to juvenile delinquency, go directly to the Supreme Court.  Criminal cases are appealed to the Superior Court.</p>
+	
+<p>	The Superior Court is a court of general jurisdiction.  It has original jurisdiction over major criminal matters, including capital murder cases.  It also hears major civil cases except for equity proceedings.  The Superior Court has exclusive jurisdiction over felonies and almost all drug offenses.  The Superior Court's authority to award damages in civil cases is not subject to a monetary maximum.  The Superior Court also serves as an intermediate appellate court for appeals from the Court of Common Pleas, from the Family Court in criminal cases, and from several administrative agencies.  Any appeals from the Superior Court are taken on the record to the Supreme Court.  </p>
+	
+<p>	The Court of Chancery has jurisdiction to hear all matters relating to equity.  Its jurisdiction involves corporate matters, trusts, estates, fiduciary issues, disputes involving the purchase of land and questions of title to real estate.  Any appeals from the Court of Chancery are taken on the record to the Supreme Court.</p>
+	
+<p>	The Supreme Court is Delaware's highest court.  It receives direct appeals from the Court of Chancery, the Superior Court, and the Family Court.  The Supreme Court has original jurisdiction to issue writs of prohibition and mandamus to trial courts.  The Supreme Court also has exclusive authority for licensing and disciplining persons admitted to practice law in Delaware.  The Supreme Court consists of a chief justice and four justices.  As administrative head of the courts, the chief justice, in consultation with the other justices, sets administrative policy for the court system.  </p>
+	
+<p>	For the past four years, the United States Chamber of Commerce has ranked Delaware's courts as the number one state judicial system in the United States.  </p>
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

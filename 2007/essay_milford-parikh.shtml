@@ -1,0 +1,89 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="milfordparikh">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Milford High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/parikh_naomi.jpg">
+         <img src="images/parikh_naomi.jpg" alt="photo of Naomi Parikh" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Naomi Parikh</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+The Right That Lets Me Write This Essay</span></h2>
+
+<p>As the only daughter of Indian immigrants, every right my family and I can obtain in this country is invaluable. However, my First Amendment rights allow me to do so much and impact me everyday in subtle ways that I tend to take them for granted. The right to freedom of speech, religion, assembly, petition, and press has affected not only me, but more importantly, my parents. Freedom of speech, religion and assembly probably present themselves much more in my daily life than the others. However, without all of these rights I don't know where I would be, but I know it probably wouldn't be as great as where I am now.</p>
+
+<p>My parents arrived in this country about one year before my birth. My dad came first to find a job and properly settle down, and my mom followed soon after. As time went by, my dad had the opportunity to meet new people and move up in the workplace. This would not have been possible without our First Amendment rights, as my dad was allowed to voice his opinion and even give advice at times, elevating his status. Coming from India, my parents hoped to keep alive the tradition and culture here in the United States. Having freedom of religion and assembly allowed them to congregate with other members of the community, usually at a temple, and helped ease their transition from India to the States. </p>
+
+<p>As for me, I was born an American citizen, so I did not have to deal with a lot of the immigration troubles my parents had to overcome. I went to school with people from all kinds of different cultures and backgrounds and was able to experience many new things. For this I will always be grateful, because I have a unique opportunity that my parents didn't have. Education is a high priority in my house, so being allowed to voice my opinion in school and debate with the best of the best helped me move higher. I think these rights really came into play when I moved to Delaware in sixth grade. One year later, I was moved into the Honors class. Currently, I am one of two minority students in my U.S. History class, but I can hold my own. Freedom of religion has given me great chances to improve myself. Freedom of the press also affects me, as I am news editor of the high school newspaper. Because I hope to continue working with the paper in college, this right will soon become even more prominent in my life. I know that all these rights will continue to impact me and my family for a long time, and I'm glad for it.</p>
+
+<p>I wonder what would have happened to my parents and so many others without these First Amendment rights. Would they have had the same opportunities? Would I have had the same opportunities? I don't want to find out. If not for these rights, my parents may not have made it as far as they did, which is something I don't want to think about. I'm just grateful for the chances I've had, and I plan to take advantage of every opportunity that comes my way in the future. </p>
+
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

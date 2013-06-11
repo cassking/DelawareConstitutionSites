@@ -1,0 +1,88 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="cabcallowaymcbride">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Cab Calloway School Of The Arts</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/mcbride-tim.jpg">
+         <img src="images/mcbride-tim.jpg" alt="photo of Tim McBride " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Tim McBride </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+The Blessings of Liberty</span></h2>
+
+<p>At the dawn of this new century and millennium, the factors one would choose as key to affecting the strength of the American Democracy in the coming century would be much different than the factors chosen today, seven years later.  During the time that has elapsed America has faced unexpected terror on the morning of September 11, 2001, a global War on Terror, an Invasion of Afghanistan and Iraq, and a resurgence of the religious evangelicals in political power.  After such a drastic and sudden change in our way of life, the issues that are now core to preserving our democracy include maintaining a balance of security and liberty, and a strong separation between church and state.</p>
+
+<p>After any major crisis, in America and elsewhere, it is human nature to respond with drastic and sometimes harsh measures to counter that crisis and to protect the lives and interests of its citizens.  Throughout the 230-year history of America, we have seen this happen as early as the late 1790s with the Alien and Sedition Act, the 1860s' suspension of the writ of habeas corpus, the Espionage Acts during World War I, and the internment of Japanese-Americans during World War II.  Following 9-11 American suspicions and prejudices began to fall upon a certain race and religion; middle-eastern Muslims.  Racial profiling became a common occurrence in airports by both Transportation officials and passengers, and the U.S. Congress passed the PATRIOT Act and warrentless surveillance, which restricted civil liberties in order to protect us from terrorists and terrorist organizations. </p>
+
+<p>The biggest question and fear that arises from this situation is the fact that the War on Terror, the military struggle that these measures were passed under, is an endless one.  Unlike French, British and American conflicts of the late 18th and early 19th century, and unlike WWI and WWII, we are not fighting, this time, a specific enemy that is able to surrender and admit defeat.  This time we are fighting an ideology.  So with this endless struggle for freedom to reign over fear, for justice to rule over cruelty, will the U.S. Constitution slowly be stripped of its sacred rights granted to us by the Bill of Rights?  For Ben Franklin said, "those who would give up essential liberty for a little temporary safety, deserve neither safety nor liberty."  It is necessary for this nation to infringe on civil liberties only on a case-by-case basis, when a "clear and present danger" has been legally established. </p>
+
+<p>Founding Father and the third President, Thomas Jefferson coined the phrase "a [separation] between church and state."  Since then, the wall separating church and state, although at times thin, has been one of the main principles of this nation.  The establishment clause of the First Amendment restricts the government from endorsing any religion in order to protect our freedom to practice any religion of our choice.  In 1980 the "Moral Majority," a coalition of religious evangelicals, helped elect Ronald Reagan to the White House.  But the "Religious Right" has found no greater friend in the White House than George W. Bush.  The question that faces our democracy is, will the religious right's power sustain itself past Bush's term, or will eight years of evangelicals in the White House be too much for the more tempered and tolerant American electorate?  The social conservatives movement is based on theories that date back 50 to a 100 years.  I believe for any democracy to survive, it has to move forward on societal and cultural issues, and if the conservative movement continues to remain prevalent in American politics, then it could mean the slow move away from, at least, the kind of religiously tolerant form of "open" democracy that we know, love and cherish.  </p>
+
+<p>These two factors, the decrease in civil liberties and the increase in the power of the religious right, I believe, are two of the most important issues facing our democracy.  The success of either of these two backward moving principles could seriously threaten, as the Constitution puts it, "the blessings of liberty to ourselves and our posterity."</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

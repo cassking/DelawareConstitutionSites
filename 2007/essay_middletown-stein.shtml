@@ -1,0 +1,100 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="middletownstein">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Middletown  High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/stein-elliot.jpg">
+         <img src="images/stein-elliot.jpg" alt="photo of Elliot Stein" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Elliot Stein</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Free Expression</span></h2>
+
+<p>The morning sun rises over the Atlantic.  It's time for prayer, but to what religion.  In America it could be any religion.  Then the newspaper arrives with headlines that bash the President.  Many readers agree with the paper's words but nothing happens to them.  Finally, many of these same individuals set off with their picket signs to petition their working conditions.  In America all of this is possible because of the First Amendment to the Constitution.  The First Amendment gives Americans the right to free speech, free press, free assembly, and free religion.  As represented above, all of these vital freedoms take place in American citizens lives every day.  If the right to freedom of expression were taken away, it would have the greatest impact on the health of the United States democracy.  Freedom of expression is the most important Constitutional right other than the right to vote.  Life without freedom of expression would be a life of fear and apprehension.</p>
+
+<p>Freedom of expression is essential for the American democracy.  It promotes change and allows people to have a voice in the government.  To start off, the right to freedom of speech permits citizens to say as they wish as long as it does not inhibit others' natural rights.  This promotes the health of the American democracy because if a citizen is dissatisfied, they can voice their opinion.  The citizen can contact a state representative and the issue could be up for discussion on the floor of Congress.  The First Amendment also gives citizens the right to freedom of press and freedom of assembly.  These two are both alternative outlets for society to voice their opinions on political issues and promote change.  The final element of freedom of expression is freedom of religion.  Freedom of religion leads to a healthy democracy because it  provides stability.  Freedom of religion cuts down the amount of religious issues in government and eliminates the need for people to search for an escape from religious persecution.  Freedom of expression is important because it gets the individual citizens involved and it promotes change in a healthy way.</p>
+
+<p>Cold War Russia was a land of fear.  When one word was spoken or printed against the government, death was the result.  Freedom of expression did not exist.  In societies without freedom of speech, the citizens must always look over their shoulder.  They dread saying the wrong thing and losing their life over it.  In a democracy, it is ideal to have freedom of expression.  Without it, it would be hard to keep democratic ways.  No citizens would have a say in the government.  The leaders would decide what is best for them, not what is best for the society as a whole.  Life in an expressionless society would take away every ones rights to life, liberty, and pursuit of happiness.   </p>
+
+<p>If freedom of expression no longer existed in America then many things taken for granted would disappear.  Religion would be forced upon American citizens.  The people could say what they wished.  Also, it would be extremely hard to change or influence what was happening in the government.  A government without freedom of expression is an unhealthy government.  The United States would probably turn into another form of government, most likely a totalitarian society.  Democracy would disappear.  </p>
+
+<p>Freedom of expression has the greatest impact on the health of the American democracy.  It controls change in the government and allows everyone to have a say.  Without freedom of expression it would be hard to even have a democracy.  There would be no voice of the people.  Overall, freedom of expression is essential.  Voice is a necessary part of an active government.   America will thrive for centuries as long as freedom of expression lives on.
+ </p>
+
+
+ 
+ 
+ 
+<cite><a name="reference"></a>References: 
+1. <a href="http://www.archives.gov/national-archives-experience/charters/bill_of_rights_transcript.html">Bill of Rights. Ratified 12/15/1791</a>.
+
+</cite>
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,93 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="spence">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Terrence Spence</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/spence.jpg"><img src="images/spence.jpg" alt="photo   of Terrence Spence" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Terry R. Spence, Speaker of the House, Delaware House of Representatives
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The U.S. Constitution Sets The Framework For A Generation Of Public
+Servants In Delaware</span></h2>
+     
+
+
+
+
+<p>As the longest serving Speaker of the House in the nation, I am honored to have been elected to serve in Delaware's House of Representatives for the past 26 years.  Being an elected member of the General Assembly of Delaware--the first state to ratify the U.S. Constitution--is a position I have never taken for granted and it makes me proud to serve in that capacity.  For me, public service will continue to be my family's legacy, and that is an honor I would not trade for anything.</p>
+	
+<p>	Three generations of Spences have served with the Delaware State Police.  My father, Ernie Spence, spent 20 years as a Delaware State Trooper before retiring as a troop commander.  He also served a term in the State House of Representatives and later as New Castle County Sheriff.  My brother is a former State Police officer with 20 years of service to his credit.  Currently, two of my sons serve with the State Police.  Although I did not pursue the law enforcement career route, I understood, from a very early age, the importance of public service and the rare privilege I have been given to participate in and influence our democratic process.  </p>
+	
+<p>	I first ran for elected office in 1976 in an attempt to unseat an incumbent state senator.  I was not successful that year, but was encouraged by the experience and put what I had learned to good use in 1980 when I won the race for the 18th Representative District.  </p>
+	
+<p>	In 1987, my friend and colleague, Speaker of the House Brad Barnes, unexpectedly passed away.  That sudden, personal tragedy pushed my career as an elected official in a new direction.   I was selected by my House colleagues to replace Speaker Barnes and have proudly served as Delaware's Speaker of the House ever since.  </p>
+	
+<p>	I believe some people are naturally designed for public service.  I would like to think that I am one of those people.  Serving in the State Legislature is an honor that is made possible because of the path set forth long ago as a result of our U.S. Constitution, which has endured the ultimate test of time.  To ensure that our personal liberties, whether they be at the local, state or federal level, are continually pursued and preserved, I am grateful for the opportunity to play even a small part in this grand scheme of state government.  As state legislators, our role is to provide oversight to the functions of state government, as well as develop and shape sound public policy.  On behalf of the citizens of Delaware, I feel fortunate to be able to participate in our democratic process in the Delaware General Assembly.  I am honored to be able to deliberate and make decisions that are aimed at guarding the freedoms and opportunities to which every Delaware citizen is entitled.  </p>
+	
+<p>	Lately, as we are barraged with developing news updates in the Middle East, I am reminded of the gift of freedom and peace we, as Americans, have been given.  Particularly in the face of political and governmental unrest in a foreign land, as with the current Middle East crisis, I am reminded that our democracy--the result of a solid framework established through the U.S. Constitution--is a gift that is earned, coming at a hefty price.  As an elected official in our government, I could not be more honored for the chance to serve the people of Delaware.  It is a privilege I will cherish forever. </p>
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

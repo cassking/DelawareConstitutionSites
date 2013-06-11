@@ -1,0 +1,89 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="smyrnaenglish">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Smyrna High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/thumbs/english-amanda.jpg">
+         <img src="images/english-amanda.jpg" alt="photo of Amanda English" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Amanda English</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+A Call to the People: Factors Affecting the Strength of Our Democracy in the 21st Century</span></h2>
+     
+
+<p>Along with the 21st century comes a new generation of people, a fresh outlook on democracy, and an ambitious hope for the strength of the United States government. In a government created by the people and for the people, it is the sole responsibility of the people of America to strengthen our democracy to its fullest potential. The most important factor affecting the strength of our democracy in the 21st century is the involvement and dedication of the citizens of the United States.</p>
+
+<p>The easiest and most effective way for citizens to become involved in their country is by voting. Voting is a process that only takes a small amount of time, but has a significant effect on our society. The outcome of voting determines changes in the government, including how it will be run and who will lead. It is too often that citizens are not satisfied with the choices of our government. Not only is it essential that citizens vote, but also that they make an informed and educated vote. They must have knowledge of the candidates, their objectives, and current controversial issues in our country and our world. If every citizen expressed their democratic right and responsibility by voting, our government would more directly represent the wants and needs of the people, contributing to the strength of our democracy.</p>
+
+<p>Along with the right to vote, citizens of America also possess the right to voice their opinions in the government. This gives citizens the ability to express their needs and beliefs to government officials and attempt to change our country for the good of our people. Change can be accomplished by speaking to state representatives, writing letters to government officials, and taking part in events that strive to modify laws and individual rights. Citizens are able to do these things in our free country because of rights in the Bill of Rights including the right to assemble, right to petition, right to lobby, and many more.</p>
+
+<p>Despite differences of opinions affecting people in society, the people of the 21st century must come together to make the strength of our government prosper. We must look past our differences and instead focus on what needs to be done to continue the success of our democracy. Democrats, Republicans, and other political party members must come together to resolve issues our country faces, both inside and outside of our borders. Teamwork is the key to strength, stability, and constructive change. </p>
+
+<p>This is a call to the people. A call to the children who will one day run our government. A call to the adults whose teachings will determine the future successes of these children. This is a call to all citizens of America in the 21st century, for it is in their hands that the fate of the United States democracy lies.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

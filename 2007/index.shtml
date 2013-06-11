@@ -1,0 +1,120 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="homepage">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span>
+
+</h1>
+  <h2>  High School Students on <span class="dark">American Democracy and Constitutional Rights </span></h2>
+
+	       <p><img src="images/wethepeople_200x230.jpg" alt="photo of the US Constitution" class="floatLeft"/>
+
+
+
+
+
+
+
+
+<p>Last year was the inaugural year of Widener University School of Law's Constitution Day Essay Program.  
+To launch the program, we asked Delaware government and community leaders to write short essays about the meaning of the Constitution.  
+The response was breathtaking.  Both U.S. senators, Delaware's sole House representative, the governor, the president pro tem of the state Senate, 
+the speaker of the state House, federal and state judges, members of the clergy, the president of the State Bar Association, 
+the chief executive of DuPont, and others all enthusiastically agreed to write essays.  These essays were collected on the Widener 
+website under the heading "The First State Celebrates Constitution Day."   You may view this essay collection by clicking 
+on the link for <a href="http://law.widener.edu/constitution/2006/" title="Constitution Day 2006">The First State Celebrates Constitution Day 2006</a>.</p>
+<p><img src="images/thumbs/thumb_star_142x100.jpg" alt="photo of stars of the American flag"  class="floatRight"/></p>
+<p>This year Widener worked with Delaware public high schools to create a collection of student-authored essays.  
+High school students were asked to write a short essay on one of the following five topics:</p>
+
+<ol>
+	<li>	What do you think will be the most important factors affecting the strength of our democracy in the 21st century?</li>
+
+	<li>	Do you think most Americans fulfill the civic responsibilities necessary for our democracy to flourish?</li>
+
+	<li>	If you could add one amendment to the Constitution, what would it be and why?</li>
+
+	<li>Which constitutional right do you especially value and why?</li>
+
+	<li>	Why should our democracy allow un-elected Supreme Court justices to overturn laws enacted by elected representatives?</li>
+</ol>
+
+
+<p><strong>We are delighted to announce that every school district in the State participated in our program.</strong>  You can click on
+the link for <a href="http://law.widener.edu/constitution/2007/essays.shtml">Essay Collection and Student Authors</a> to get a complete list of the participating districts and high schools.  </p>
+
+<p>Each school used its own process to generate a student essay for our Constitution Day collection.  Consequently, 
+essays were produced by students in different grades and under different circumstances.  Click on the link for 
+<a href="http://law.widener.edu/constitution/2007/essays.shtml">Essay Collection and Student Authors</a> to see the complete collection.</p>
+
+<p>In addition to hosting the website essay collection, Widener held an on-campus celebration for the student authors, 
+their parents, and their teachers on September 16, 2007.  Widener also found leaders in Delaware's government and 
+legal communities - judges, politicians, lawyers, and law professors - who agreed to personally contact a student-
+author to discuss the author's essay.  To see the list of mentors, click on the link for <a href="http://law.widener.edu/constitution/2007/mentors.shtml">The Mentor Program</a>.</p>
+
+<p>Widener wants to express its gratitude to the teachers, administrators, and students who made this year's essay 
+collection possible.  We are especially grateful to members of the Social Studies Coalition of Delaware whose 
+cooperation was vital for making the project a success.  Widener also wishes to thank its immensely
+talented Webmaster, Cassandra King, who designed and constructed these attractive and functional web pages.  </p>
+
+<p>Finally, Widener would like to thank The Constitutional Walking Tour of Philadelphia for donating 100 walking tour 
+tickets to the student participants in this year's essay program.  "The Constitutional" walking tour 
+takes visitors and school groups on a journey through historic Philadelphia, including visits to the
+Liberty Bell, Independence Hall, the National Constitution Center, Betsy Ross House, Franklin Court, 
+and other sites.  For more information about "The Constitutional" and for access to Constitution Day 
+educational resources, please visit <a href="http://www.theconstitutional.com">The Constitutional website</a>.</p>
+
+
+
+<p>Alan E. Garfield<br />
+Constitution Day Project Founder and Coordinator<br />
+Professor of Law<br />
+Widener University School of Law<br /></p>
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

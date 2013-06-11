@@ -1,0 +1,92 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="grumbacher">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Rabbi Peter Grumbacher</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/grumbacher.jpg"><img src="images/grumbacher.jpg" alt="photo   of Rabbi Peter Grumbacher" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Rabbi Peter Grumbacher, Senior Rabbi <a href="http://www.bethemethde.org/" title="Congregation Beth Emeth">Congregation Beth Emeth</a>, Wilmington, Delaware.</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Judaism and The Constitution: An American Dream</span></h2>
+     
+
+
+
+
+
+
+<p>  At my father's funeral the rabbi who delivered the eulogy said, "Ernie taught our family how to be Americans." Pretty amazing considering that my dad had been an "American" for only three years before he served in our armed forces in World War II. A refugee from Nazi Germany who was interred for a few weeks in the Dachau concentration camp, my father enlisted and served his adopted country bravely. Awarded a number of medals including two Purple Hearts, my father was a hero and a patriot. He knew why he had enlisted; he knew what America was to mean to his wife and, hopefully, to the children he hoped to have if he returned safely from the European theater. </p>
+  
+<p>  While he never spoke about his experiences, the fact of his service was omnipresent in our New York apartment. His medals and commendations were proudly displayed on a wall. The combination of his combat heroism and the knowledge of the Holocaust surely made an impression upon me. My choice to enter the rabbinate was no doubt influenced by my desire to serve my People, indeed, to do the best to "preserve" my People in the land that had afforded us the freedom to be, the freedom to worship, as no other country had...and continues to do. </p>
+  
+<p>  To be a rabbi in America means to appreciate both the foundations of Judaism and the foundations of this nation, especially its precious Constitution that has guaranteed that freedom. No less a luminary than George Washington, in his 1790 letter to the synagogue in Newport, Rhode Island, wrote, "It is now no more that toleration is spoken of as if it were the indulgence of one class of people that another enjoyed the exercise of their inherent natural rights, for, happily, the Government of the United States, which gives to bigotry no sanction, to persecution no assistance, requires only that they who live under its protection should demean themselves as good citizens in giving it on all occasions their effectual support." And this was written a year before the First Amendment, which specifically provides for religious freedom, was ratified! </p>
+ 
+<p> "Bigotry" and "persecution" must be guarded against to preserve the soul of our nation. If over two hundred years ago Washington was convinced that America gave that pair "no sanction" and "no assistance," then to learn and know well our history in the intervening generations is the first step for indeed it is apparent that there is no guarantee that his promise will be sustained, nor has been. On the other hand, resting at the root of our precious system is the potential of sustaining his vision. It is vital therefore to work together for the welfare of all "good citizens."</p>
+ 
+<p> The religious community is surely not monolithic. It reflects society in general beyond theological perspectives. Social and political differences abide, yet despite today's apparent wider chasm, needed more than ever is interfaith cooperation on projects common to all faiths. Discussion, education, and, yes, even debate is good for our welfare. They are vital for the health of our nation and consequently for the preservation of the constitutional safeguards that sustain the differences. This is true not only for "minority" faith communities but for all religions represented in America.</p>
+ 
+<p> Our Constitution is unique to the history of humankind; its unique character is what has made our country great. It must be preserved if we want to remain the bastion of democracy.</p>
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

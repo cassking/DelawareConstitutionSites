@@ -1,0 +1,104 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="holliday">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Chad Holliday</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/holliday.jpg"><img src="images/holliday.jpg" alt="photo   of Chad Holliday" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Chad Holliday,  Chairman of the Board and Chief Executive Officer, E. I. duPont de Nemours &amp; Co., Inc.
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Constitution Day: A Celebration of Core Values</span></h2>
+     
+
+
+
+
+
+
+
+<p>The U.S. Constitution was only about 25 years old when DuPont was founded in 1802.  The company's founder, E. I. du Pont, immigrated from France in 1800 with other members of his family and started a business in Delaware to manufacture black powder.  DuPont grew as the nation grew, and the company participated in many of the seminal events in U.S. history.</p>
+
+<p>In a very real sense, the Constitution embodies the core values of the nation.  Freedom, equality, justice, security, and protection are some of the values that emanate from the Constitution.  DuPont grew in a society permeated by such values, and our own core values reflect these Constitutional core values.  </p>
+
+<p>DuPont's core values are safety and health, environmental protection, ethics, and respect for people.  Safety and health reflect our early history as an explosives company, and they continue to be vital to our company today in an era of complex technologies, sophisticated manufacturing, and new products and materials.</p>
+
+<p>Environmental protection acknowledges the potential for our products and processes to have an impact on the resources we share in common, and it underscores our commitment to reduce the potential for that impact to zero.  Increasingly it reflects the proactive work we are doing to make our businesses and products sustainable.</p>
+ 
+<p> Our commitment to ethics is a direct connect to the principles of our Constitution.  The United States is a nation of laws. DuPont has always operated legally and ethically and insisted that employees respect all laws in the conduct of the company's business. As DuPont became a global company, we committed to maintaining the same high ethical standards in our business dealings regardless of where we operate around the world.</p>
+
+<p>And just as the Bill of Rights emphasizes the freedom and protection of the individual, DuPont has always been committed to the fair treatment and well being of people, whether employees, members of the community, or society at large.  DuPont, as a corporate citizen, is dependent on the constitutional safeguards, such as due process and the right to petition for the redress of grievances.</p>
+
+<p>The U.S. system of patents and protection of intellectual property has helped make this country one the great engines of discovery in the history of the world.  Article I of the Constitution speaks directly of the power of Congress "to promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."  </p>
+
+<p>DuPont's first patent in 1804 was signed by Thomas Jefferson and James Madison.  It was for a machine for granulating gunpowder.  We have since won more than 34,000 U.S. patents, including U.S. Patent 7,000,000, awarded to a DuPont scientist earlier this year for a new bio-based material.  </p>
+
+<p>DuPont is a science company relying on chemistry and biology and cutting edge technologies to turn out a steady stream of new products to provide solutions to customer needs around the world.  In today's competitive global economy, that is only possible because our intellectual property is protected.  </p>
+
+<p>DuPont also supports the core values of the Constitution by encouraging our lawyers to be pro-active in the community by educating the public at large and our school children to respect our laws and the judicial system that supports them.  These activities include pro bono representation of needy individuals, sponsorship of legal reforms, working with local students in moot court trial experiences, and working with inner city children to develop an interest in and aspire to become judges, lawyers, paralegals, or members of law enforcement.</p>
+
+<p>Good citizenship embraces both individuals and business entities.  DuPont has been quite fortunate to be able to flourish under our system of ordered liberties, and we continue to respect and foster the rights and obligations embodied in that marvelous Constitution created by our Founders.</p>
+
+	 
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

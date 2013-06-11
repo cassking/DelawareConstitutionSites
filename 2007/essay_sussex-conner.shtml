@@ -1,0 +1,85 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="sussextech">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Sussex Technical High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/conner_kristen.jpg">
+         <img src="images/conner_kristen.jpg" alt="photo of  Kristen Conner" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Kristen Conner</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Fulfilling Our Responsibilities: Ameri-can't, or Ameri-won't?</span></h2>
+     
+
+	
+<p>As President John F. Kennedy once said, "Ask not what your country can do for you; ask what you can do for your country."  Clearly, most Americans have disregarded this amazing man's words completely.  Out of total 221,256,931 Americans at voting age, only 122,294,978 (55.3%) actually voted in the 2004 Presidential election. This shows a lack of interest in the issues facing our country and, ultimately, a lack of involvement in selecting the person who will lead us for the next four years!  The 98,961,953 non-voters are not interested in what they can do for their country; rather, they are more interested in what they can get out of the government they have neglected to help fill with politicians.  Most Americans disregard their civic responsibilities in pursuit of a more laid-back lifestyle, which is a serious problem that must be corrected immediately.</p>
+
+<p>This voting crisis is only the tip of the iceberg.  Of course, Americans must vote to become more involved in their government as well as in choosing who runs our country or makes the laws by which we are expected to abide.  The President has a huge impact on the lives of every person living in this country, and because of this citizens need to take part in his election.  However, there's more to it.  Americans as a whole must pay more attention to key issues.  Part of being a politician is getting feedback on the public's opinion of issues facing the nation, and if the politicians don't receive any then they can't act in the general public's best interest.  Instead, they will be swayed by the lobbyists and political action committees convinced that their way is the right way for all.  Americans must exercise their responsibility to bring about change when something needs reform through petitions, peaceful protests, boycotts, letters to representatives, and emails.  Many people died to bring us our freedoms of speech and expression, so it is our duty as Americans to use them.  Our government is also a form of democracy, which means that Americans are encouraged to participate in it.  Finally, it is not only a form of patriotism but also the obligation of citizens of this great nation to recite the Pledge of Allegiance.  As I look around the classroom and see a small number of students not doing so, I feel hurt inside.  If this is the future of America, what will become of our country?  Finally, Americans must learn from our nation's past to create a better future.  America learned how to prevent The Great Depression and created policies to keep it from occurring again.  In the same way, Americans must apply knowledge of America's past to the present so that it will not make the same mistakes again. The people of America need to step up to keep our nation healthy and the most influential country in the world.  As Americans, we must either support our nation or support changing it.  </p>
+
+<p>People will make any excuse to not vote or write to a Congressman suggesting change: "I don't have the time!" "My gas bill is astronomical!" "I voted last time," and "My vote won't make a difference anyway," are all common excuses.  However, it is important to realize that every vote and every letter will make a difference in some way.  In a world when the new generation comes up disappointing and where the people of America don't do enough to help our government be the best democracy possible, each American must do his or her part to stand apart from the crowd.  It's time to get America back to its feet by voting, stating one's opinion boldly, and remembering one's duty to self and country.  If this lack of involvement continues, America as we know it will cease to exist.  Therefore, we must not ask what our country can do for us; rather, we must take an active role in our government and ask ourselves what we can do for it.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

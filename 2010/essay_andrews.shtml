@@ -1,0 +1,111 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="andrews">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Richard Andrews </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/andrews_200x230.jpg">
+         <img src="images/andrews_200x230.jpg" alt="photo of Richard Andrews  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Richard Andrews 
+      <br />
+Richard Andrews is Delaware's State Prosecutor.
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> Criminal Justice System Under Stress</span></h2>
+
+
+<p>We'd like to believe that the Delaware criminal justice system fairly and efficiently sorts out the guilty from the not-guilty, and that the guilty then receive an appropriate mix of punishment, treatment, and rehabilitation.  This ideal is under threat, and the main culprit is lack of resources.  </p>
+
+<p>   There are too many criminal cases.  There are roughly 10,000 Superior Court (mostly felony) cases per year, and another 60,000 or so misdemeanors and violations handled in the Court of Common Pleas.  There are an additional 275,000 criminal cases in the Justice of the Peace Courts (which except for DUIs are not handled by prosecutors) and 13,500 cases in Family Court.  Prosecutors and public defenders (who represent about 2/3 of the represented defendants) have little time to spend on each individual case.  A Superior Court prosecutor might typically handle 180 cases per year, which works out to about 8 hours per case.  A Court of Common Pleas prosecutor has not hours, but minutes, to spend on each case.  Public defenders have similar caseloads.  The result - there's little or no time for the attorneys to talk to, let alone interview, witnesses.  When an attorney talks to witnesses, the attorney learns things - some times consequential, some times not -- that are not written down in police reports.   When attorneys are resolving cases without having talked to witnesses, the resolutions suffer.  In the Court of Common Pleas, there's generally no time to talk even to victims until the day of trial.  </p>
+
+<p>There is inadequate scientific support.  The State struggles to get DNA results in murder and rape cases.  Most burglaries go unsolved.  Other jurisdictions have seen a significant increase in strong burglary prosecutions when the police routinely take DNA from burglary crime scenes.   Police officers in Delaware generally don't take DNA from burglary crime scenes - they know there aren't enough scientists to analyze the evidence.  Prosecutors know that juries expect DNA evidence, and a case that could have DNA evidence, but doesn't, presents a lesser likelihood of an appropriate conviction.</p>
+
+<p>In the courts, there aren't enough pre-sentence investigators.  About 85% of sentencings in Superior Court, where the most serious cases are prosecuted, are "immediate sentencings."  There is no investigation into what the crime involved, its effect on the victim, or the defendant's background.  The main reason for this is to accommodate the lack of pre-sentence investigators, whose numbers have not increased since the 1970's.  The result is felony sentencings with a median length of about two minutes.  </p>
+
+<p>These are the parts of the criminal justice system that I see every day.  We also know there are probation officers with impossible caseloads.  </p>
+
+<p>It doesn't have to be like this.  The system needs more prosecutors, more public defenders, more staff, more judges, more pre-sentence investigators, more scientists, and more probation officers  -- all State employees.  They cost money  -- more money per employee than the average State employee. Given the State's economic condition, it's  difficult to adequately fund the criminal justice system to give each criminal case an appropriate amount of individual attention.</p>
+
+<p>While there may not be much we can do about the resources available to handle criminal cases, there is some room to attack the problem from the other side - reduce the number of criminal cases!  Or, keep the cases, but reduce their seriousness.  There are, unfortunately, lots of cases in the system that are either overcharged or that should not be in the system at all.   </p>
+
+<p>There's about 3,500 "citizen warrants" a year in the Court of Common Pleas or in Family Court.  These misdemeanor cases are not brought by the police - they're brought by our neighbors, usually against family members or their neighbors.  The conviction rate for these cases is about 32%.  By contrast, the conviction rate in Superior Court is about 84%.  A system that allows someone other than the police or prosecutors to file a criminal charge is not a good system.  The system would benefit if "citizen warrants" were abolished.  </p>
+
+<p>The Department of Justice has long had a "screening function" to review Superior Court arrests before formal charges are filed.  Four senior prosecutors have the full-time assignment of reviewing cases shortly after arrest, with the idea of dropping unprosecutable cases, reducing overcharged cases, resolving lesser felonies that typically involve little or no jail time, and identifying further investigation that needs to be done in the cases that remain.  There has been an increased emphasis on the "resolving lesser felonies" within ten days of arrest.  The crushing caseloads still exist, but they are not as bad as they otherwise would be.</p>
+
+<p>The Department has also supported decriminalizing minor traffic cases (which some other states have done), but proposed legislation to accomplish this failed a couple of years ago.  We still have the occasional jury trial for running a stop sign or speeding.  I doubt that this is a good use of the State's resources.  We are currently exploring alternative ways to reduce the impact of traffic cases on the system.  </p>
+
+<p>Reduced caseloads can't make up for the shortage of scientists, but it does allow the participants in the criminal justice system to resolve cases fairly and efficiently. </p>
+
+
+
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

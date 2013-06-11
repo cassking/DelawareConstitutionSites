@@ -1,0 +1,90 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="ambro">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Thomas L. Ambro</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/ambro.jpg"><img src="images/ambro.jpg" alt="photo   of Thomas L. Ambro" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Judge Thomas L. Ambro, Third Circuit, U.S. Court of Appeals
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Judging</span></h2>
+     
+
+
+<p>	As a judge on the United States Court of Appeals for the Third Circuit, I am often asked what I do.  My reply is simple: I decide disputes.  They involve people and organizations (from corporations to the United States Government), and may touch on nearly any issue you can conceive.  To be more precise, I typically decide with two other colleagues appeals from decisions of federal trial courts (called District Courts) or federal administrative agencies located in my Circuit (Pennsylvania, New Jersey, Delaware and the United States Virgin Islands).  If a losing party does not like our decision, it can ask the United States Supreme Court to decide the matter.  The Supreme Court, however, has the discretion to determine which cases it will hear and decide (currently less than 100 per year).  Thus, courts of appeals are the "end of the line" for over 99% of the cases they decide.</p>
+
+<p>	To aid us in deciding disputes, the parties involved typically have attorneys who represent their interests.  Those attorneys make arguments in documents called briefs (an oxymoron, as these documents are all too often anything but brief).  When requested, they appear before us to answer our questions, and thus help us to understand issues better and to resolve concerns we may have.  </p>
+
+<p>	We are also assisted by our law clerks - typically young lawyers recently graduated from law schools.  They are invaluable in researching the arguments presented and in presenting reasoning for our decisions.  Those decisions - called opinions -- often require many drafts, and in the course of a year this process is repeated for nearly 100 opinions.</p>
+
+<p>	Our opinions are public.  They are available not only to the parties involved and their counsel, but to the world.  Perceived flaws in or disagreements with our reasoning and results come back to us quickly - for example, by petitions for rehearing, petitions to the United States Supreme Court, and articles. </p>
+
+<p>	What does all this mean to the parties who bring their disputes to us?  It is principally this.  We must be fair.  We must not be influenced by any personal views on an issue (those views are perceived as prejudices or biases) and have no other interest (such as a financial stake) in the outcome of the case.  Not only must we avoid being partial, we need to make it appear (within reason, of course) that we are impartial. </p>
+
+<p>	Is that all?  Hardly.  We must  be competent and discerning (the latter is known as judgment).  In addition, we must not take too long in deciding and temper our treatment of litigants by being sensitive to them and their concerns.  </p>
+
+ 
+<p>	A way to look at this is the test suggested by former football coach Lou Holtz, who notes that, when you meet someone, you intuitively ask yourself three questions: "(1) Can I trust you?; (2) Do you care about me?; and (3) Will you do the right thing?".   When asked about judges in resolving disputes, if  the answer to all three questions is yes, the system we call justice is well served.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,97 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="willpenngaribaldi">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>William Penn High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/travers-sarah.jpg">
+         <img src="images/travers-sarah.jpg" alt="photo of Sarah Travers " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Sarah Travers </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Do you think most Americans fulfill the civic responsibilities that they need to fulfill for our democracy to flourish?
+</span></h2>
+
+
+<p>Has the American spirit weakened?  In the United States, they ask us to do three simple things:  vote, serve on jury duty when called, and stay informed.  Voting is once a year, people hardly get jury duty, and staying informed takes maybe fifteen minutes a day of watching the news.  Some people do these three tasks, but many more do not.  Therefore, I think most Americans do not fulfill their civic duties that they need to for our democracy to flourish.</p>
+
+
+<p>In my opinion, voting is a serious issue.  It is a widely known fact that more people vote for American Idol than the president of our very own country.  George Bush is far from the best president we have ever had, but the people who actually vote elected him in office.  It seems like nobody cares when voting time comes around; however when they see the consequences for the country they have something to say.  If you did not vote then you really cannot complain because you didn't voice your opinion in the polls.  So many people hate our War on Terror, but I wonder how many of them actually voted.</p>
+
+
+<p>Next, we have jury duty.  Everyone dreads it, but we need to give everyone a fair trial.  Some people will do anything to get out of this simple task.  They don't feel like watching a trial for a week, they don't want to miss work, and the list of excuses goes on.  What a lot of us don't think about is what happens when we don't take jury duty seriously.  There may be an innocent person on trial for a crime they have not committed.  The jury, who doesn't want to be there, could just say guilty to leave early.  Now that man will suffer.  If we were in that situation, most of us would want a hard-working jury, not a lazy one.</p>
+
+
+<p>Finally, everyone should stay informed.  People should know who is running for political office and what some of their views are.  We should know where Iraq is and why we are there.  The little things like this are what is important.  On television I once saw a show that asked people to point out Iraq on a map, and no one could do it.  This is because in America these days, the only thing people care about is pop culture.  We want to know who just checked into rehab or some other scandal, but couldn't care less that Congress tried to pass a bill affecting the funding of our war that they knew would get vetoed.</p>
+
+
+<p>The exact reason as to why people care less is not clear.  A change must occur soon or else the United States of America will fall apart in the future.  MTV has begun a campaign called "Choose or Lose" and "Rock the Vote".  People watch MTV all the time, so they see their campaign ads.  If more people reach out, we may be able to fix this problem in our society.  </p>
+
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

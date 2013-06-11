@@ -1,0 +1,108 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="essays">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+
+       <h2>Essay <span class="dark">Collection</span><br />
+       <span class="dark">Essays on</span> the Presidency </h2>
+
+
+        
+   
+      
+
+
+<h3>Authors</h3>
+ 
+<p><a href="http://law.widener.edu/constitution/2008/essay_balmer-randall.shtml">Randall Balmer</a>: 
+Randall Balmer is a professor of American religious history at Barnard College, Columbia University.
+He is the author of <em>God in the White House: How Faith Shaped the Presidency from John F. Kennedy to George W. Bush</em>.</p>
+
+<p><a href="http://law.widener.edu/constitution/2008/essay_biden-joseph.shtml">Senator Joseph R. Biden, Jr.</a>: 
+Senator Joseph R. Biden, Jr. has represented Delaware in the U.S. Senate since 1972. He is currently the Democratic candidate for Vice President.</p>
+
+
+<p><a href="http://law.widener.edu/constitution/2008/essay_dupont-pete.shtml">Pete Du Pont</a>: 
+Pete du Pont was the Governor of Delaware from 1977 to 1984 and the State's Congressional Representative from 1971 to 1977.  He was a Republican candidate for President of the United States in 1988.</p>
+
+
+      <p><img src="images/ovaloffice_200x230.jpg" alt="Oval Office" class="floatRight"/>
+      </p>
+
+  <p><a href="http://law.widener.edu/constitution/2008/essay_fennell-drewry.shtml">Drewry Fennell</a>:
+Drewry Fennell has been the Executive Director of the American Civil Liberties Union of Delaware since 2001. </p>
+
+  <p><a href="http://law.widener.edu/constitution/2008/essay_levinson-sanford.shtml">Sanford Levinson</a>: 
+Sanford Levinson holds the W. St. John Garwood and W. St. John Garwood, Jr. Centennial Chair in Law at the University of Texas Law School.
+He is the author of <em>Our Undemocratic Constitution: Where the Constitution Goes Wrong (And How We the People Can Correct It)</em>.
+</p>
+
+  <p><a href="http://law.widener.edu/constitution/2008/essay_lipkin-robert.shtml">Robert Justin Lipkin</a>:
+Robert Justin Lipkin is a professor at Widener University School of Law.
+He is the author of <em>Constitutional Revolutions: Pragmatism and the Role of Judicial Review in American Constitutionalism</em>.
+</p>
+
+  <p><a href="http://law.widener.edu/constitution/2008/essay_margulies-joseph.shtml">Joseph Margulies</a>: 
+Joseph Margulies is a professor at Northwestern University School of Law.  He has played a leading role in coordinating the nationwide litigation challenging the Bush Administration's post-9/11 detention policy.
+</p>
+
+  <p><a href="http://law.widener.edu/constitution/2008/essay_pika-joseph.shtml">Joseph Pika</a>:
+Joseph Pika is the James R. Soles Professor in the Department of Political Science and International Relations at the University of Delaware.
+He is a co-author of <em>The Politics of the Presidency</em>.
+
+</p>
+
+  <p><a href="http://law.widener.edu/constitution/2008/essay_pildes-richard.shtml">Richard H. Pildes</a>: 
+Richard H. Pildes is the Sudler Family Professor of Constitutional Law at  New York University School of Law.
+He is a co-author of <em>The Law of Democracy: Legal Structure of the Political Process</em>.
+</p>
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_main.shtml"-->
+
+
+
+<!-- <!~~#include virtual="/constitution/2008/inc/right_nav_essays.shtml"~~> -->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

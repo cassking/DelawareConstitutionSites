@@ -1,0 +1,89 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="doverpierce">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Dover High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/pierce-kate.jpg">
+         <img src="images/pierce-kate.jpg" alt="photo Kate Pierce" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Kate Pierce</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">A balance of influence</span></h2>
+     
+
+	
+
+<p>	In the world today, citizens of all nations are constantly bombarded by the various forms of media that have developed in the last century. Influence comes from all corners of American life, including televisions, internet, radios, and newspapers. While these sources are criticized for their often biased opinions, thankfully it remains that they cannot be prosecuted. The first amendment freedom of the press acts as a balance against the actions of all government branches, as the public has the means to express their opinions at whichever actions they find substandard. If this constitutional right was removed, it would create the greatest possible change in the efficiency of our current democracy. If the ability to express and protest government decisions through press was eliminated, the United States would lean farther towards dictatorship as media would be controlled primarily by government and/or influential businesses. </p>
+	
+<p>	One of the main problems with the press being held liable for their statements is the potential for government control of released information. If any newspaper or news report could be censored for the opinions it stated, we would not be exposed to nearly as much information as we are now. This amount of information, which often seems overwhelming, assists us to educate ourselves as best we can and then make our own choices based on our findings. If the ability to access different opinions is removed, then it becomes more and more difficult to reach an unbiased conclusion on important worldly matters. This inability would simply escalate to higher and higher levels if a plan of elimination such as this one were enacted.  These problems are related to democracy because a large part of the philosophy of democracy is an informed public. While the ability to vote would still exist to all, people would be voting based on only the information the government chose to expose them to. Voting by an uneducated public creates a lack of diversity in the opinions and beliefs of the people, which undermines many parts of the democratic vote.</p>
+	
+<p>	A ban on free press would also eliminate the balance between people and government. If the public is able to question and challenge, better actions and decisions are more likely to be made by the government. When this process is taken away, the government is essentially free from the checks and balances that the public creates when it is knowledgeable due to an unrestricted press. Our government is more likely to make mistakes when acting without restraint than when educated individuals can bring attention to flaws. </p>
+	
+<p>	Essentially, a removal of free press would undoubtedly be the most detrimental to the democracy of the United States. The nation depends on the feedback from its citizens, and to eliminate many sources of information would mean weaker and less helpful advice. While many members of the media community do not know where to draw the line, this is something that has to be contained as best as possible and accepted. It is well worth the slight annoyance in order to guarantee a society where the people are knowledgeable and the government operates under their educational scrutiny.</p>
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

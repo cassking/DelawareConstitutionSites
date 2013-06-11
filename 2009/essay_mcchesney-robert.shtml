@@ -1,0 +1,112 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="mcchesney">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+     
+<h3>Robert McChesney</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/mcchesney.jpg">
+         <img src="images/mcchesney.jpg" alt="photo of Robert McChesney " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Robert McChesney<br />
+    
+Robert McChesney is the Gutgsell Endowed Professor in the Department 
+of Communication at the University of Illinois at Urbana-Champaign. 
+He is the President and co-founder of Free Press, a national media reform
+organization, and hosts the "Media Matters" weekly radio program every Sunday afternoon on WILL-AM radio. 
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The Death and Life of American Journalism</span></h2>
+
+
+
+
+<p>American journalism is collapsing. Newspapers lay off reporters at an unprecedented rate as big-city dailies are shuttered. Television newsrooms cut back to bare bones, as commercial radio news disappears. Internet sites aggregate what is left of old-media information while producing little that's new. Foreign reporting, science journalism, investigative reporting, and statehouse coverage, to mention but a few areas, are all shrinking faster than the rainforest, with similar consequences for our social ecology.</p>
+
+<p>Every theory of popular government tells us democracy is unsustainable without an informed citizenry and journalism that monitors the powerful. It is taken as a premise in every Supreme Court decision addressing the free press clause of the First Amendment. Yet, the sources of information are drying up, the capacity to monitor is withering.</p>
+
+<p>Conventional wisdom says the collapse of journalism is digitally-driven, that old media just can't keep up with that which is new and free, or that a Great Recession is to blame for declining newspaper advertising revenues. Old media apologists propose to let big media corporations get ever more monopolistic and colonize the Web. New media fantasists tell us to simply count on the bloggers to come through.</p>
+
+<p>This is misleading. It is true that the Internet is undermining traditional media industries, and that news media were eventually going to have a reckoning. It is also true that the economic crisis has devastated ad revenues. But the crisis precedes the Internet and the economic turbulence; rather, it stems from the hollowing out of journalism under corporate control, which has expanded dramatically since the late 1970s. The decline in resources to journalism was already in place by the 1980s and in full flower by the 1990s, long before the Internet had done anything more than hypothetical damage to journalism. Young people stopped reading newspapers long before Craigslist, YouTube and Google. And it was rational to do so, in view of the declining quality of the product.</p>
+
+<p>The problem, in short, is rooted in the longstanding tension advertising-supported, profit-making media and democracy-sustaining journalism. Even at its best, commercial journalism had it flaws as well as its strengths. Now increasingly what we get are the flaws. </p>
+
+<p>The problem before us is that now that Wall Street and Madison Avenue have decided journalism is no longer commercially viable, what do we do as citizens?</p>
+
+<p>It would be nice to think we could lie in our hammocks, mint juleps in hand, and think the blogosphere and the Internet would magically generate the journalism we need. But if we mean by a viable free press, we mean having well-paid experienced journalists in independent and competing newsrooms covering their communities, the nation, and the world, the evidence is already in: the Internet will no more spawn sufficient journalism than will the old media. </p>
+
+<p>Indeed, as the number of journalists collapses, the ranks of public relations operatives expand. These PR agents all quite willing to create technically proficient "news" for us to the benefit of their surreptitious paymasters. At best, the truth will be difficult to ascertain in a blizzard of propaganda and spin; at worst it will be nowhere to be found.</p>
+
+<p>A new system of independent journalism must be created and subsidized by the public if democracy is to survive and prosper. To do this Americans need to look to their own history: Jefferson and Madison and our other founders did not roll the dice and hope rich people could make profits doing journalism so we could have a Republic. Instead, in the first several generations they instituted massive postal and printing subsidies that created the independent newspaper system in the United States. The value of the federal subsidy of the 1840s, for example, in contemporary terms would be roughly $30 billion annually. That is roughly 75 times greater than the current federal subsidy for public broadcasting.</p>
+
+<p>These were brilliant democratic subsidies that gave us quality journalism but also a competitive and uncensored press. We need to do the same today. We need to revamp daily newspapers into independent post-corporate entities, vastly expand funding to public media, and find ways to subsidized nonprofit journalism online.</p>
+
+<p>We are at a critical juncture. We have the technology and resources to create the greatest journalism we have ever had, and deepen and extend our democracy and our freedoms as never before. But we also stand at a precipice; to do nothing pushes into a very dark, turbulent and uncharted territory for an ostensibly self-governing society. </p>
+
+<p>The choice is ours.</p>
+
+
+<p><em>Robert W. McChesney is the Gutgsell Endowed Professor in the Department of Communication at the University of Illinois at Urbana-Champaign. His latest book, with John Nichols, is The Death and Life of American Journalism: The Media Revolution that will Begin the World Again (Nation Books, 29010).
+</em></p>
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

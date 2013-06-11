@@ -1,0 +1,93 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="carper">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Thomas R. Carper</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/carper.jpg"><img src="images/carper.jpg" alt="photo   of Senator Thomas R. Carper" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Senator Thomas R. Carper, State of Delaware
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The Importance of Our Constitution</span></h2>
+     
+
+
+
+
+
+
+
+<p>"We the People."  These three words at the beginning of our Constitution encapsulate the very essence of what makes America so great. By presenting a united front, our Founding Fathers told the world that they stood together when creating this great country. I believe we need to recapture their spirit of unity and to focus our energies on healing the rift that has developed in our current political climate. </p>
+
+<p>Based on their desire to prevent an abuse of power, the Framers created a democracy consisting of three separate branches of government.  The Constitution established a system of checks and balances that empowers each branch to keep a watchful eye on the other two. Admittedly, it's not the quickest form of government, but it has served our country well over the last two-hundred plus years. </p>
+
+<p>Being a relatively small state, Delaware could potentially get lost in the fray of federal policymaking.  This was a fear of the Framers, and it served as the impetus for the creation of our bicameral legislature.  Our House of Representatives allows states with a larger population to have more votes than smaller states.  However, in order to prevent larger states from monopolizing the legislative process, the Framers created the U.S. Senate to provide every state - no matter how small - with the opportunity to be heard with a voice equal to any other state in the nation.  </p>
+
+<p>As your U.S. Senator, this voice allows me to participate in the system of checks and balances.  By developing a legislative process that requires consent in order to pass legislation, the Framers created a way for every Senator to affect change in U.S. Senate.  By forcing each political party to compromise, we ensure that national legislation accommodates the minority viewpoint.  We also confirm judges to the Supreme Court and, if deemed necessary, participate in the impeachment of the President of the United States.  All of these powers allow me to help prevent the balance of power from shifting too far towards a single branch of our federal government.</p>
+
+<p>Despite this needed vigilance, I have never lost my sense of awe at how our Constitution unites us as a nation.  It has held us together when weaker civilizations might have crumbled.  When I first joined the U.S. Navy and again when I was sworn in as a U.S. Senator, I took an oath before God that I will "support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same."  I did not take this oath lightly when I spoke it and those words continue to guide my decisions in the U.S. Senate.</p>
+
+<p>The importance of the Constitution cannot be stated on a single piece of paper.  The proof of its greatness lies in our schools, our hospitals, and in our churches.  It binds us together as a nation yet simultaneously guarantees our freedoms. Each day that I am allowed to serve as your U.S. Senator is another day that God has given me to help ensure that democracy prevails in America.  When they wrote our Constitution, our forefathers put a lot of faith in us. Some two hundred years later, the United States still stands as a beacon of freedom, liberty and democracy around the world.  I believe that our Founding Fathers would be proud.</p>
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

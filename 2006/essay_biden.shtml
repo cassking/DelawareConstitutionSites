@@ -1,0 +1,99 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="biden">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Senator Joseph Biden</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/biden.jpg"><img src="images/biden.jpg" alt="photo   of Senator Joseph Biden" class="floatLeft"/></a></p>
+
+
+       
+       <p class="phototext"> Joseph R. Biden, Jr. has represented Delaware in the U.S. Senate since 1972.</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The Constitution: All of Us Are Responsible For Protecting Her</span></h2>
+     
+
+
+
+
+
+
+<p>One of the most memorable days of my life was my first day as a United States Senator, some 33 years ago.  On that day, my first official act was to recite the oath of office, an oath required by Article VI of the Constitution.  That Article did not require me to swear an oath to support our President, or the State of Delaware, or even our country.  It required that I "be bound, by Oath or Affirmation, to support this Constitution."  I have been bound by that oath now for most of my life, and with every passing year my appreciation for our Constitution's value and wisdom only grows.</p>
+
+<p>We observe Constitution Day not as a reminder of some historical artifact, but to educate ourselves about this foundational text that serves to bind us all together.  George Washington, during his Farewell Address in September of 1796, captured the spirit of Constitution Day. He appealed to Americans to recognize the intimate relationship between the education of our people and the success of our Nation's ambitious experiment in self-governance. "Promote then," he implored, "as an object of primary importance, institutions for the general diffusion of knowledge. In proportion as the structure of government gives force to public opinion, it is essential that public opinion should be enlightened."</p>
+
+<p>The Founding Fathers' positioning of Congress in the first Article of our Constitution reaffirms its status as the branch of government most closely tied to "We the People" whom it serves.  At the same time, our Constitution sets up a system in which power is to be separated and check other power. </p>
+
+<p>And under our Constitution, the Founders envisioned a special role for the United States Senate. There is an often repeated discussion between Thomas Jefferson and George Washington.  At breakfast one morning Jefferson asked Washington why the Constitution created a Senate in addition to the more democratic House.  Washington asked, "Why did you pour that coffee into your saucer?"  Jefferson responded, "To cool it."  Washington then sagely stated: "Even so, we pour legislation into the senatorial saucer to cool it."   The Senate was designed to play this independent, moderating, and reflective role in our government.</p>
+
+<p>James Madison and other Founders were particularly concerned about the majority's ability "to oppress the minority."  In this vein, the Senate was set up "first to protect the people against their rulers; secondly to protect the people against the transient impressions into which they themselves might be led...The use of the Senate is to consist in its proceeding with more coolness, with more system, and with more wisdom, than the popular branch."</p>
+
+<p>The Constitution set up a "different type of legislature" by having Senators serve six year terms - longer terms than even the President - where in any single election only 1/3 of its members can be removed. The Senate is also a body in which each citizen does not have an equal say - each State does.  This means that a Senator from Delaware has the same say in the Senate as a Senator from California, a state over 40 times as populous. This distinctive quality of the Senate was part of the Great Compromise without which the Constitution could never have gotten the consent of the small states.</p>
+   
+<p>   The Constitution also envisions the Senate as a special check on the excesses of the President, most explicitly through the powers to "advise and consent" on key executive and judicial appointments and on the ratification of treaties.</p>
+
+<p>I have come to understand that our constitutional democracy is only as strong as the people it serves. It is our responsibility, as Americans, to ensure that all of us, especially our young people, know about our constitutional system, its importance, and the necessity of actively participating in our self-governance. That's why I am so honored to participate in this Constitution Day program. </p>
+
+
+
+
+
+
+     
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

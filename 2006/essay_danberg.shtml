@@ -1,0 +1,100 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="danberg">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Carl C. Danberg</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/danberg.jpg"><img src="images/danberg.jpg" alt="photo   of Carl C. Danberg" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Attorney General Carl C. Danberg, state of Delaware
+
+</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">TITLE TITLE TITLE</span></h2>
+     
+
+
+
+
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+<p>text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text text text text text text text 
+text text text text text text text text text text text text </p>
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

@@ -1,0 +1,110 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="dupont">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Pete Du Pont</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/dupont.jpg">
+         <img src="images/dupont.jpg" alt="photo of Pete DuPont " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Pete Du Pont<br />
+     Pete du Pont was the Governor of Delaware from 1977 to 1984 and the State's Congressional Representative from 1971 to 1977.  He was a Republican candidate for President of the United States in 1988.<br />
+
+      </p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+ Choosing America's Presidents</span></h2>
+
+
+
+<p>     Every four years the American people vote for a president of the United States. But the selection of our president depends not upon which candidate receives the most election votes, but upon who receives the most Electoral College votes of our fifty states. Article II, Section 1, Clause 2 of the U.S. Constitution requires that:  "Each state shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress." </p>
+
+<p>     Thus each of our states can decide how it will appoint its Electoral College representatives. Today forty-eight of them have chosen a winner-take-all system: whoever wins the popular vote within the state get all its Electoral College votes; the other two (Maine and Nebraska) have chosen to allocate their electors by winners in Congressional districts. </p>
+
+<p>     But there is a National Popular Vote (NPV) effort underway to change the presidential election system, to abandon the Electoral College and instead of the states casting their votes for the candidate who carried their state, they will cast them for the presidential candidate who has the greatest number of national votes. Thus if candidate A carries Delaware, but candidate B carries the country, Delaware's three electoral college votes will go to candidate B. This National Popular Vote plan has been approved by the legislatures in four states, and if enough states agree to participat "with a majority of 270 or more of the 538 Electoral College votes" direct popular vote majority would choose our presidents.</p>
+
+<p>     It is an odd idea, an "interstate compact" agreement switching the Electoral College votes from a state's vote winner to the national vote winner. And the direct election of presidents would be a political,
+electoral, and constitutional mistake that would radically change America's election system.</p>
+
+
+<p>     First, the direct election of presidents would lead to geographically narrower campaigns, campaigns that would be urban focused. In the 2000 election, for example, Al Gore won 677 counties and George Bush 2,434, but Mr. Gore received more total election votes. Circumventing the Electoral College and moving to a direct national vote would mean those 677 largely urban counties would become the core of presidential campaigns, which would change the character of campaigns and presidents.</p>
+
+<p>     Second, in any direct national election there would be significant voting-fraud concerns. In the 2000 Bush-Gore race, Mr. Gore's 540,000 vote margin amounted to 3.1 votes in each of the country's 175,000 precincts.  Finding three votes per precinct in urban areas is not a difficult thing, for as former presidential scholar and President Kennedy advisor Theodore White testified before the Congress in 1970, "There is an almost unprecedented chaos that comes in the system where the change of one or two votes per precinct can switch the national election of the United States."</p>
+
+<p>     Washington State's 2004 Governor's election was decided by just 129 votes. A judge found that 1,678 illegal votes were cast, and it turned out that 1,200 more votes were counted in Seattle's King County than the number of people recorded as voting. This affected just Washington State, but in a national presidential election where everything would hang on a small number of urban districts like King County, such manipulations could easily decide presidencies.</p>
+
+<p>     Third, direct election would ultimately lead to weaker presidencies. There are no run-offs in the NPV plan, for that would require either a constitutional amendment or the agreement of all fifty states and the District of Columbia, so the largest percentage winner, no matter how small, would become president. Thus a 25% or 30% winner in a six or eight candidate field would be in the Oval Office, even though he or she would not have had an Electoral College majority or be seen as a legitimately chosen president.</p>
+
+<p>     Finally, one might ask if NPV is just a first step. If, as California Senator Diane Feinstein says, the Electoral College violates "one person, one vote," doesn't the Constitution's giving of two Senators to each state also violate one person, one vote? Delaware with its 784,000 people gets two Senators and so does California with its 37 million, so Feinstein's logic would conclude that California must have 12 Senators and Maine, New Hampshire, and Vermont, with their combined population of 3 million, should share just one among them.</p>
+
+
+<p>     One wonders if the direct election of presidents is really the beginning of an effort to bring the national government under the control of large, urban oriented states. Common Cause is one of the strongest advocates of this idea, arguing "how neatly it fits with American tradition." But of course it doesn't: it contradicts our constitutional republic's state and federal government's sharing of powers. Choosing presidents is after all one of our state's powers, and we should not remove it to become a centralized, nationalized American government.</p>
+
+
+
+
+     
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

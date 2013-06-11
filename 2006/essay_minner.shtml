@@ -1,0 +1,93 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="minner">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Governor Ruth Ann Minner</h3>
+        <!-- Start Post -->
+      <div class="post2">
+      <p class="photo">
+         <a href="images/minner.jpg"><img src="images/minner.jpg" alt="photo   of Governor Ruth Ann Minner"/></a>
+        </p>
+
+
+	    <p class="phototext"> Governor Ruth Ann Minner,
+	State of Delaware              
+</p>
+	   
+
+      </div>
+      
+	    
+
+
+<h2><span class="title">The Constitution - Anchor of Our Democratic Society</span></h2>
+     
+
+<p>Constitution Day provides an important opportunity to reflect upon the many ways that the United States Constitution continues to shape life in our nation and to remember our core values of liberty, freedom and democracy.  The impact of the U.S. Constitution on the government of the State of Delaware, as a general matter, and the role and authority of its Governor, as a specific matter, is profound.  </p>
+
+<p>The U.S. Constitution sets fundamental ground rules in our federal system.  Through the full faith and credit clause, the privileges and immunities clause, and the commerce clause, it provides for orderly relations among the several states.  It also prevents states from undertaking clearly national endeavors, such as making treaties or coining money.  In other words, the federal system is truly remarkable.  It provides a national government vested with enumerated rights, and individual state governments vested with general jurisdiction and sovereignty.  It allows for a strong national defense and national economy that have secured America's safety and prosperity.  At the same time, it promotes local self-governance and allows individual states, within broad parameters, to provide for their own affairs.  </p>
+
+<p>Delaware, like most other states, has adopted a constitution embodying many of the principles within the U.S. Constitution.  On September 17, 1787, when the Constitutional Convention adopted the U.S. Constitution, Delaware had no independent executive authority.  Instead, Delaware had a President selected by the General Assembly.  With the adoption of its Constitution of 1792, Delaware formed an independent executive branch, with authorities and powers similar (although different in scope) as those held by the President of the United States.   Significantly, two members of the U.S. Constitutional Convention from Delaware (John Dickinson and Richard Bassett) also served in the Convention that adopted Delaware's constitution in 1792.  The organization of Delaware's government was informed by the debates and considerations that went into forming the federal government a few years before.</p>
+
+<p>There are striking similarities in Article II of the U.S. Constitution and Article III of Delaware's Constitution with respect to the chief executive and executive authority.  The U.S. Constitution vests the President with the executive power of the national government, while Article III of the Delaware Constitution provides "the supreme executive powers of this state shall be vested in a Governor."  Each constitution provides for the term, qualification and selection of the chief executive.  The U.S. Constitution establishes the Electoral College and the Delaware Constitution provides for the election of a Governor by the citizens of the state.  Notably, a democratic election of Delaware's Governor has been established since 1792.  </p>
+
+<p>The U.S. Constitution names the President commander and chief of the armed forces and "militias of the several states" while Article III of the Delaware Constitution names the Governor as commander and chief of the state's armed forces not in federal service.  </p>
+
+<p>The U.S. Constitution provides the President the authority to grant pardons and reprieves, and similar authority is vested in Delaware's Governor through Article VII of the Delaware Constitution.  Delaware's Constitution, however, limits the Governor's authority to grant pardons and reprieves of greater than six months to cases where the state Board of Pardons (consisting of five named officials) recommends such a pardon or reprieve.  </p>
+
+<p>The U.S. Constitution provides for the President to appoint officers, including members of the judiciary, while the Delaware Constitution confers similar authority.  Like the President, the Governor has the power to veto legislation after passage by the legislature.  Delaware's Governor also enjoys a power unsuccessfully sought by U.S. Presidents - the power to veto line items in appropriations measures.  A gubernatorial veto is mathematically easier to override than a presidential one - an override of the President's veto requires a two-thirds vote, while a gubernatorial veto in Delaware can be overridden by a three-fifths vote of each house of the General Assembly.</p>
+
+<p>In closing, the constitution has been the anchor of our democratic society.  It has lived with the times and survived all life-threatening challenges.  This day is a reminder of the values set forth within this great document.  Without it, this society would be a group of individuals searching for an identity.  With it, this society has become the greatest country in the world and a model for other nations to follow.</p>
+
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

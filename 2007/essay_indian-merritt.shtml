@@ -1,0 +1,100 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="indianmerritt">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3> Indian River High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/merritt-amanda.jpg">
+         <img src="images/merritt-amanda.jpg" alt="photo of Amanda Merritt" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Amanda Merritt</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+	Democracy in the United States</span></h2>
+     
+<p>Democracies effectively represent their citizens.  The elected representatives display the thoughts, feelings and views of the majority.  For such an influential country like the U.S., the republic needs to be consistently strong.  Recently, the country has been split as a result of political struggles, inaccuracy in the news, and a lack of focus.  Addressing these issues will keep America's democracy intact.</p>
+
+
+<p>Once of the problems affecting our democracy is our government's refusal to act on the most pressing needs of the country.  Congress and the White House focus too much on foreign affairs by meddling in other nation's problems.  Instead, our leaders should focus more on domestic issues.  Making America stronger within will help other countries in the long run by first giving them a good model and secondly, providing us with more resources and knowledge to offer abroad.  Unless there is a direct threat to our country or our allies, America should mind its own business.  By addressing domestic issues now the country will be better prepared for international events that arise in the future.</p>
+
+
+<p>Another major obstacle that is corrupting America's democracy is partisanship within the government.  Instead of the main political parties coming together to discuss issues pertinent to our country, our political leaders make unjustified attacks and disrespectful remarks about those on the other side.  Very little gets accomplished when discussions turn into childish name calling.  Our leaders need to avoid the bickering and work together.</p>
+
+
+<p>Another issue is that candidates tend to form their platforms on the whims of the masses.  As a famous actor once said, "A person is smart, but people are stupid."  The American people tend to become panicky and irrational when "group think" takes hold.  Candidates should instead focus their platforms on strong convictions about what is best for the nation.  By doing so a fickle electorate would actually be safer and better off.</p>
+
+
+<p>Largely to blame for the irrationality of our citizenry is the national news media.  Stations such as CNN report to the liberal left, while stations such as Fox News report to the conservative right.  They twist people's quotes and actions to something that suits their agenda, subsequently distorting the view of the American public.  It is almost impossible to find the facts about an issue or situation without the information being slanted to another's point of view.  What the public needs is balanced reporting in an untainted voice.  This will give the public a legitimate look at the issue so they can form their own opinions using their personal beliefs.</p>
+
+
+<p>America is facing a tough road ahead.  We are coming to a fork in that road and our country will have to choose a path of either successful democracy or a slow decline.  We need our politicians, our citizenry, and our national news media to move this great nation in the right direction to ensure a prosperous 21st Century for America.</p>
+
+
+	
+
+	
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

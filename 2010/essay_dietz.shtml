@@ -1,0 +1,109 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="dietz">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Captain Nancy S. Dietz </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/dietz_200x230.jpg">
+         <img src="images/dietz_200x230.jpg" alt="photo of Captain Nancy Dietz  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Captain Nancy S. Dietz
+      <br />
+ Captain Dietz is a 30-year veteran of the Wilmington Department of Police.  She has commanded the Criminal Investigations Division, the Office of Professional Standards and the Human Resources Division.    She is a graduate of the F.B.I. National Academy, received her BS from Pennsylvania State University and MS from Wilmington University.
+
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> Protecting Our Constitution and Securing Public Safety </span></h2>
+
+
+<p>On August 6, 2010, Wilmington Police graduated a class of 31 recruits.  It was a memorable day for the families, friends, and the new police officers beginning their career in law enforcement.  During the academy, each recruit received over one hundred instructional hours in criminal and constitutional law.   The graduation ceremony was finalized with the official recitation of the Oath of Office which requires each new officer to swear to enforce all state and local laws and support the Constitution of the United States of America.</p>
+
+<p>Those new officers were immediately assigned on the front lines, risking their lives to protect the citizens of Wilmington.   On the first day of their new law enforcement career, two rookie officers chased armed suspects and recovered loaded handguns.  Unfortunately, after only one month on the streets, most of the new officers have witnessed firsthand the tragedy and pain that accompanies gun violence in the City of Wilmington.  </p>
+
+<p>The Second Amendment protects an individual's right to keep and bear arms.  Framers of the Constitution, such as Jefferson and Adams, believed that private ownership and the right to bear arms by a common citizen was essential in protecting democracy.   When our Constitution was created in the 18th Century, many Americans were held in slavery and women were denied equal rights.  Clearly, the principles enshrined in the Constitution have evolved and the courts have provided changing interpretations of the law as society faces new challenges.</p>
+
+<p>Wilmington, like similar municipalities, faces the challenges of gun violence every day.  Opponents of any new gun laws argue against any regulation that alters the protection granted by the Second Amendment.   Responsible private ownership of firearms is not the problem.  The important question is how well do Delaware gun laws protect the rights of all citizens?  Is justice being served by current regulations and do we need to improve the present system?</p>
+
+<p>The courts have found that reasonable regulations of firearms are permitted under the Constitution.  Delaware must consider new laws that address intentional misuse by the criminal element and assist law enforcement in the investigation of gun related crimes.  </p>
+
+<p>Unlike several other states, Delaware does not require firearm owners to report private gun sales.  In a recent federal firearms investigation, a Wilmington detective contacted the purchaser of a Ruger 45 caliber handgun.  A legitimate gun collector originally purchased the firearm in 1992.  The detective tracked the life of that gun through 12 people and 2 gun dealers in a 7 year period. After this period he was unable to prove any further ownership or transfer.  The lack of required transfer documentation negates the responsibility of an individual who sells a gun that may eventually wind up in the hands of a felon.  Mandatory reporting of private gun sales will not prevent gun violence, but it will enhance law enforcement's abilities to investigate a firearm crime.</p>
+
+<p>Stolen firearms that are confiscated by the Wilmington Police make up a large number of weapons that are ultimately used in crimes.  Firearms stolen in burglaries and thefts frequently find their way into the hands of suspects that are arrested in the City of Wilmington.  Currently, Delaware does not require firearm owners to report lost or stolen guns.  Mandatory reporting would provide law enforcement officers with investigative leads and indicators of trafficking and straw purchases (purchases where someone buys a firearm on behalf of a person who legally cannot purchase of possess a firearm).  In addition, reporting laws protect legitimate gun owners by making it easier for police to locate a stolen firearm and return the gun to its rightful owner.</p>
+
+<p>Despite opinions to the contrary, our Constitution is a living document that was intended to safeguard our rights.  It embodies freedom, equality, justice, security, and protection of our nation's core values.  Enacting state gun laws that are reasonable and helpful to law enforcement will not diminish the principles of the Second Amendment and the obligations inferred by the Constitution and its founders.    </p>
+
+<p>Law enforcement is not responsible for enforcing or legislating personal responsibility.  However, mandating firearms reporting laws would surely help identify those who are responsible for pulling the trigger.</p>
+
+<p>Captain Dietz is a 30-year veteran of the Wilmington Department of Police.  She has commanded the Criminal Investigations Division, the Office of Professional Standards and the Human Resources Division.    She is a graduate of the F.B.I. National Academy, received her BS from Pennsylvania State University and MS from Wilmington University.</p>
+
+
+
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

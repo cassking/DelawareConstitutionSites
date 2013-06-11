@@ -1,0 +1,90 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="dupontwingel">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Alexis I. Dupont High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/wingel_kelsey.jpg">
+         <img src="images/wingel_kelsey.jpg" alt="photo of Kelsey Wingel" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Kelsey Wingel</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">The First Amendment; Freedoms and Rights to be Valued</span></h2>
+     
+
+
+ 
+<p>Freedom is a word with many meanings.  Perhaps because it is interpreted so many ways is the reason it is such a challenged idea not only today but also hundreds of years ago.  However, there can be no mistaking our founding fathers definition of freedom and liberty when they created the laws by which the United States is still governed.  Not long before they wrote this document, our country had just gained its freedom from Britain and our leaders wanted to ensure that liberty would always be the foundation which America was built on.  If you take a moment to think about what were the customary ideas and beliefs at that time, you will realize that the writers of the Constitution went out on a limb.  Independence and equality were unheard of.  It would have been extremely easy for the fathers of our country to establish rules similar to the ones in England.  But they unselfishingly didn't.  In fact, they had the First Amendment establish many of the freedoms they were denied in England.  Because of this, I believe that the First Amendment rights are vitally important to America, which is why I value them more than the others.  </p>
+
+<p>One of the main reasons why people moved to the colonies in America was to escape religious persecution in Europe.  They valued their faith so highly that they left their homeland and started a new beginning in an uncertain place full of hardships just so that they could worship their own God.  Americans still have that same respect for their culture and it is as important to many families to pray freely today as it was in the past.  I think that this may be the most important freedom because many people lean on their faith.  If they had to practice something they didn't believe in, then they would have nothing to depend on.  Many people's happiness is rooted in their religion and without it, they would have no consolation or solace in difficult times.</p>
+
+<p>America is called the great melting pot because we have so many types of different people blended into one country.  The First Amendment protects one and all with freedom of speech and the press.  This law is a great gift to America.  We have the opportunity to share our views with all of the United States and not get punished for anything we say, even though our opinion might be offensive toward someone or something.  This power has been used numerous times in campaigns and elections, with each politician trying to sway the American people to their side.  Some of our best leaders have been outspoken people who used the influence of language to win a government position.  Others wrote heated articles in newspapers, which all of the United States could read.  </p>
+
+<p>Laws are something by which the entire world lives by, whether we like it or not.  The First Amendment states that Americans have the ability to change any laws if they like.  They must do this peacefully, however.  Groups of people forming their own armies and attacking the government isn't exactly what our founders had in mind.  But if a person gets enough signatures signed on a petition and sends it to the government, it is possible that they could change a law.  This is a freedom that many countries can't even imagine.  We are extremely lucky that we have this privilege.     </p>
+
+<p>Maybe the only way to truly appreciate these freedoms is to imagine life without them.  Think of an America where we all practiced one religion.  Consider all those amazing voices that couldn't be heard; wonderful opinions that were suppressed.  Envision what our country would be like if we had no say in how it was run.  America would be a much different place indeed.  Without the First Amendment, the United States would be a country with no hope for the future or a better life for its people.  To this day, the First Amendment and American Freedom live on; together.  We owe our liberty and success to both.    </p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

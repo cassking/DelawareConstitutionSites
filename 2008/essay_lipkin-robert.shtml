@@ -1,0 +1,105 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="lipkin">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Professor Robert Justin Lipkin</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">
+         <a href="images/lipkin.jpg">
+         <img src="images/lipkin.jpg" alt="photo of Robert J. Lipkin " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Professor Robert Justin Lipkin
+      <br />
+   Robert Justin Lipkin is a professor at Widener University School of Law.
+He is the author of <em>Constitutional Revolutions: Pragmatism and the Role of Judicial Review in American Constitutionalism</em>.</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Signing Statements and Constitutional Dictatorship</span></h2>
+
+<p>   Legend has it that when General George Washington learned of the plan to offer him the chance to become the first American king, he bristled at the idea and replied disdainfully: "I did not spend seven years waging war against George III only to become George I." Apocryphal or not, one thing is perfectly clear.  Washington stands alone as the exemplar of a revolutionary leader surrendering power that he could have easily retained.  Rather than assume the throne, Washington warned his fellow revolutionaries against creating an American monarchy.</p>
+
+<p>   Five years later, at the Constitutional Convention, the Framers heeded Washington's admonition by creating a government based on the separation of federal powers.  In this system, the powers of the three co-equal branches of government are designed to check and balance each other. The goal of this design was to prevent any branch from arrogating to itself more than its constitutionally authorized share of power. </p>
+   
+<p>   Here's how American lawmaking operates. Congress passes a bill and the president signs or vetoes it. If the bill is signed and challenged, the Supreme Court may strike it down. If the bill is vetoed, Congress may override the veto, but only when a supermajority of congresspersons so desire.  This conception of the presidential role, as an executive not a lawmaker, comports with the Framers' vision of a limited government where no one branch or person is above the law.</p>
+   
+<p>   Signing statements complicate this familiar picture of American lawmaking.  Initiated by President James Monroe, a signing statement serves to alert the public and the executive branch of how the president interprets a law as well as how he wants the law administered.  In the contemporary context of the administrative state, such instruction may be critical to the execution of the law. Nevertheless, signing statements have been used sparingly. From James Monroe through the administration of Bill Clinton, presidents have used signing statements approximately 600 times.</p>
+   
+<p>   Then came President George W. Bush, who has used signing statements as a virtual line-item veto, a device through which the president vetoes particular provisions of a bill that he has signed into law. Because the Supreme Court appropriately has held the line-item veto unconstitutional, President Bush has no recourse to it. However, he has gotten around the Supreme Court's decision by utilizing signing statements. Of course, a signing statement is not identical to a line-item veto. The former preserves the provision for a later president to reinterpret. The line-item veto excises the provision entirely. But if available, both can be used to nullify the current legal effect of a statutory provision.</p>
+   
+<p>   A signing statement permits the president to sign a bill while at the same time expressing his intention not to enforce certain of the bill's provisions.  In the seven-plus years of his presidency, President Bush has used signing statements to challenge the constitutionality of 1,100 provisions, almost double the number of times that all presidents combined have used signing statements. </p>
+   
+<p>   Here is an example of a Bush signing statement, one pertaining to the reauthorization of the Patriot Act. The reauthorized bill expanded the president's powers, but it also created congressional oversight ostensibly to prevent the president from overreaching. This particular signing statement reads: "The executive branch shall construe provisions of [the Act] that call for furnishing information to entities outside [Congress] the executive branch . . . in a manner consistent with the President's constitutional authority to supervise the unitary executive branch and to withhold information the disclosure of which would impair foreign relations, national security, the deliberative process of the Executive, or the performance of the Executive' constitutional duties." As Pulitzer Prize journalist, Charlie Savage, states in his book, Takeover: The Return of the Imperial Presidency and the Subversion of American Democracy, "Bush was claiming that only parts of the bill that expanded his power were constitutional, essentially nullifying the parts of the bill that check those new powers." Congressional oversight was the victim of this signing statement and with it any check on presidential power.</p>
+   
+<p>   The implications of this use of signing statements should be clear. By claiming the authority to reject various provisions of a bill signed into law by a president, the president can, in effect, rewrite the statute without the possibility of either congressional or judicial oversight. If left to stand, the presidency becomes an unchecked power, a constitutional dictatorship. In this regard, the president is not above the law; he is the law. The principle of the separation of power, and its attendant checks and balances, are eviscerated. Furthermore, this abuse of signing statements, in effect, abandons President Washington's noble rejection of monarchical power. </p>
+   
+<p>   How can this abuse of signing statements be remedied? One possibility is to encourage all presidents, in good faith, to refrain from using signing statements in an abusive fashion.  This would require the president to refrain from issuing signing statements designed to nullify essential provisions of a law, especially congressional and judicial oversight provisions.  However, can we rely merely on good faith?</p>
+   
+<p>   Another possibility for preventing abuse is for Congress to pass a law regulating or prohibiting signing statements. However, this throws the baby out with the bath water, and presents a separation of powers problem as well.  Congress is not authorized to regulate the Executive branch by passing laws concerning what a president is permitted to do when signing a bill into law.</p>
+   
+<p>   There is something more problematic about a congressional attempt to prevent the abuse of signing statements. In the limiting case, a congressional remedy faces a catch-22 obstacle.  In signing the remedy, the president can issue a signing statement nullifying the remedy's effect. This dilemma shows how insidious the abuse of signing statements can be.</p>
+   
+<p>   The only remaining remedy is a constitutional amendment, which would prohibit signing statements from having any legal force. Such an amendment, however, would prevent the legitimate use of signing statements. Moreover, amending the Constitution is an onerous prospect.  Only twenty-seven amendments have survived the process in more than two hundred years.  Perhaps encouraging good faith is the only plausible remedy available.  However, good faith is a rather slender shield against constitutional dictatorship.</p>
+
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

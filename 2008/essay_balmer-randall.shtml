@@ -1,0 +1,114 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="balmer">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Professor Randall Balmer</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/balmer.jpg">
+         <img src="images/balmer.jpg" alt="photo of Randall Balmer " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Professor Randall Balmer<br />
+   Randall Balmer is a professor of American religious history at Barnard College, Columbia University.
+He is the author of <em>God in the White House: How Faith Shaped the Presidency from John F. Kennedy to George W. Bush</em>.
+
+      </p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Religious Rhetoric on the Campaign Trail</span></h2>
+
+
+<p>Eight years ago, when George W. Bush declared on the eve of the Iowa precinct caucuses that Jesus was his favorite philosopher, suppose someone had asked a follow-up question. "Mr. Bush, Jesus, your favorite philosopher, invited his followers to love their enemies and to turn the other cheek. How will that guide your foreign policy, especially in the event, say, of an attack on the United States?"</p>
+   
+<p>   Or: "Governor Bush, your favorite philosopher expressed concern for the tiniest sparrow. How will that sentiment be reflected in your administration's environmental policies?" Or: "Jesus called his followers to care for 'the least of these.'  How does that teaching inform your views on tax policy or welfare reform?"</p>
+   
+<p>   For the past several decades, we Americans have evinced more than passing curiosity about the religious views of our presidential candidates. Contenders for the nomination of their respective parties feel obliged to talk about their faith. Throughout the primary season, the media routinely identified Mike Huckabee as a Baptist minister and noted Mitt Romney's Mormonism. John McCain occasionally seems confused about whether he's a Baptist or an Episcopalian, but he's eager for voters to know that he considers himself a religious man.</p>
+   
+<p>   So too with the Democratic candidates. They showed up in churches on Sunday morning in an apparent effort to demonstrate that they, too, are people of faith.</p>
+   
+<p>   But a review of the last forty-plus years suggests that a candidate's apparent piety finds scant expression in his comportment as president. There's little evidence to suggest that John F. Kennedy, the nation's first (and still the only) Roman Catholic to serve as president, inflected his faith into his administration's policies. Ronald Reagan insisted that abortion was the defining moral issue of his time, and he campaigned twice for the presidency promising to outlaw it. Yet, as even his supporters now acknowledge, he made no serious effort to outlaw abortion (and he mentioned the issue not even once in his autobiography of over seven hundred pages).</p>
+   
+<p>   On the other hand, no one could accuse Lyndon Johnson of being a demonstrably pious or religious man. Yet he learned (and sought to live by) a simple maxim that he attributed to his mother: The strong have an obligation to look after the weak. That principle led him, a white Southerner, to push for civil rights, and it also animated his quest for the Great Society. Tragically, Johnson used the same principle to justify American involvement in Vietnam.</p>
+   
+<p>   Billy Graham detected vast reservoirs of faith and piety in his friend Richard Nixon, who hosted worship services in the White House. Probity, however, is not the first word that comes to mind in recalling the Nixon administration. And Bill Clinton's many critics would be justified in pointing out the disjunction between his professions of faith and his conduct in the Oval Office.</p>
+  
+<p>  Arguably, the only exception to this litany proves the rule. Jimmy Carter ran for office promising a government as "good and decent as the American people" and pledging never to "knowingly lie." After he sought actually to govern according to his moral principles- revising the Panama Canal treaties, seeking peace in the Middle East - the American people denied him a second term.</p>
+   
+<p>   Does a candidate's declaration of faith provide any indication of how she or he would govern as president? The past half century suggests strongly that the answer is no. </p>
+  
+<p>  We Americans think of ourselves as a religious people, so it should come as no surprise that politicians clamor to speak the language of faith. Those affirmations turn out to be, more often than not, shallow and perfunctory.</p>
+   
+<p>   But placing the blame on the candidates misses the point. We the voters settle for shallow, perfunctory bromides about faith and piety. We allow candidates to lull us into believing they are moral and virtuous simply because they say they are.</p>
+  
+<p>  At the very least, we should interrogate those claims to see if any real substance lies beneath them. Do the principles the candidates purport to affirm find any expression whatsoever in their policies? Jesus, for example, instructed his followers to welcome the stranger in their midst. How does that teaching affect a Christian candidate's views on immigration?</p>
+  
+<p>  If we're not willing to probe the depth and the sincerity of politicians' declarations of faith, then we shouldn't bother to ask the question. Sadly, the history of the past half century suggests that a president's conduct in office bears little resemblance to his campaign rhetoric.</p>
+ 
+<p>Randall Balmer, an Episcopal priest, is professor of American religious history at Barnard College, Columbia University, and a visiting professor at Yale Divinity School. His most recent book is "God in the White House: A History: How Faith Shaped the Presidency from John F. Kennedy to George W. Bush" (HarperOne).</p>
+
+
+
+     
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

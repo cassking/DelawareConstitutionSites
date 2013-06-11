@@ -1,0 +1,107 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="maurer">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Eugene J. Maurer, Jr. </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/maurer_200x230.jpg">
+         <img src="images/maurer_200x230.jpg" alt="photo of Eugene Maurer  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Eugene J. Maurer, Jr. 
+      <br />
+  Eugene J. Maurer, Jr. has been practicing criminal defense in Delaware for 35 years.  Some of his high-profile cases
+throughout this tenure include State v. Pennell, Delaware's first and only serial murderer, as well as State v. Capano and, most recently, 
+State v. Malinovskaya, a murder prosecution which resulted in three separate hung juries.  Mr. Maurer has also
+taught Criminal Law and Procedure and Trial Tactics at Widener Law School.   He has been named as Delaware's Top Criminal Defense Attorney twice and has merited an AV rating from Martindale-Hubbell.  He has been voted into the American College of Trial Lawyers, a nationwide organization of premier trial attorneys.  A Philadelphia native, he is a graduate of Temple University and Temple School of Law.
+
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> Trial By Jury: Technology's Assault on the Citadel</span></h2>
+
+
+<p>The right of an individual accused of a crime to be judged by an impartial jury of 12 citizens is as inviolate a right as any recognized by our State and Federal Constitutions.  Article I, ¤ 4 of the Delaware Constitution simply provides that "trial by jury shall be as heretofore."  The Sixth Amendment to the United States Constitution similarly states that:  "In all criminal prosecutions, the accused shall enjoy the right to a trial . . . by an impartial jury of the state and district wherein the crime shall have been committed."</p>
+
+<p>As this right has evolved, the law seeks a juror who can be fair and impartial in considering the facts of the case as presented in court and one who does not bring with him or her a preconceived belief that the accused is guilty.  This may be the single largest obstacle a defense attorney must overcome in assuring that his or her client receives a fair trial.  The presumption of innocence that an accused enjoys may be eviscerated before the first juror is ever questioned by a pre-trial barrage of prejudicial publicity engineered by an ever more aggressive media.  Where an accused at one time need only worry about the newspaper and broadcast industries sealing his fate before trial, the availability of the internet has intensified the scrutiny afforded to high-profile cases.  Bloggers not subject to any rules of professional journalism are free to flood the airways with vitriol.  Similarly, television and radio afford a fertile ground for self-styled experts to opine sagely on an accused's guilt while the yet untested evidence that they discuss may never be heard at trial.</p>
+
+<p>The current case of Dr. Earl Bradley, the Lewes pediatrician charged with multiple counts of child sexual abuse, bears stark testimony to this modern trend.  The media frenzy that has accompanied this case assures that hardly a single individual in this State has not already reached a conclusion regarding Bradley's innocence or guilt.  A change of venue 100 miles up the road will not make much of a difference in this situation.</p>
+
+<p>After the judge has selected a jury, he or she will admonish the group to decide the case solely on the evidence presented in the courtroom and not to discuss the case with anyone, read about it, or seek outside information.  A moment's reflection suggests that this is a near-impossibility in today's world.  The availability of Twitter, Facebook, cell phone technology and internet search tools often prove irresistible to deliberating jurors who, in current trials, become as much an object of scrutiny as the defendant himself.</p>
+
+<p>By a click of a button on the computer, a juror may peruse satellite or street views of a  crime scene, secure online information regarding a disputed scientific issue, or reach out to a friend or family member to discuss their experience.  Mistrials have been required where it has been discovered that a sitting juror was commenting electronically on his experiences, using the internet to obtain more information about the case and that which was presented in court, or simply reaching out to a family member on whether the amount of drugs presented in the trial was sufficient to support a conviction of possession with intent to deliver.</p>
+
+<p>All of these technological pressures on potential and sitting jurors threaten the integrity of the trial process and the impartiality of the result.  Like it or not, the trial by jury "as heretofore" envisioned by the framers of our State Constitution no longer exists.  The role of the trial judge in conducting an effective and searching voir dire of potential jurors has become increasingly important in this modern age.  The trial judge must remain ever vigilant to insure that outside, technologically-driven distractions do not distort the jury's search for truth.</p>
+
+<p>Justice Randy Holland of the Delaware Supreme Court has written often and brilliantly regarding the historic and exalted position that the right to trial by jury has played in the history of our citizenry.  It is the job of all of us who work within the system to insulate the process from the ever invasive reach of technology whose primary goal is not the fair and impartial administration of justice but the need to secure customers to increase their circulation.</p>
+
+
+	
+
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

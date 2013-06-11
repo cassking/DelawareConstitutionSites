@@ -1,0 +1,46 @@
+
+    <!-- Right link column -->
+    <div class="floatRight width25 lightBlueBg horzPad">
+
+      <h2>Essay <span class="dark">Collection</span></h2>
+      
+      
+<h3>2008 <span class="dark">Authors</span></h3>
+       
+<ul class="submenu1">
+<li id="balmernav"><a title="Balmer's essay" href="http://law.widener.edu/constitution/2008/essay_balmer-randall.shtml">Randall Balmer</a></li>       
+<li id="bidennav"><a title="Biden's essay" href="http://law.widener.edu/constitution/2008/essay_biden-joseph.shtml">Senator Joseph R. Biden, Jr.</a></li>       
+
+
+<li id="dupontnav"><a title="Dupont's essay" href="http://law.widener.edu/constitution/2008/essay_dupont-pete.shtml">Pete Du Pont</a></li>
+<li id="fennellnav"><a title="Fennell's essay" href="http://law.widener.edu/constitution/2008/essay_fennell-drewry.shtml">Drewry Fennell</a></li>       
+<li id="levinsonnav"><a title="Levninson's essay" href="http://law.widener.edu/constitution/2008/essay_levinson-sanford.shtml">Sanford Levinson</a></li>       
+<li id="lipkinnav"><a title="Lipkin's essay" href="http://law.widener.edu/constitution/2008/essay_lipkin-robert.shtml">Robert J. Lipkin</a></li>       
+
+<li id="marguliesnav"><a title="Margulies's essay" href="http://law.widener.edu/constitution/2008/essay_margulies-joseph.shtml">Joseph Margulies</a></li>
+<li id="pikanav"><a title="Pilde's essay" href="http://law.widener.edu/constitution/2008/essay_pika-joseph.shtml">Joseph Pika</a></li>       
+
+<li id="pildesnav"><a title="Pilde's essay" href="http://law.widener.edu/constitution/2008/essay_pildes-richard.shtml">Richard H. Pildes</a></li>       
+
+    
+       
+      </ul>  
+<!-- 
+<h3>Brandywine <span class="dark">H.S.</span></h3>
+       
+      
+       <ul class="submenu1">
+        <li id="klosawski"><a title="Maciej Klosowski's essay" 
+        href="http://law.widener.edu/constitution/2008/essay_brandywine-klosawski.shtml">Maciej Klosowski</a></li>       
+   
+       
+      </ul> 
+ --> 
+
+
+
+      
+     <br style="clear:both;">
+
+    </div>
+    <!-- Right links column end -->

@@ -1,0 +1,93 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="about">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+  <h2>About <span class="dark">This Constitution Day Project</span></h2>
+
+      <p><img src="images/washington_200x230.jpg" alt="Mount Rushmore" class="floatLeft"/>
+      </p>
+    
+<p>This site was created to give members of the "First State" - and our friends in other states - an opportunity to collectively celebrate Constitution Day.  
+This new national observance is marked each year on September 17, the date the Constitution was signed in Philadelphia in 1787.  Delaware, the first state to
+ratify the Constitution, hopes to once again take the lead by setting an example for how a state can meaningfully celebrate Constitution Day.</p>
+
+<p>But what should we celebrate about the Constitution?  Why, after all, is the Constitution so important for Americans?  What values does it embody?  
+And what role does each of us have in ensuring that the Constitution remains vibrant?</p>
+
+<p>This website provides a forum for us to consider these questions.  This year, and hopefully for many more to come, it will be a place where we can 
+reflect upon the ties that bind us together, and the responsibilities that each of us has to ensure that our ambitious experiment in self-governance continues to flourish.</p>
+ <p><img src="images/IndHall2_200x230.jpg" alt="photo of Indendence Hall" class="floatRight"/>
+      </p>
+<p>The host of this site, <a href="http://law.widener.edu/" title="Widener University School of Law">Widener University School of Law</a>, is the only law school
+in the state of Delaware.  The Law School is fully accredited by the
+American Bar Association and is a member of the Association of American Law Schools.  Widener provides an all-around comprehensive legal education program with 
+special certificates available from its <a href="http://law.widener.edu/Academics/Institutes/HealthLawInstitute.aspx" title="Health Law Institute">Health Law Institute</a>,
+which is consistently ranked among the top 10 in the nation, the <a href="http://law.widener.edu/Academics/Institutes/LawandGovernmentInstitute.aspx" title="Law and Government Institute">Law and Government Institute</a>,
+<a href="http://law.widener.edu/Academics/Institutes/AdvocacyandTechnologyInstitute.aspx" title="Trial Advocacy Institute">Advocacy and Technology Institute</a>, and
+the <a href="http://law.widener.edu/Academics/Institutes/InstituteofDelawareCorporateandBusinessLaw.aspx" title="Corporate Law Institute">Institute of Delaware Corporate Law and Business Law</a>.
+The law school also has another branch in Harrisburg, Pennsylvania.</p>
+
+<p><a href="http://law.widener.edu/Academics/Faculty/ProfilesDe/GarfieldAlanE.aspx" title="Professor Garfield's biography">Alan Garfield</a>, 
+ the Founder and Coordinator of the Constitution Day Project, is a Professor of Law at Widener.
+  He received his Bachelor of Arts, magna cum laude, from Brandeis University, and his Juris Doctorate from UCLA School of Law, where he was a member
+of the <acronym>UCLA</acronym> Law Review and the Order of the Coif.  Professor Garfield writes and teaches in the areas of Constitutional Law, Copyright and Contracts. 
+He recently served as the chair of the Association of American Law School Section on Mass Communication Law.</p>
+
+
+
+ 
+
+     
+
+
+    
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

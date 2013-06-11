@@ -1,0 +1,83 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="mckeannelson">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Thomas McKean  High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/nelson-caleb.jpg">
+         <img src="images/nelson-caleb.jpg" alt="photo of Caleb Nelson " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Caleb Nelson </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+A Return to the "Talented Tenth"</span></h2>
+
+<p>As our democracy continues through the twentieth century new challenges will require a steady stream of qualified leadership. W.E.B. Dubois spoke of a "talented tenth" of the African American population that best led them to equality and beyond. Dubois's principle can be applied today to our American population. Sadly, the "Talented Tenth" does not get a large enough chance as it did in the early days of our democracy. We are losing out on our current Lincolns because someone born in Lincoln's log cabin would not have a chance in modern politics. This is because of the amount of money required to make a realistic run at winning a national office. With millions being spent on campaigns, our richest tenth is leading the nation instead of our "Talented Tenth."</p>
+	
+<p>To help confront the problems of today we need to return to the days when people voted on the most qualified candidate, not the one who spent the most on advertising. In previous elections presidents were able to gain popularity by emerging from humble backgrounds. Andrew Jackson and Abraham Lincoln were loved by the masses because of their connection to log cabins and apple cider. Mention of Lincoln's and Jackson's humble backgrounds proved to people that these people were ordinary citizens. While ordinary citizens, these two also displayed leadership and intelligence, proving them to be in the elite of society.</p>
+	
+<p>We must set limits on how much wealth affects a candidate's likelihood of election. Only by removing this barrier will we be able to identify and elect our nation's "Talented Tenth." When the American population realizes that the ones most fit to lead them are not the richest but those who embody the great leaders of the past, we will be able to return to days of excellent leadership. Only with this great leadership will we be able to conquer the problems of the future, truly grow, and preserve our great national tradition.  </p>
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

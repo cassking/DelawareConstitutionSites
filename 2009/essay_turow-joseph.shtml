@@ -1,0 +1,96 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="turow">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+     
+<h3>Joseph Turow </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/turow.jpg">
+         <img src="images/turow.jpg" alt="photo of Joseph Turow  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author:Joseph Turow 
+      <br />
+  Joseph Turow is the Robert Lewis Shayon Professor of Communication at the University of Pennsylvania's Annenberg School for Communication. He has authored eight books, edited five books, and written more than 100 articles on mass media industries. 
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> Would Jefferson Pay for His Newspaper Online? </span></h2>
+
+
+
+<p>Thomas Jefferson famously said "Were if left to me to decide whether we should have a government without newspapers or newspapers without a government, I should not hesitate a moment to prefer the latter."   In today's world, Mr. Jefferson might have to face another quandary:  Should he pay for his local newspaper online?	</p>
+		
+<p>Figuring out how most Americans will answer this question is a challenge that more than a few big-city newspaper executives face.  They know that their business has changed drastically. Put yourself in their catbird seat of just fifteen years ago:  You run a news-gathering organization that for many decades has provided a city, even a region, with a dependable daily bundle of local, national and international news along with editorial comments, comics, store coupons, and a whole lot more.  Your paper has no direct competition, so you can afford to provide it to readers cheaply in order to offer them to advertisers, who pretty well have to pay what you want them to pay to reach such a large local audience with print ads for neighborhood retailers and classified ads to help them find everything from jobs to cars to yard sales.  It's a great business: You help people learn about their worlds, entertain them, exercise a type of political power, and try to right some wrongs through investigative reports every now and then.  In return, you make a lot of money, about 80% of it from advertising.</p>
+
+<p>Now fast-forward to today.  As an newspaper executive facing a serious economic recession, you feel financial pain because of decisions by local merchants and businesses to save money by eliminating or reducing their newspaper advertising.  You also know that even when the recession lifts much of the money won't return.  The reason?  Many of your advertisers have followed your readers to the internet.  The newspaper's print readership has been declining for decades, but the decline has picked up in the 2000s with the popularity of news on the web.  </p>
+
+<p>While your newspaper's website attracts a large number of readers--sometimes even more than the daily paper--three major difficulties make the current situation really bad.  One is that the advertisers who deserted the paper for the web are finding other ways to reach local audiences--for example, through Google, Yahoo, and email.  Another is that because of this web competition the ad prices newspapers can charge advertisers online per thousand readers are far lower than the amounts they get on the print side.  The third is that the relatively small, but nevertheless important, subscription or per-copy payments that readers pay for the print product don't exist on the print side.  Because of decisions newspaper executives made during the 1990s and probably regret today, the digital paper is simply given away on the web and on your phone.  The result is plummeting revenue: the more the newspaper focuses on the web, the lower its profit margins are likely to be.  For some papers, especially ones with big debts, this downward spiral has already become unsustainable.  </p>
+
+<p>The situation has gotten to the point that executives at some of the biggest papers have urged a rethinking of the basic digital business model.  Find out what people like about the newspapers they look at online, they say, and require them to pay for it.  Cheerleaders for this venture people argue that without it American society will suffer greatly.  Where, they ask, will the great investigative reports come from?  Where will the great editorials about local issues appear?   Certainly, they argue, neither bloggers nor volunteer reporters can play the role newspapers have taken on for two hundred years in keeping people in touch with their society, communities, and democracy. </p>
+
+<p>An argument involving the future of democracy might well induce enough guilt to make some Americans shell out money to support their digital big city newspapers, however begrudgingly.  But there is another perspective.  The newspaper that Jefferson extolled was a fundamentally different product--it looked different and depicted news differently--from the big-city newspaper of today.  Many of the changes were, in fact, good.  Maybe we should see today's challenges as an encouragement to rethink as a society what professional journalism means, why we should care about it, and how it should be supported.  Newspaper companies may still turn out to have the most persuasive solutions for keeping you and me abreast of what we need to know of the world; if so, we should pay for it.  But let's make them show us.</p>
+
+<p>Joseph Turow is the Robert Lewis Shayon Professor of Communication at the University of Pennsylvania's Annenberg School for Communication</p>
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

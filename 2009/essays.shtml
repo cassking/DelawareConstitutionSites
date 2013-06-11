@@ -1,0 +1,127 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="essays">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+
+       <h2>Essay <span class="dark">Collection</span><br />
+       <span class="dark">Essays on The Future of</span>  Local News Reporting </h2>
+
+
+        
+   
+     
+
+
+<h3>Authors: Local Newspapers</h3>
+ 
+
+ <p><img src="images/newsstacks2_200x230.jpg" alt="newspapers" class="floatRight"/>
+
+<p><strong>NEWS JOURNAL: John Sweeney <br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_sweeney-john.shtml">John Sweeney</a>  is the editor of the New Journal's editorial pages. He has previously served as the paper's public editor and local news editor, and is the co-author of "The Journalist's Craft."</p>
+
+<p><strong>EL TIEMPO HISPANO: Gabriel Pilonieta Blanco, Editor<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_blanco-gabriel.shtml">Gabriel Pilonieta Blanco</a>  is the Editor of El Tiempo Hispano, Delaware's only bi-lingual print and online newspaper. El Tiempo Hispano reports on social, educational, political and cultural issues relevant to Delaware's Hispanic community but important to non-Hispanic Delawareans as well. </p>
+
+
+<h3>Authors: Local Commercial Radio</h3>
+
+
+<p><strong>WDEL: Allan Loudell<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_loudell-allan.shtml">Allan Loudell</a> , V.P., Delaware Press Association, is a news anchor--interviewer at 1150 A.M. WDEL Radio, heard 12 Noon--1 p.m. & 4--6 p.m.  He marks 40 years on-the-air.</p>
+<p><img src="images/tvcamera_200x230.jpg" alt="tv anchor" class="floatLeft"/></p>
+      </p>
+
+
+<h3>Authors: Local Broadcasting</h3>
+
+
+
+<p><strong>WHYY: Chris Satullo<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_satullo-chris.shtml">Chris Satullo</a>  is WHYY's Executive Director of News and Civic Dialog. He is the former editorial page editor of The Philadelphia Inquirer and is the founder and director of the Inquirer's Citizen Voices program, an effort to engage readers in deeper political dialogue.</p>
+
+<h3>Authors: Local Media Lawyer</h3>
+
+
+<p><strong>Finger, Slanina & Liebesman: David Finger<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_finger-david.shtml">David Finger</a>  is a partner in Finger, Slanina & Liebesman. He has represented news media, reporters, and other individuals in defamation, freedom of information and related First Amendment and media law disputes. </p>
+
+<h3>Authors: Local Politician</h3>
+
+
+<p><strong>Delaware House of  Representatives: Greg Lavelle<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_lavelle-greg.shtml">Greg Lavelle</a>  is in his fifth term representing the 11th District in the Delaware House of Representatives.  He is a member of the following committees: Economic Development; Banking, Insurance and Commerce; Housing and Community Affairs; Revenue and Finance; and Manufactured Housing.</p>
+
+<h3>Authors: Academic Perspective</h3>
+
+
+<p><strong>University of Delaware: Ralph Begleiter<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_begleiter-ralph.shtml">Ralph Begleiter</a>  is Rosenberg Professor of Communication and Distinguished Journalist in Residence at the University of Delaware.  He has more than 30 years of broadcast journalism experience including two decades as CNN's "World Affairs Correspondent."</p>
+
+<p><strong>Widener University School of Law: Tonya Evans</strong><br />
+
+<a href="http://law.widener.edu/constitution/2009/essay_evans-tonya.shtml">Tonya M. Evans</a> is an Assistant Professor of Law at the Harrisburg Campus of Widener University School of Law.  She is the author of an award-winning series of legal reference guides for writers and publishing industry professionals.</p>
+
+<p><strong>University of Illinois: Robert McChesney<br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_mcchesney-robert.shtml">Robert McChesney</a>  is the Gutgsell Endowed Professor in the Department of Communication at the University of Illinois at Urbana-Champaign. He is the President and co-founder of Free Press, a national media reform organization, and hosts the "Media Matters" weekly radio program every Sunday afternoon on WILL-AM radio. </p>
+
+<p><strong>University of Pennsylvania's Annenberg School for Communication: Joseph Turow <br />
+</strong><a href="http://law.widener.edu/constitution/2009/essay_turow-joseph.shtml">Joseph Turow</a>  is the Robert Lewis Shayon Professor of Communication at the University of Pennsylvania's Annenberg School for Communication. He has authored eight books, edited five books, and written more than 100 articles on mass media industries. 
+ </p>
+
+
+
+     
+  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_main.shtml"-->
+
+
+
+<!-- <!~~#include virtual="/constitution/2009/inc/right_nav_essays.shtml"~~> -->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

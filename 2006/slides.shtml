@@ -1,0 +1,134 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head_slideshow.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body id="slides">
+    <!--//begin Header include//-->
+    <!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+    <!--//end Header include//-->
+    <!--//begin Large Box Menu Top of Page include//-->
+    <!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+    <!--//end Large Box Menu Top of Page include//-->
+    <!-- //#page: holds the page content// -->
+    <div id="page">
+        <!-- //#columns: holds the columns of the page //-->
+        <div id="columns" class="widthPad">
+            <!--// Left column// -->
+              <div class="floatLeft width100">
+                <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+                <h2>Slide Show of <span class="dark">Historical Documents</span> from the Delaware Public Archives</h2>
+               
+               
+               
+               <p style=" margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 0px; text-align: center; border: 1px solid #fff;">
+               <strong>&lt;<a href="javascript:SLIDES.previous()">Previous Image</a></strong> | 
+               <strong><a href="javascript:SLIDES.next()">Next Image</a>&gt;</strong> 
+               <br />
+                <strong><a href="javascript:SLIDES.play()">Play Slide Show</a></strong> | <strong><a href="javascript:SLIDES.pause()">Stop Slide Show</a></strong>
+                </p>
+                <div id="SLIDESTEXT" style="margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 0px; text-align: center; border: 1px solid #fff;">
+                    <script type="text/javascript">
+//<![CDATA[
+<!--
+// For browsers that cannot change the HTML on the page,
+// display all of the text from the slideshow.
+// I place this within the DIV, so browers won't see it
+// if they can change the DIV.
+nodivtext = SLIDES.get_all_text("<li>", "<p>\n");
+if (nodivtext) {
+  document.write("<UL>\n" + nodivtext + "\n<\/UL>");
+}
+//-->
+//]]>
+</script>
+                </div>
+                <p style="margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 0px; padding: 5px; text-align: center; border: 1px solid #ccc;" ><a href="javascript:SLIDES.hotlink()">
+                <img name="SLIDESIMG" src="http://law.widener.edu/constitution/2006/images/slides/Case1Document1.jpg" border="0" 
+                alt="Slideshow image" id="SLIDESIMG" /></a> 
+                
+                <script type="text/javascript">
+//<![CDATA[
+<!--
+if (document.images) {
+  SLIDES.image = document.images.SLIDESIMG;
+  SLIDES.textid = "SLIDESTEXT";
+  SLIDES.update();
+  SLIDES.play();
+}
+//-->
+//]]>
+</script><br clear="all" />
+                <noscript>
+                <hr />
+                Since your web browser does not support JavaScript, here is a non-JavaScript version of the image slideshow:
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case1Document1.jpg" alt="slideshow image" /><br />
+                Sussex County Petition for Paper Currency (circa 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case1Document2.jpg" alt="slideshow image" /><br />
+                John Dickinson's Report from the Annapolis Convention (Sept. 14, 1786)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case1Document3.jpg" alt="slideshow image" /><br />
+                Letter from Charles Thomson stating support of Continental Congress for a Constitutional Convention (February 21, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case1Document4.jpg" alt="slideshow image" /><br />
+                Act of the Delaware House of Assembly to nominate and elect Deputies to attend the Constitutional Convention (February 3, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case2Document1.jpg" alt="slideshow image" /><br />
+                Letter from Charles Thomason, Secretary of Congress, containing the report (the United States Constitution) from the Convention &ldquo;lately assembled in Philadelphia.&rdquo; (September 28, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case2Document2.jpg" alt="slideshow image" /><br />
+                Delaware House of Assembly Resolution calling for the election of delegates to Delaware&rsquo;s Constitutional Ratification Convention (November 7, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case2Document3.jpg" alt="slideshow image" /><br />
+                A Petition to the Delaware General Assembly in support of the ratification of the Constitution (October 24, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case2Document4.jpg" alt="slideshow image" /><br />
+                A Petition to the Delaware General Assembly in support of establishing the Nation&rsquo;s Capital in Delaware (October 24, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case3Document1.jpg" alt="slideshow image" /><br />
+                Act of Congress to establish Government under the new Constitution (September 13, 1788)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case3Document2.jpg" alt="slideshow image" /><br />
+                Letter from Charles Thomson, Secretary of Congress, announcing an Act of the United States Congress to put the operation of the ratified Constitution into operation (September 13, 1788)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case3Document3.jpg" alt="slideshow image" /><br />
+                Receipt for Expenses at the Ratification Convention (December 7, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case3Document4.jpg" alt="slideshow image" /><br />
+                Receipt for Expenses at the ratification Convention (December 7, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case3Document5.jpg" alt="slideshow image" /><br />
+                Receipt for Expenses at the ratification Convention (December 7, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/Case3Document6.jpg" alt="slideshow image" /><br />
+                Auditor of Accounts Waste Book noting state government expenses for the Ratification Convention (December 7, 1787)</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/GeorgeRead2.jpg" alt="slideshow image" /><br />
+                George Read</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/GunningBedfordJr.jpg" alt="slideshow image" /><br />
+                Gunning Bedford, Jr.</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/JohnDickinson.jpg" alt="slideshow image" /><br />
+                John Dickinson</p>
+                <hr />
+                <p><img src="http://law.widener.edu/constitution/2006/images/slides/RichardBassett.jpg" alt="slideshow image" /><br />
+                Richard Bassett</p>
+                <hr /></noscript></p>
+            </div><!--// Left column end //-->
+            
+        </div><!--// #columns end //-->
+    </div><!--// #page end //-->
+    <!--// #content end //-->
+    <!--//begin Footer include//-->
+    <br clear="all" />
+    <br clear="all" />
+    <br clear="all" />
+    <!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+    <!--//end Footerinclude//-->
+</body>
+</html>

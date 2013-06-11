@@ -1,0 +1,66 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="thanks">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+
+<!-- Left column -->
+    <div class="floatLeft width25 lightBlueBg horzPad">
+<!--//begin CONTACT INFORMATION include//-->
+<!--#include virtual="/constitution/2006/inc/contact_information.shtml"-->
+<!--//end CONTACT INFORMATION include//-->
+
+
+
+    </div>
+    <!-- Left column end -->
+
+
+    <!-- Right column -->
+    <div class="floatRight width73">
+
+      <h1>Thank <span class="dark">You!</span></h1>
+
+      <p>
+	Thank You. Your comments regarding The First State Celebrates Constitution Day site have been successfully submitted.</p>
+
+    
+
+
+
+    </div>
+    <!-- Right column end -->
+
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

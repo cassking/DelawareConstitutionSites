@@ -1,0 +1,101 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="ware">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3> Leland Ware</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/ware.jpg"><img src="images/ware.jpg" alt="photo   of Leland Ware" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext">Leland Ware, Louis L. Redding Chair for the Study of Law and Public Policy, University of Delaware.</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Equal Protection and the Fourteenth Amendment</span></h2>
+     
+
+
+
+<p>The importance of the Constitution to all Americans cannot be overestimated. It is the foundation of our representative democracy. The Bills of Rights, 
+and subsequent Amendments, delineate important rights of individual citizens. However, certain provisions of the Constitution have been more aspiration than reality. 
+The Fourteenth Amendment, enacted in 1866, guaranteed all persons "equal protection of the laws." But, more than a century would elapse before the promises of the Fourteenth Amendment were taken seriously. </p>
+
+<p>In 1896, the Supreme Court ruled in Plessy v. Ferguson that segregation laws did not violate the Constitution if the facilities provided for African Americans were "equal" to those reserved for whites. After Plessy, an official regime of white supremacy was imposed. The Fourteenth Amendment was effectively nullified in the South. African Americans were disenfranchised, confined to segregated neighborhoods, and excluded from all but the lowest paying, least desirable occupations. They were separate, but never equal. </p>
+
+<p>African Americans reacted by establishing racial uplift organizations including the National Association for the Advancement of Colored People. In the early 1930s, the NAACP launched a campaign that systematically challenged segregation in the courts. At the outset, an important legal strategy was developed. A direct challenge to Plessy was deferred. Cases would be filed arguing that states operating segregated schools were in violation of the Fourteenth Amendment based on the inequitable distribution of resources. </p>
+
+<p>The NAACP lawyers calculated that if the equality aspect of Plessy's "separate but equal" doctrine were enforced, states would be required to upgrade the black schools making them equal to white institutions. The burden and expense would be too heavy for the southern states to bear. Under the pressure of litigation, segregation would eventually collapse under its own weight. </p>
+
+<p>The first case was filed in the mid-1930s against University of Maryland. As Maryland had not established a law school for African Americans, the Court ordered the university to admit the black applicant. Another case was filed against the University of Missouri in which a similar challenge was presented. The U.S. Supreme Court ordered the black student's admission to Missouri's law school. </p>
+
+<p>The school cases were slowed during the World War II years and resumed after the hostilities were concluded. In 1946, a suit was filed against the University of Oklahoma. The Supreme Court held that Oklahoma was obligated to provide legal instruction to black students. A similar case was filed in Texas and second case was commenced against Oklahoma. The Supreme Court issued decisions in both cases in 1950. In opinions that went beyond physical comparisons, the Supreme Court finally recognized the stigmatic and other intangible injuries that segregation caused. </p>
+
+<p>After the favorable rulings in the Texas and Oklahoma cases, the direct challenge to Plessy was commenced. Six cases were filed in five jurisdictions: Kansas, South Carolina, Virginia, Washington, D.C., and Delaware. The cases were consolidated in the Supreme Court and the 1954 decision in Brown v. Board of Education held that segregated schools were inherently unequal. </p>
+
+<p>The Brown decision sparked the mass demonstrations of the 1950s and'60s. A few months after the Brown decision was issued, historic events unfolded in Montgomery, Alabama. Rosa Parks was arrested after refusing to yield her seat on a bus. In the resulting bus boycott, Martin Luther King emerged as a civil rights leader. After a decade of unprecedented protest activities in the South, and elsewhere, Congress enacted a series of civil rights laws that ended the official regime of white supremacy. </p>
+
+<p>Growing up in Atlanta, Georgia, in the 1960s, I experienced segregation first hand. As the southern states actively resisted school desegregation, a decade after the Brown decision, I attended schools that were still segregated. I have vivid memories of the "whites only" signs that were a ubiquitous aspect of the southern landscape. </p>
+
+<p>Conditions for African Americans are immeasurably better now than they were then.  For those positioned to take advantage of the elimination of Jim Crow laws, tremendous gains have been made in education, employment, and family income. </p>
+
+<p>There are, however, lingering vestiges of segregation that continue to haunt the lives African Americans, especially those residing in inner city neighborhoods. Conditions in those communities are, in many ways, as oppressive as those African Americans endured during the depths of segregation. Their unemployment levels are higher, their neighborhoods are segregated and less safe and their educational opportunities have not improved. The Supreme Court once stated that racial equality requires the elimination of all vestiges of segregation "root and branch." By that measure, the Constitution's promise of racial equality is still a work in progress.
+ </p>
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

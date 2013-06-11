@@ -1,0 +1,84 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="about">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+  <h2>Announcement <span class="dark">September 16th, 2-3pm Constitution Day Program</span></h2>
+
+     
+
+<p>Dear Colleagues:</p>
+
+<p><strong>This Sunday, September 16th, we will be having a Constitution Day
+program</strong> at the law school in which we will honoring a group of high
+school students who wrote essays for this year's Constitution Day Essay
+Collection.<strong>  The program will be from 2:00 to 3:30 pm in the Ruby Vale
+Moot Courtroom</strong>.  Judge Kent Jordan of the Third Circuit will be
+speaking.  A reception will follow the event.</p>
+
+<p>I know that all of you are busy and many do not live close to the
+school.  So please do not feel any obligation to attend this event.  
+Still, if any of you have the time and are willing to come, we would be
+honored by your presence.  We think it will be a fun and inspiring program.</p>
+
+<p>If you're planning to attend, please try to let Connie Sweeney know at
+<a href="mailto:cmsweeney@widener.edu">cmsweeney@widener.edu</a>.</p>
+
+<p>Thank you,<br />
+Alan Garfield</p>
+
+ 
+
+	  
+
+
+    
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

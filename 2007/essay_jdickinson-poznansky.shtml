@@ -1,0 +1,89 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="jdickinsonpoznansky">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>John Dickinson High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/poznansky-michael.jpg">
+         <img src="images/poznansky-michael.jpg" alt="photo of Michael Poznansky " 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Michael Poznansky </p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+American Democracy: We Need All Citizens Involved</span></h2>
+
+
+<p>	Every so often, a tragedy strikes the United States that wakes up citizens nationwide and opens the eyes of people everywhere.  We are constantly asking ourselves, what does it take to make this country flourish and keep our democratic ideals going strong?  Unfortunately, it has become a trend in our society to wait until a catastrophe strikes until citizens really fulfill the civic responsibilities that are absolutely crucial in order for democracy in America to flourish.  Throughout history there have been many instances in which this statement gets validity.  The depression of the 1930's, the war in Iraq, and Hurricane Katrina have all been eye-openers to people in the United States to get up and do something.</p>
+
+<p>	The answer to whether or not most Americans fulfill the civic responses that they need to fulfill for our democracy to flourish is by no means a simple one.  It takes a sense of efficacy within ourselves that we can actually make a difference, and not being naive about the problems that we are faced with.  On October 29, 1929 the stock market in the United States crashed. Prior to the actual crash and beginning of the Great Depression, people did not want to see the economy hurting and turned a cold shoulder to the looming and foreboding future.  When dealing from an economic standpoint, in order for democracy to flourish in this country, everyone has to engage themselves in the economy's status and put those people in office that they feel will do a good job of keeping our country out of a recession and deficit. </p>
+
+<p>	In March 2003, George W. Bush announces the start of the war in Iraq.  One of the reasons that American troops were in the Middle East territory in the first place was because of another tragedy that happened to the United States when passenger airplanes were flown into the World Trade Center towers and the Pentagon.  Unfortunately, up until this point, there was a sense of invincibility throughout the country.  This could not have been more wrong.  It took the death of thousands of people for most Americans to open their eyes and pay more attention to what was going on in the framework of our government.  Democracy in this country is founded upon the people having a substantial amount of power for change as well as the government.  A situation like this finally brought many together to help out one another in communities and fulfill many civic responsibilities that had not been happening prior to 9/11.</p>
+
+<p>	Facing the social problems of our society in a positive light is no easy task and in many instances is forgotten about.  It was almost impossible to close your eyes to one of the biggest natural disasters this country has ever seen.  August 29, 2005 marked the beginning of a new era across the United States when Hurricane Katrina hit the New Orleans area on a scale that no one could predict or imagine.  With thousands and thousands of people killed and thrown out of their homes, it was time for Americans to help one another out and do something.  Although it took longer than many anticipated, the National Guard was sent over to aid in the distress of thousands.  People from everywhere donated food, clothes, money, and many other things to their fellow Americans.  Being informed of the issues concerning the country and lending a helping hand to a neighbor is often a forgotten chore. </p>
+	
+<p>	Democracy in this country cannot flourish unless people fulfill their duties as citizens regardless of a catastrophe like the Great Depression, the Iraqi War, and Hurricane Katrina. Why wait until the country is in danger to be informed of civic responsibilities, and be a part of making democracy in the United States one of the most prestigious and efficient systems in the world.  Every able body citizen needs to fulfill simple duties like voting, helping community members, and being informed in order for democracy to properly work.  If we do not act on the lack of civic responsibility in this country today, we may not continue American Democracy tomorrow.</p>
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

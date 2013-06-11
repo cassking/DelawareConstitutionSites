@@ -1,0 +1,89 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="homepage">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span>
+
+</h1>
+  <h2> The Delaware <span class="dark">  Criminal Justice System  </span></h2>
+
+          <p><img src="images/garfield.jpg" alt="Statue Justice Scales" class="floatLeft"/></p>
+
+
+
+
+<p>   This is the fifth year that Widener University School of Law and The News Journal have collected essays on a topic related to the U.S. Constitution.  We hope that reading these essay collections will help you to honor Constitution Day, a national observance marked each year on September 17th, the date in 1787 when the Framers signed the Constitution in Philadelphia.</p>
+   
+<p>   The theme for this year's essay collection is the Delaware criminal justice system.  We wanted to know how the current system is functioning.  Are those accused of a crime being fairly treated?  Are the interests of the State and of crime victims being adequately respected?  Can we be confident that justice is being served, or do changes need to be made to better achieve that end?</p>
+   
+<p>   To answer these questions, we have solicited essays from judges, prosecutors, defense attorneys, scholars, a police captain, a crime victim, and an ex-offender.  The result is a potpourri of essays on a variety of topics.  You will find descriptions of how the current system works, observations about what's right or wrong, and suggestions for improvements.</p>
+   
+<p>   Of course, all other civil liberties pale in comparison to the basic human right of not being deprived of liberty except for just reasons and only after a fair process.   Yet creating a criminal justice system that is fair and efficient is easier said than done.   </p>
+
+<p>If nothing else, it's expensive.  You need judges, prosecutors, defense attorneys, forensic experts, translators, law enforcement officers, and prison wardens to make the system work.  But what politician wants to ask for more money for criminal justice when there's not enough for education or healthcare?</p>
+
+<p>Still, whether properly funded or not, our criminal justice system needs to keep prosecuting those accused of crimes.  For certainly another basic human right is for citizens to feel safe and secure within their own communities.</p>
+<p><img src="images/statuescales_200x230.jpg" alt="Statue Justice Scales" class="floatRight"/></p>
+<p>So there lies the challenge.  We want to keep people safe by punishing criminals.  But we also want a scrupulously fair process to ensure that innocent people are not imprisoned.   And we have only limited resources to do both.</p>
+
+<p>It's not easy.  But we must strive to achieve both ends.  For as Judge Learned Hand once observed, ""If we are to keep our democracy, there must be one commandment: Thou shalt not ration justice."  </p>
+
+
+
+<p>Alan E. Garfield<br />
+Constitution Day Project Founder and Coordinator<br />
+Professor of Law<br />
+Widener University School of Law</p>
+
+
+
+
+
+<br /> &nbsp;<br /> &nbsp;<br /> &nbsp;<br /> &nbsp;<br /> &nbsp;
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_main.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

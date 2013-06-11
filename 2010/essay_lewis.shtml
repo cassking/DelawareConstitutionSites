@@ -1,0 +1,107 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="lewis">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Patricia Dailey Lewis </h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/lewis_200x230.jpg">
+         <img src="images/lewis_200x230.jpg" alt="photo of Patti Lewis  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Patricia Dailey Lewis
+      <br />
+Deputy Attorney General Patricia Dailey Lewis is the Director of the Family Division at the Delaware Department of Justice,
+responsible for Juvenile Delinquency, Domestic Violence, Child Abuse, Child Protection and Child Support matters. 
+She is also an Adjunct Professor at Widener University School of Law.
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> The Constitution and Delaware's Children </span></h2>
+
+
+<p>The Constitution is working to protect our children. From the juvenile charged with a criminal offense, to the child who is dependent, neglected or abused in the custody of their parents, children have enjoyed expanding constitutional rights, requiring Courts to consider the individual rights of children in the criminal and civil justice systems, providing greater protection to children</p>
+
+<p>The child in the criminal justice system as a defendant enjoys virtually identical rights to those of adults. In Delaware most juveniles charged with criminal offenses have their cases heard in Family Court. Juveniles are entitled to independent counsel and are entitled to have that counsel appointed if they are unable to retain counsel. Only juveniles with significant criminal histories, or those charged with the most serious offenses are charged and/or proceeded against as adults. The Delaware Department of Justice carefully analyzes the circumstances before charging a child as an adult, or seeking to have a serious repetitive juvenile offender treated as an adult. Juveniles charged as adults for the most serious offenses, where the law requires charging as adult in the first instance, such as first degree murder, are entitled to a "reverse amenability hearing" where the Court will evaluate the individual circumstances of the case as well as those of the juvenile defendant.  </p>
+
+<p>Where children have extensive or serious histories in the juvenile system, the state may seek to transfer the child to the adult system. In order to accomplish this the state must seek and be successful in an amenability hearing before proceeding against a child as an adult; a proceeding where the Court weighs the seriousness of the allegations, the likelihood that the child may be amenable to the primary rehabilitative processes of the juvenile justice system. </p>
+
+<p>Recently, the Family Court, working with the Delaware Department of Justice and the Office of the Public Defender, established a juvenile "Gun Court" in Delaware. The purpose of this gun court was to address a consistent complaint of the community that the most dangerous juveniles were back out on the street shortly after being arrested with a gun. Now, the cases move much more quickly and more uniformly through the Court and the consequences are imposed swiftly to enhance the safety of the community and get the juvenile into the appropriate facility. The cases in the juvenile system generally move much more quickly than in the adult system. The Family Court has also established, like the adult system, a drug court and a mental health court program to address the specialized needs of those defendants, most importantly in the context of juvenile justice, providing appropriate rehabilitative services to juvenile delinquents in an effort to keep them from becoming the adult defendants of tomorrow. </p>
+
+<p>Perhaps the most significant change affecting the constitutional rights of children in the Courts has been the substantially increased effort to protect the rights of children in the child welfare system.  When I began practicing law 25 years ago children removed from their parents custody and placed in foster care often lingered years and years in the system going from foster home to foster home, many never enjoying the benefits of a safe loving permanent family. Not surprisingly we see so many of those children as adult defendants in the criminal justice system.  </p>
+
+<p>In the past fiscal year nearly 800 children found abused, neglected or dependent in the child welfare system in Delaware were represented by either the Office of the Child Advocate, by a volunteer attorney Guardian ad litem, or by a volunteer from the Court Appointed Special Advocate program. The expansion of the representation of these children has enhanced our ability to protect their constitutional rights.</p>
+
+<p>Recent cases of mass victimization of children demonstrate that we have to work harder to protect the constitutional rights of child victims of abuse. The creation of the Family Division at the Delaware Department of Justice, is the first of its kind in the nation- working to insure that the rights of children are protected at all levels of the criminal and civil justice systems and to insure coordination of  cases and programming. The Child Predator Task Force is working to protect our children and their rights in the most invidious forms of abuse and exploitation. We are working to better utilize the Children's Advocacy Centers insure that the multi-disciplinary approach to the investigation and prosecution of child abuse cases protects our children. It is our responsibility to protect all children and their rights. Our future demands it.</p>
+
+
+<p>Deputy Attorney General Patricia Dailey Lewis is the Director of the Family Division at the Delaware Department of Justice, responsible for Juvenile Delinquency, Domestic Violence, Child Abuse, Child Protection and Child Support matters. She is also an Adjunct Professor at Widener University School of Law.</p>
+
+  
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

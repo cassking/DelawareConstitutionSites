@@ -1,0 +1,114 @@
+<!--#include virtual="/constitution/2009/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="lavelle">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2009/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2009/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2009</span></h1>
+
+     
+<h3>Greg Lavelle</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/lavelle.jpg">
+         <img src="images/lavelle.jpg" alt="photo of Greg Lavelle " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Greg Lavelle<br />
+Greg Lavelle is in his fifth term representing the 11th District in the Delaware House of Representatives.  He is a member of the following committees: Economic Development; Banking, Insurance and Commerce; Housing and Community Affairs; Revenue and Finance; and Manufactured Housing.
+
+
+      </p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">More News - And News Sources - Is Good News </span></h2>
+
+
+
+
+<p>If it is true, as former U.S. Speaker of the House Tip O'Neill stated, that all politics is local, then surely the future of local news reporting should be important to all elected officials and hopefully the citizens we represent.</p>
+
+<p>As a state representative, I certainly believe that local news reporting is critical to the success of our community.  While national and international debates rage on, they usually  seem well beyond our ability to influence them.  Alternatively, the consideration and enactment of state or local laws, the selection of a school superintendent, the progress or lack of progress on the building of public infrastructure or the opening of a local business are all important events that we have the opportunity to influence.  It makes sense that we should be aware of and participate in these activities to an extent that is reasonable and practical.  At the risk of stating the obvious, if we are unaware of these events, our ability to participate in them goes away.</p>
+
+<p>How these events are covered and by whom are certainly relevant questions.  With the explosion of alternative and new media outlets, in addition to traditional media sources, the news consuming public has never had so much information available to them.  Newer media outlets are not limited to web-based news sources, but also in the form of local and ethnic community papers which increasingly are filling a market niche.  Without a doubt, many websites are "news" delivered with a strong opinion, but information is available on many of these sites.  Community and ethnic newspapers are growing and expanding and often drill down to a local level that traditional news organizations have not covered in the past.  </p>
+
+<p>Perhaps it is a result of the massive amount of news - and opinion - that is now available to us that we can feel overwhelmed and possibly under informed at the same time.  Consumers of news, whether local, national or international, must filter what they see, read and hear.  They must consider the facts presented (and the facts omitted) along side their own opinions and outlooks.  This is really nothing new but perhaps it is more challenging given the volume and speed of news reporting.</p>
+
+<p>All this said, the theme of this year's essay might leave one with the impression that the future of local news reporting is in jeopardy.  Being a glass half full kind of person, I don't think this is the case at all.  Just like any other business, the news business - and the need to make money in any business  - is changing, challenging and competitive.  </p>
+
+<p>Recent economic conditions and growth of technology have presented a real challenge for traditional news outlets in the past few years.  I am well aware that news staffing has been reduced locally (and nationally) as a result of these changes.  This begs the question, and it is not a surprising question given the "public support" given to so many businesses and industries over the past year, should similar direct public support be given to news gathering organizations as they weather these changes?  One could argue that government supports many industries in the name of jobs, so why not one more?</p>
+
+<p>My response would be an unequivocal NO.  In my opinion, such support would be a direct assault on the First Amendment.  The last thing I would want to see in the halls of Dover or Washington, are "consultants" from and for the media pressing for support and tax dollars.  The scenarios surrounding such activity shouldn't need elaboration and immediately raise the question of who would cover that news story.</p>
+
+<p>At the end of the day, in a democracy, how could more news possibly be a bad thing?  Our news options should not be spoon fed to us nor should we be starved.  It is our challenge and responsibility as citizens in a democracy to understand what is available to us, make choices from those options and form our own opinions after careful consideration.  </p>
+
+<p>Like exercise, it isn't always fun but it is necessary and hopefully we feel better and are better off as a result of the effort.  
+<br />_____________________________________________________________________</p>
+
+<p>Greg Lavelle is in his fifth term representing the 11th District in the Delaware House of Representatives.</p>
+
+
+
+
+ 
+
+
+
+
+     
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2009/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2009/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

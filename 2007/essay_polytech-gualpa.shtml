@@ -1,0 +1,85 @@
+<!--#include virtual="/constitution/2007/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="polytechgualpa">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2007/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2007/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2007</span></h1>
+
+     
+<h3>Polytech High School</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/gualpa-wilson.jpg">
+         <img src="images/gualpa-wilson.jpg" alt="photo of Wilson Gualpa" 
+         class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> 
+	   Student Author: Wilson Gualpa</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">
+Democracy: It's In Our Hands</span></h2>
+     
+
+<p>Throughout United States history, it has gotten involved in many wars to "promote and maintain democracy", like WWI, WWII, the Korean War, the Vietnam War, and the present day Iraqi war.  Some of these efforts have been more successful than others. Each war causes the deaths of thousands of our men and women in the military. It's ironic that the country that is trying valiantly to spread democracy has one of the lowest voter turnout rates in the world. The country trying to spread democracy is the country where its citizens don't exercise their democratic powers to the fullest. Americans are taking democracy for granted and aren't fulfilling the civic responsibilities needed for democracy to flourish. </p>
+
+<p>Voting is the cornerstone of democracy. Voting allows American citizens to have a voice in their government, yet voter turnout continues to stay around the 50% mark in almost every presidential election.  For example, in 2004 it was 55%, in 2000 it was 51%, and in 1996 it was only 49%. This goes to show that only about half of eligible voters are fulfilling their most important civic responsibility despite huge voting drives that take place each year. For example, the 2004 Vote or Die campaign registered many voters but didn't significantly affect the turnout rate. By voting for their representatives, senators and president, American citizens can shape the government and have their voice heard, which is rare in the world. Unlike other countries where democracy does not exist and all decisions for the country are made by a dictator, our citizens have a chance to voice their opinions.  Citizens in these other countries are often put in jail or even executed if they do so. American citizens don't consider this on Election Day, when they are to "busy" to fulfill one of their few and most important responsibilities as a citizen. In contrast, when the government does something citizens don't approve of, like cut government programs or send more troops to war, the citizens that didn't vote have the nerve to complain. Only citizens that vote have the right to complain about the government. If citizens don't vote, then they lose the right to complain because they didn't express their concerns about the government when they had the chance to on Election Day.  These citizens have no right to complain because they let other people choose the government. If citizens want change then they need to vote so they can let their voices be heard. </p>
+
+<p>There are other civic responsibilities Americans fail to fulfill to the fullest like their responsibility to serve on a jury. Jury duty is an important part of America's legal system, because it allows citizens to be tried by a jury of their peers, which the sixth amendment guarantees. Yet when jury duty notices arrive people complain and often don't serve. Citizens try everything to avoid jury duty like saying they're sick or make up any excuse to be exempt from it. People don't even register to vote because that is the way names are pulled for jury selection. This problem caused the system to change and also pick names from distributed licenses. The system had to be changed just because people attempted to avoid their civic responsibility of jury duty. </p>
+
+<p>In conclusion, in order for democracy to continue to flourish in this great country, citizens need to stop taking democracy for granted and start making greater efforts to fulfill their civic duties. Citizens need to make a better effort to participate in the country's legal system and to be the best juror they can be so the legal system can function. Citizens need to go out and register, and on Election Day vote. Since the 2008 presidential election is around the corner, people should start to look into candidates and find one that shares their view for the country's future. Citizens need to go out and vote to change the deplorable turnout rates and set an example to the world on how democracy, if supported by the citizens and government, can help a country flourish and prosper, as it has done in the past in the United States of America. </p>
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2007/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2007/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

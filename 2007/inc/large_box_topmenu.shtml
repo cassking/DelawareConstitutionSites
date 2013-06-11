@@ -1,0 +1,26 @@
+ <!-- #menu: the main large box site menu -->
+  <div id="menu" class="width">
+
+    <ul>
+      <li>
+        <a title="Essays" href="http://law.widener.edu/constitution/2007/essays.shtml" onfocus="blur()">
+          <span class="title">Essay Collection</span>
+          <span class="desc">Participating Schools</span>        </a>      </li>
+      <li>
+        <a title="U.S. Constitution" href="http://law.widener.edu/constitution/2007/mentors.shtml"   onfocus="blur()">
+          <span class="title ">The Mentor Program</span>
+          <span class="desc style3">Meet the mentors</span>        </a>      </li>
+    <li>
+        <a title="U.S. Constitution" href="http://law.widener.edu/constitution/2007/constitution.shtml"   onfocus="blur()">
+          <span class="title ">U.S. Constitution</span>
+          <span class="desc style3">A Living Document</span>        </a>      </li>
+      <li>
+        <a title="Contact Us and Participate" href="http://law.widener.edu/constitution/2007/participate.shtml" onfocus="blur()">
+          <span class="title ">Participate</span>
+          <span class="desc">your turn</span>
+        </a>
+      </li>
+    </ul>
+
+  </div>
+  <!-- #menu end -->

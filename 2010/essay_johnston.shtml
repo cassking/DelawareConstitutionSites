@@ -1,0 +1,111 @@
+<!--#include virtual="/constitution/2010/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="johnston">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2010/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2010/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2010</span></h1>
+
+     
+<h3>Mary Johnston</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/johnston_200x230.jpg">
+         <img src="images/johnston_200x230.jpg" alt="photo of Mary Johnston  " 
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Mary Johnston 
+      <br />
+The Honorable Mary Miller Johnston is one of 19 Judges on the Delaware Superior Court.  Appointed in 2003, Judge Johnston presides at jury trials statewide, in both criminal and civil cases. 
+  
+</p>
+
+           </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title"> Serve on a Jury - You Won't Regret It </span></h2>
+
+
+
+<p>	People often pull me aside in a panic and anxiously ask: "I just received a summons for jury service - how do I get out of it?"  Uniformly, these are persons I know and respect.  They have common sense and valuable life experiences.  I would want them on my jury panel.  The parties would be lucky to have them deciding their cases.</p>
+	
+<p>	One response would be to explain that the system of justice in the United States is the envy of the world.  One of the main reasons is the Constitutional guarantee of trial by jury.  There is something almost magical about the collective wisdom of 12 individuals.  </p>
+	
+<p>	Upon becoming a judge, I have to say I was skeptical about the ability of 12 strangers, with completely different educational backgrounds, lifestyles, and disparate cultural heritage, to agree on anything - let alone resolve issues that drastically affect lives.  However, after 7 years on the bench, it still amazes me that (with very few exceptions), juries simply get it right.  </p>
+	
+<p>	Why does the jury system work?  I don't have the answer, but I have a couple of hunches.  First, people basically want to do the right thing.  They do their very best to put aside their personal inclinations and biases to reach a fair decision.  When I speak with juries after trial, they always want to know: "Did we do the right thing?"  Of course, the only correct answer is that the jury's decision is, by definition, the right one.  Jurors have told me that even though they didn't like a certain party, or a specific attorney, they made their decision based on the facts presented, intentionally ignoring the negative impressions.</p>
+	
+<p>	Second, in my experience, Delaware jurors are not easily fooled.  (I am told that jurors in other states are not as reliable, but I cannot speak to that.)  Attorneys make a huge mistake by underestimating the intelligence of jurors.  Just because a juror doesn't have a lot of formal education, doesn't mean that he or she isn't analytical and well-informed.  (My dairy-farmer grandfather, who only had an eighth-grade education, was one of the smartest people I ever knew.)  During deliberations, 12 people seem to be able to separate fact from fiction.  </p>
+	
+	
+<p>	Without a doubt, jury service is inconvenient.  It is time spent away from family and other obligations.  The proceedings seem to move very slowly - nothing like court television.  There are unexplained breaks and down-time.  The monetary compensation barely covers lunch.  Sometimes, it is clear that deliberations have been difficult and contentious.  It is serious business - not a form of entertainment.</p>
+	
+<p>	After the dust has settled, those very same people who want to "get out of it" can't seem to wait to tell me about their experiences.  Uniformly, the bottom line is that they are glad they sat on a jury.  While not exactly fun, jurors agree that it gave them a much better feel for how justice is achieved.  They realize that if they or their loved ones are involved in a legal matter, they would want the jury to take their own cases seriously and to exercise utmost care in reaching fair and just conclusions.</p>
+	
+<p>	It is easy to forget how fortunate we are to be protected by our Constitutional rights.  A few years ago, my female judicial colleagues and I joined a group of women from Afghanistan on a tour of the women's prison.  Through their translator, they asked to see the room "where confessions are extracted."  We were speechless.  I'm not sure they believed us when we told them that not only was there no torture chamber, but that such confessions would be inadmissible in court.  Fortunately, the idea of state-sponsored coerced confessions in Delaware is unthinkable.  </p>
+
+<p>	I have never heard anyone say that they are sorry they were part of a jury.  The United States and Delaware jury system is very special indeed.  Our rights are protected only when each citizen steps up and joins the process.  </p>
+	
+<p>	Give it a try - you won't regret it!				</p>
+
+
+		
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+<br /> &nbsp;
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2010/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2010/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

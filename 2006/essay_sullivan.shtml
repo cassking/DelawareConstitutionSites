@@ -1,0 +1,111 @@
+<!--#include virtual="/constitution/2006/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="sullivan">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2006/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2006/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2006</span></h1>
+
+
+      
+<h3>Lawrence Sullivan</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       <a href="images/sullivan.jpg"><img src="images/sullivan.jpg" alt="photo   of Lawrence Sullivan" class="floatLeft"/></a></p>
+
+      
+	    
+	    <p class="phototext"> Lawrence Sullivan, Public Defender of the State of Delaware</p>
+
+	        </div>
+      <!-- End Post -->
+       
+
+
+<h2><span class="title">Defending the Poor</span></h2>
+     
+
+
+
+
+
+<p>The Preamble to the United States Constitution makes it clear that one of its central purposes is the establishment of justice in America: </p>
+
+<p><blockquote>
+We the people of the United States, in order to form a more perfect union, establish justice . . . ., do ordain and establish this Constitution for the United States of America.
+</blockquote></p>
+
+<p>Establishment of our American justice system required not only the establishment of a court system but an enumeration of the rights of American citizens in those court systems. The enumeration of those rights in the federal Constitution can be found in the "Bill of Rights."   </p>
+
+<p>The Sixth Amendment to the United States Constitution guarantees that: "in all criminal prosecutions the accused shall ... have the assistance of counsel for his defense." While not always as popular as the First Amendment rights to freedom of religion and freedom of speech, the Sixth Amendment guarantees are no less important.  Both protect citizens against wrongful government action.  </p>
+
+<p>In its 1963 landmark decision, Gideon v. Wainwright,  372 U. S. 335, 344 (1963),   the United States Supreme Court interpreted the Constitution of the United States and held that the states were responsible for funding the constitutionally guaranteed right of an indigent defendant to counsel in criminal cases, because the right to counsel is "so fundamental and essential to a fair trial." </p>
+
+<p>The State of Delaware's response to Gideon v. Wainwright was the enactment of state statutes creating the Office of the Public Defender. The first Public Defender, James Kelleher, Esquire was appointed in 1964, and served a six year term until I was appointed in 1970. Since then, I have been reappointed five times. </p>
+
+<p>As Delaware's Public Defender, I and my attorneys are responsible for providing legal representation to those persons who have been accused of crimes but who cannot afford to hire an attorney. The day to day cases of Defenders range in seriousness from petit theft to capital murder where our clients are on trial for their lives, as Prosecutors seek to put them to death. </p>
+
+<p>Defenders represent indigent clients from the time of their arrest through their trial, and on such appeals "as the Public Defender determines are in the interest of justice." In that regard, we have appealed countless times to the Delaware Supreme Court, and to the Supreme Court of the United States four times, where we won three times.  </p>
+
+<p>When we won in the United Stares Supreme Court we thereby created "the law of the land" which meant that every court, State or Federal, in every state was then bound to follow the law arising from our successful appeals to the United States Supreme Court.  </p>
+
+<p>Delaware's Public Defender's Office goes beyond the simple representation of defendants in court. Not only do our clients lack sufficient resources to hire an attorney, many have serious problems in their lives beyond their criminal charges, such as addiction, mental health issues and unemployment. </p>
+
+<p>We have developed ancillary functions and services such as those of our Psycho-Forensic Evaluators who determine whether defendants have such disabilities that they should be diverted from the system and be placed in treatment and/or rehabilitative settings. We also have Mitigation Specialists who work on Capital Cases in an effort to keep our clients from being sentenced to death. </p>
+
+<p>In response to the fact that sixteen percent (16%) of our clients suffer from mental or emotional illness, our Psycho-Forensic Evaluators, Mitigation Specialists and trial lawyers worked to establish Mental Health Courts in both the Court of Common Pleas and Family Court. Mental Health Courts are venues where judges, prosecutors and defenders, experienced in mental health issues, handle criminal cases involving mentally ill defendants. </p>
+
+<p>In addition to our Psycho-Forensic Evaluators and our Mitigation Specialists, we established a Forensic Services Unit to address the advances in science in criminal investigations. The unit is comprised of two nurse practitioners, one of whom is a trial lawyer, and a Masters Level Forensic Scientist who is also a trial lawyer with five years experience as a Forensic Investigator in the Medical Examiner's Office. </p>
+
+<p>Delaware's Office of the Public Defender was recently recognized nationally when the American Bar Association named our office to be the 2006 recipient of the prestigious Charles H. Dorsey Award which recognizes exceptional work by Public Defenders.</p>
+
+
+
+
+
+	  
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2006/inc/right_nav_essays.shtml"-->
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2006/inc/footer.shtml"-->
+<!--//end Footerinclude//-->

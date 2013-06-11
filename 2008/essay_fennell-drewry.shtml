@@ -1,0 +1,98 @@
+<!--#include virtual="/constitution/2008/inc/doctype_head.shtml"-->
+<!--//end Doctype and head include, leave space on top for parsing//-->
+
+<body id="fennell">
+
+<!--//begin Header include//-->
+<!--#include virtual="/constitution/2008/inc/header_righttopnav.shtml"-->
+<!--//end Header include//-->
+
+<!--//begin Large Box Menu Top of Page include//-->
+<!--#include virtual="/constitution/2008/inc/large_box_topmenu.shtml"-->
+<!--//end Large Box Menu Top of Page include//-->
+
+
+
+
+ <!-- //#page: holds the page content// -->
+  <div id="page">
+
+
+    <!-- //#columns: holds the columns of the page //-->
+    <div id="columns" class="widthPad">
+
+
+    <!--// Left column// -->
+    <div class="floatLeft width73">
+
+      <h1>The First State Celebrates <span class="dark">Constitution Day 2008</span></h1>
+
+     
+<h3>Drewry N.  Fennell</h3>
+       <!-- Start Post -->
+      <div class="post2">   
+
+         <p class="photo">       
+         <a href="images/fennell.jpg">
+         <img src="images/fennell.jpg" alt="photo of Drewry N.  Fennell "
+         class="floatLeft"/></a></p>
+
+      
+       
+       <p class="phototext"> 
+      Author: Drewry N.  Fennell<br />
+  Drewry Fennell has been the Executive Director of the American Civil Liberties Union of Delaware since 2001.
+
+      </p>
+
+           </div>
+      <!-- End Post -->
+
+
+
+<h2><span class="title">The Presidency Under the Unitary Executive Doctrine</span></h2>
+
+
+
+
+<p>Over the last century, the office of President has assumed increasing power, re-aligning our constitutional system of checks and balances to empower the presidency at the expense of the other branches of government.  Since the 1803 Supreme Court decision in Marbury v. Madison, our government has operated under the rubric that the judicial branch is the final arbiter of the laws passed by Congress and administered by the executive branch, but abuses of presidential power over the last hundred years have distorted the dynamic tension among the branches of government.</p>
+
+<p>During World War I, President Woodrow Wilson, made an unprecedented grab for presidential power, and ordered his attorney general, Mitchell Palmer, to take whatever steps were necessary to drive radicals, socialists and anarchists out of the country. During the Palmer Raids, tens of thousands of suspected radicals were detained without trial. Some were deported; many more were eventually released; and only a few were successfully prosecuted.  About the raids, Palmer said, "I apologize for nothing the Department of Justice has done in this matter; I glory in it."  Palmer's protege, a young attorney named J. Edgar Hoover, eventually became director of the FBI.  During his 48 year tenure, the government spied on targets of Sen. Joseph McCarthy's communist witch hunts in the 1950's and mounted lurid dirty tricks campaigns against Martin Luther King, Jr .and other political figures in the 1960's, creating more than 500,000 FBI investigative files on "subversives" from 1960 to 1974, not one of which yielded a conviction.</p>
+<p>By the 1970's, the ruinous conduct of the Vietnam War and the revelations surrounding the Watergate scandal exposed unchecked abuses of executive power by the Nixon administration. In 1975, Senator Frank Church chaired hearings that revealed widespread political spying operations by the CIA, FBI and other executive branch agencies.  The committee uncovered domestic spying operations in every administration from Roosevelt to Nixon, and Congress passed legislation to curtail executive power, especially in the area of domestic surveillance.
+</p>
+<p>This inhibition of presidential power frustrated White House officials, and almost immediately, proponents of strong executive power advanced the unitary executive doctrine, arguing that all three branches of government have the power to construe the Constitution, and that the executive branch could independently determine the limits of executive power.  The Bush administration has taken this argument to new extremes, and supports a radical new view of executive power.  Their view is that, once Congress passed the Authorization for Use of Military Force in response to the events of 9/11, all decisions relating to the response to terrorism are for the President alone to make, reducing the other two branches of government to advisory status.  Under this reading of the Constitution, the President has the authority to overrule both Congress and the courts, and interpret the Constitution, laws, and treaties of the United States as he sees fit in any matter related, even tangentially, to the war on terror.  The result has been unlawful detentions at Guantanamo, illegal wiretapping by the National Security Agency, secret surveillance of peace groups, mass interception of consumer phone records, and a refusal to abide by the torture ban passed by Congress.
+</p>
+<p>This same message of presidential supremacy is contained in hundreds of signing statements President Bush has attached to legislation.  In past administrations, signing statements were rare and the few that were issued served mainly as an attempt to have the last word in the legislative record.  In contrast, President Bush' signing statements have challenged more than a thousand provisions of federal law, not just on issues of national security, but whenever the White House believes that legislation may encroach on presidential prerogatives, reserving the right to ignore Congressional directives on any function within the executive branch.  His signing statements do more than claim the power to interpret or execute the law; they reject major provisions of the bills he signs.   Rather than vetoing a ban on torture, President Bush held an elaborate White House signing ceremony, and simultaneously issued a signing statement reserving to the right to violate the ban in order to "combat terrorism" at his sole discretion.</p>
+
+<p>Although past presidents have charted a trajectory of increasing presidential power, the Bush administration has added an insistent, sometimes belligerent, rejection of the historical standard of judicial supremacy in favor of unilateral executive authority.  Our next President and Congress must ensure that the balance of power envisioned by the founders of our nation is restored to the government of the United States.
+</p>
+
+
+
+
+
+
+
+    </div>
+    <!--// Left column end //-->
+
+<!--//begin right nav include//-->
+<!--#include virtual="/constitution/2008/inc/right_nav_essays.shtml"-->
+
+
+
+<!--//end right nav include//-->
+
+
+    </div>
+    <!--// #columns end //-->
+
+  </div>
+  <!--// #page end //-->
+
+</div>
+<!--// #content end //-->
+
+<!--//begin Footer include//-->
+<!--#include virtual="/constitution/2008/inc/footer.shtml"-->
+<!--//end Footerinclude//-->
