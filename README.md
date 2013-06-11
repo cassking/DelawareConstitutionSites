@@ -5,7 +5,7 @@ Every year, Widener Law launches a site commemorating September 17, Constitution
 
 UPDATE
 -------------------------
-You can see screenshots of each years theme and each site:
+You can see screenshots of each year's theme and site:
 * [The First State Celebrates Constitution Day 2006] (https://github.com/cassking/DelawareConstitutionSites/blob/master/2006.png)
 * [The First State Celebrates Constitution Day 2007] (https://github.com/cassking/DelawareConstitutionSites/blob/master/2007.png)
 * [The First State Celebrates Constitution Day 2008] (https://github.com/cassking/DelawareConstitutionSites/blob/master/2008.png)
